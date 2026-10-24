@@ -22,24 +22,45 @@ Este repositório reúne o Trabalho de Graduação (TG) em formato de portfólio
 2. [Trajetória nos Projetos Integradores](#trajetória-nos-projetos-integradores)
 3. [Estrutura do repositório](#estrutura-do-repositório)
 4. [Índice detalhado do portfólio](#índice-detalhado-do-portfólio)
-5. [Repositórios de código por PI](#repositórios-de-código-por-pi)
-6. [Aplicações e materiais online](#aplicações-e-materiais-online)
-7. [Arquivo compactado para entrega](#arquivo-compactado-para-entrega)
-8. [Proteção de dados e itens não publicados](#proteção-de-dados-e-itens-não-publicados)
+5. [Aplicações e materiais online](#aplicações-e-materiais-online)
+6. [Arquivo compactado para entrega](#arquivo-compactado-para-entrega)
+7. [Proteção de dados e itens não publicados](#proteção-de-dados-e-itens-não-publicados)
 
 ---
 
 ## Currículo resumido
 
-- **Formação anterior:** técnico em Administração; graduação em Publicidade e Propaganda; MBA em Marketing Estratégico (Universidade Anhembi Morumbi, 2024).
-- **Formação em dados:** CST em Ciência de Dados para Negócios (Fatec Votorantim, 2024–2026). No curso, desenvolvi seis Projetos Integradores, da modelagem de negócio à engenharia de dados, à modelagem preditiva e a uma solução governada, com foco em visualização de dados e em problemas de relevância social.
-- **Formação complementar:**
-  - Programação em Python e Microsoft Power BI (SENAI Sorocaba)
-  - Trilha Fundamentos do Power BI, Introdução à Análise de Dados com Power BI e LGPD (Fundação Bradesco)
-  - Intermediate SQL (DataCamp)
-  - Big Data e Internet das Coisas e Marketing Digital (Uniglobo)
-- **Produção acadêmica:** comunicação oral no I Simpósio de Ciência de Dados das Fatecs (maio de 2026).
-- **Ferramentas:** Python (pandas, scikit-learn, XGBoost, Streamlit), SQL, Power BI, Google BigQuery, Looker Studio, Databricks (Unity Catalog, MLflow, Databricks Apps) e GitHub.
+### Formação acadêmica
+
+- Técnico em Administração
+- Graduação em Publicidade e Propaganda
+- MBA em Marketing Estratégico — Universidade Anhembi Morumbi (2024)
+- Curso Superior de Tecnologia em Ciência de Dados para Negócios — Fatec Votorantim (2024–2026)
+
+### Trajetória em Ciência de Dados
+
+Durante a graduação, desenvolvi seis Projetos Integradores, percorrendo diferentes etapas do ciclo analítico: compreensão de problemas de negócio, visualização, extração, transformação e análise de dados, além de experimentação com modelos de aprendizado de máquina. Os projetos também envolveram o uso de dados públicos para investigar questões de relevância social e a organização de processos de dados com atenção à governança e à privacidade.
+
+### Formação complementar
+
+- Programação em Python e Microsoft Power BI — SENAI Sorocaba
+- Fundamentos do Power BI, Introdução à Análise de Dados com Power BI e Lei Geral de Proteção de Dados (LGPD) — Fundação Bradesco
+- Intermediate SQL — DataCamp
+- Big Data e Internet das Coisas e Marketing Digital — Uniglobo
+
+### Produção acadêmica
+
+- Trabalho apresentado no I Simpósio de Ciência de Dados das Fatecs, em maio de 2026.
+
+### Ferramentas e tecnologias
+
+| Área | Ferramentas |
+|---|---|
+| Programação e análise de dados | Python, Pandas, Scikit-learn e XGBoost |
+| Visualização e aplicações | Power BI, Looker Studio e Streamlit |
+| Banco de dados e processamento | SQL, Google BigQuery e Databricks |
+| Governança e experimentação | Unity Catalog e MLflow |
+| Versionamento de código | Git e GitHub |
 
 ## Trajetória nos Projetos Integradores
 
@@ -105,17 +126,6 @@ Cada pasta de PI tem um arquivo `Link_Github.txt` com os links do repositório d
 | Pasta | Conteúdo |
 |---|---|
 | [Slides_PPTX](04_Apresentacao_Banca/Slides_PPTX) | Slides da apresentação para a banca. O Video_Demo_Deploy sugerido pelo Manual não foi gravado. |
-
-## Repositórios de código por PI
-
-| PI | Repositório | Observação |
-|---|---|---|
-| PI I | https://github.com/cdn-grupo7/projetoGrupo7 | Repositório do Grupo 7 com a primeira entrega (Hortopedia, nome inicial da PlanTech); não há código neste PI |
-| PI II | não há | O arquivo-fonte do dashboard está em `PI2_Visualizacao/Dashboard_PowerBI` |
-| PI III | não há | O notebook está em `PI3_Analise_I/Codigo` |
-| PI IV | https://github.com/MayKobayashi/PI4-Violencia-Mulher-DDM | Mantido por Stefanie Mayumi Inacio Kobayashi, integrante do grupo; as quatro autoras estão no README do repositório |
-| PI V | https://github.com/MayKobayashi/PI5-Hotspots-Violencia | Mantido por Stefanie Mayumi Inacio Kobayashi, integrante do grupo; código, notebooks, modelos e aplicação |
-| PI VI | https://github.com/MayKobayashi/PI6-Classificacao-Risco-Violencia | Versão intermediária (setembro de 2026, 10 zonas e 2.456 registros), publicada pela coautora. A versão final dos notebooks está em repositório privado e os resultados finais estão no relatório v4 |
 
 ## Aplicações e materiais online
 
