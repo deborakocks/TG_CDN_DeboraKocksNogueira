@@ -10,7 +10,7 @@
 | **Instituição** | Faculdade de Tecnologia de Votorantim Benedicto Pagliato (Fatec Votorantim) – Centro Paula Souza |
 | **Período** | 2024 a 2026 (conclusão no 2º semestre de 2026) |
 
-Este repositório reúne o Trabalho de Graduação (TG) em formato de portfólio integrador e as evidências dos seis Projetos Integradores (PI) do curso. A organização segue a estrutura de pastas da seção 5.2 do Manual do TG de CDN (v1.3).
+Este repositório reúne o Trabalho de Graduação (TG) em formato de portfólio integrador e as evidências dos seis Projetos Integradores (PI) do curso. A organização tem como base a estrutura de pastas da seção 5.2 do Manual do TG de CDN (v1.3), com as pastas 01 a 03.
 
 **Documento do TG:** [PDF](01_Documento_ABNT/TG_Débora_Final.pdf) · [Word](01_Documento_ABNT/TG_Débora_Final.docx)
 
