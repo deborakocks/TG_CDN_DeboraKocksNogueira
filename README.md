@@ -77,16 +77,15 @@ Durante a graduação, desenvolvi seis Projetos Integradores, percorrendo difere
 
 ```
 TG_CDN_DeboraKocksNogueira/
-├── 01_Documento_ABNT/            TG em PDF e Word, Plano de Trabalho e Matriz de Evidências
+├── 01_Documento_ABNT/            TG em PDF e Word e Matriz de Evidências
 ├── 02_Evidencias_PI/
 │   ├── PI1_Negocios/             Relatorio_Final, Slides, Entregas_Parciais, Artefatos, Validacao, Link_Github
-│   ├── PI2_Visualizacao/         Dashboard_PowerBI, Relatorio_Final, Slides, Pesquisa_e_Prototipo, Trabalhos_Interdisciplinares, Validacao, Link_Github
+│   ├── PI2_Visualizacao/         Dashboard_PowerBI, Relatorio_Final, Slides, Pesquisa_e_Prototipo, Trabalhos_Interdisciplinares, Link_Github
 │   ├── PI3_Analise_I/            Codigo, Dashboards, Documentos_Fonte, Relatorio_Final, Slides, Link_Github
 │   ├── PI4_Analise_II/           Codigo_ETL, Guia_Usuario, Dashboard, Relatorio_Final, Slides, Validacao, Link_Github
 │   ├── PI5_Projetos_I/           Notebooks_Python, Plano_Deploy, Codigo, Guia_Usuario, Resultados, Relatorio_Final, Slides, Validacao, Link_Github
-│   └── PI6_Projetos_II/          API_Producao, Manual_Operacao, Relatorio_Final, Resultados, Direito_Digital, Validacao, Video, Link_Github
+│   └── PI6_Projetos_II/          Aplicativo_Databricks, Manual_Operacao, Relatorio_Final, Resultados, Direito_Digital, Validacao, Video, Link_Github
 ├── 03_Projetos_Extras/           Certificados, Eventos_Cientificos, Observatorio_Dados
-├── 04_Apresentacao_Banca/        Slides_PPTX
 └── README.md                     Índice do portfólio e currículo resumido
 ```
 
@@ -97,7 +96,6 @@ TG_CDN_DeboraKocksNogueira/
 | Arquivo | Descrição |
 |---|---|
 | `TG_Débora_Final.pdf` / `.docx` | Versão final do Trabalho de Graduação |
-| `Plano_de_Trabalho_TG.docx` | Plano de Trabalho do TG (pré-projeto do portfólio) |
 | `Matriz_de_Evidencias_Portfolio.xlsx` | Planilha que relaciona cada evidência ao PI e à competência do egresso |
 
 ### 02_Evidencias_PI
@@ -105,11 +103,11 @@ TG_CDN_DeboraKocksNogueira/
 | Pasta | Conteúdo |
 |---|---|
 | [PI1_Negocios](02_Evidencias_PI/PI1_Negocios) | **Relatorio_Final:** relatório do PI I. **Slides:** apresentação e pitch da PlanTech. **Entregas_Parciais:** entregas 1 a 3 e cronograma (MS Project). **Artefatos:** canvas e planejamento estratégico (5W2H e BSC). **Validacao:** devolutiva da professora; o projeto não teve validação externa. |
-| [PI2_Visualizacao](02_Evidencias_PI/PI2_Visualizacao) | **Dashboard_PowerBI:** arquivo `.pbix`, bases e capturas dos três painéis. **Pesquisa_e_Prototipo:** respostas da pesquisa, gráficos e protótipo. **Trabalhos_Interdisciplinares:** Empreendedorismo e Inovação, Marketing Digital e Inovação em Ambientes Disruptivos. **Validacao:** devolutivas de professores e registro da Feira de Negócios. **Relatorio_Final** e **Slides**. |
-| [PI3_Analise_I](02_Evidencias_PI/PI3_Analise_I) | **Codigo:** notebook de extração (Colab), texto extraído e tabelas auxiliares. **Dashboards:** painéis e modelo relacional do PGA. **Documentos_Fonte:** PGA, RAA e manual de extensão. **Relatorio_Final** e **Slides**. O Termo_Validacao_Empresa sugerido pelo Manual não existe para este PI. |
+| [PI2_Visualizacao](02_Evidencias_PI/PI2_Visualizacao) | **Dashboard_PowerBI:** arquivo `.pbix`, bases e capturas dos três painéis. **Pesquisa_e_Prototipo:** respostas da pesquisa, gráficos e protótipo. **Trabalhos_Interdisciplinares:** Empreendedorismo e Inovação, Marketing Digital e Inovação em Ambientes Disruptivos. **Relatorio_Final** e **Slides**. |
+| [PI3_Analise_I](02_Evidencias_PI/PI3_Analise_I) | **Codigo:** notebook de extração (Colab), texto extraído e tabelas auxiliares. **Dashboards:** painéis e modelo relacional do PGA. **Documentos_Fonte:** PGA e RAA. **Relatorio_Final** e **Slides**. O Termo_Validacao_Empresa sugerido pelo Manual não existe para este PI. |
 | [PI4_Analise_II](02_Evidencias_PI/PI4_Analise_II) | **Codigo_ETL:** scripts Python do pipeline e README. **Guia_Usuario:** guia em PDF, link e captura do guia publicado no Canva My Site. **Dashboard:** arquitetura e captura do painel. **Slides:** apresentação, one pager e link do vídeo do pitch. **Validacao:** proposta e registros de reunião e de contato assinados; entrega técnica sem assinatura da instituição. **Relatorio_Final**. |
 | [PI5_Projetos_I](02_Evidencias_PI/PI5_Projetos_I) | **Notebooks_Python:** ETL, análise exploratória e modelagem, sem saídas. **Codigo:** aplicação Streamlit e módulos do pipeline. **Plano_Deploy:** guia de implantação. **Guia_Usuario**, **Resultados** (gráficos e tela da aplicação), **Relatorio_Final** e **Slides**. **Validacao:** formulário inicial, atas assinadas com a DDM, solicitação de cooperação institucional, termo de confidencialidade (CPF ocultado) e relatório de divergências. |
-| [PI6_Projetos_II](02_Evidencias_PI/PI6_Projetos_II) | **API_Producao:** o projeto não desenvolveu uma API; a pasta, com o nome sugerido pelo Manual, guarda o link e a tela do aplicativo publicado. **Manual_Operacao:** guias de uso e de implantação. **Resultados:** ranking das zonas e teste de permutação. **Direito_Digital:** avaliação e análise de propriedade intelectual e licenças. **Validacao:** registro da orientação jurídica da Profa. Evelyn Sola; não houve avaliação da DDM no PI VI. **Video:** vídeo final de apresentação do grupo. **Relatorio_Final:** relatório técnico v4. |
+| [PI6_Projetos_II](02_Evidencias_PI/PI6_Projetos_II) | **Aplicativo_Databricks:** link e tela do aplicativo pi6-zonas publicado no Databricks Apps. **Manual_Operacao:** guias de uso e de implantação. **Resultados:** ranking das zonas e teste de permutação. **Direito_Digital:** avaliação e análise de propriedade intelectual e licenças. **Validacao:** registro da orientação jurídica da Profa. Evelyn Sola; não houve avaliação da DDM no PI VI. **Video:** vídeo final de apresentação do grupo. **Relatorio_Final:** relatório técnico v4. |
 
 Cada pasta de PI tem um arquivo `Link_Github.txt` com os links do repositório de código e das aplicações daquele projeto.
 
@@ -118,14 +116,8 @@ Cada pasta de PI tem um arquivo `Link_Github.txt` com os links do repositório d
 | Pasta | Conteúdo |
 |---|---|
 | [Certificados](03_Projetos_Extras/Certificados) | Certificados de formação complementar e do MBA (documentos pessoais ocultados) |
-| [Eventos_Cientificos](03_Projetos_Extras/Eventos_Cientificos) | Apresentação e certificado da comunicação oral no I Simpósio de Ciência de Dados das Fatecs (2026) |
+| [Eventos_Cientificos](03_Projetos_Extras/Eventos_Cientificos) | Certificado da comunicação oral no I Simpósio de Ciência de Dados das Fatecs (2026) |
 | [Observatorio_Dados](03_Projetos_Extras/Observatorio_Dados) | Recorte do dashboard do Observatório de Dados do Município de Votorantim |
-
-### 04_Apresentacao_Banca
-
-| Pasta | Conteúdo |
-|---|---|
-| [Slides_PPTX](04_Apresentacao_Banca/Slides_PPTX) | Slides da apresentação para a banca. O Video_Demo_Deploy sugerido pelo Manual não foi gravado. |
 
 ## Aplicações e materiais online
 
