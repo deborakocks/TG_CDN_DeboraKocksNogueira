@@ -1,0 +1,1904 @@
+ID_Cliente,Código_Venda,Data_Venda,Código_Produto,Categoria,Descrição,Preço,Cidade
+ID008218,OV000001,2025-01-01,VAS01,Produto Final,Vaso Automatizado para 1 hortalicas,800.0,Ribeirão Preto
+ID005536,OV000002,2025-01-02,VAS08,Produto Final,Vaso Automatizado para 8 hortalicas,2280.0,Rio de Janeiro
+ID006815,OV000003,2025-01-02,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,Rio de Janeiro
+ID006815,OV000003,2025-01-02,VAS01,Produto Final,Vaso Automatizado para 1 hortalicas,800.0,Rio de Janeiro
+ID006815,OV000003,2025-01-02,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,Rio de Janeiro
+ID002484,OV000004,2025-01-03,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,São Paulo
+ID002484,OV000004,2025-01-03,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,São Paulo
+ID002484,OV000004,2025-01-03,VAS01,Produto Final,Vaso Automatizado para 1 hortalicas,800.0,São Paulo
+ID002484,OV000004,2025-01-03,KIT03,Kit,Kit de Cultivo para Ervas Aromáticas,30.0,São Paulo
+ID004528,OV000005,2025-01-03,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,Florianópolis
+ID004528,OV000005,2025-01-03,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,Florianópolis
+ID002238,OV000006,2025-01-03,VAS06,Produto Final,Vaso Automatizado para 6 hortalicas,1710.0,São Paulo
+ID002238,OV000006,2025-01-03,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,São Paulo
+ID002238,OV000006,2025-01-03,KIT03,Kit,Kit de Cultivo para Ervas Aromáticas,30.0,São Paulo
+ID006822,OV000007,2025-01-04,VAS01,Produto Final,Vaso Automatizado para 1 hortalicas,800.0,Campinas
+ID007971,OV000008,2025-01-04,VAS01,Produto Final,Vaso Automatizado para 1 hortalicas,800.0,Fortaleza
+ID007971,OV000008,2025-01-04,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,Fortaleza
+ID007971,OV000008,2025-01-04,KIT01,Kit,Kit de Cultivo para Temperos,30.0,Fortaleza
+ID006262,OV000009,2025-01-05,VAS08,Produto Final,Vaso Automatizado para 8 hortalicas,2280.0,São Paulo
+ID007390,OV000010,2025-01-05,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,Campinas
+ID002427,OV000011,2025-01-05,VAS06,Produto Final,Vaso Automatizado para 6 hortalicas,1710.0,São Paulo
+ID002427,OV000011,2025-01-05,VAS08,Produto Final,Vaso Automatizado para 8 hortalicas,2280.0,São Paulo
+ID003790,OV000012,2025-01-06,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,São Paulo
+ID003790,OV000012,2025-01-06,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,São Paulo
+ID003790,OV000012,2025-01-06,VAS06,Produto Final,Vaso Automatizado para 6 hortalicas,1710.0,São Paulo
+ID008402,OV000013,2025-01-06,VAS08,Produto Final,Vaso Automatizado para 8 hortalicas,2280.0,Duque de Caxias
+ID008402,OV000013,2025-01-06,VAS01,Produto Final,Vaso Automatizado para 1 hortalicas,800.0,Duque de Caxias
+ID008402,OV000013,2025-01-06,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,Duque de Caxias
+ID002786,OV000014,2025-01-07,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,São Paulo
+ID002786,OV000014,2025-01-07,VAS08,Produto Final,Vaso Automatizado para 8 hortalicas,2280.0,São Paulo
+ID002786,OV000014,2025-01-07,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,São Paulo
+ID009198,OV000015,2025-01-07,VAS06,Produto Final,Vaso Automatizado para 6 hortalicas,1710.0,Duque de Caxias
+ID009198,OV000015,2025-01-07,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,Duque de Caxias
+ID007211,OV000016,2025-01-07,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,Brasília
+ID007211,OV000016,2025-01-07,VAS06,Produto Final,Vaso Automatizado para 6 hortalicas,1710.0,Brasília
+ID004737,OV000017,2025-01-08,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,Recife
+ID004737,OV000017,2025-01-08,KIT01,Kit,Kit de Cultivo para Temperos,30.0,Recife
+ID009231,OV000018,2025-01-08,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,Rio de Janeiro
+ID009332,OV000019,2025-01-09,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,Salvador
+ID009332,OV000019,2025-01-09,VAS08,Produto Final,Vaso Automatizado para 8 hortalicas,2280.0,Salvador
+ID009332,OV000019,2025-01-09,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,Salvador
+ID007131,OV000020,2025-01-09,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,Brasília
+ID007131,OV000020,2025-01-09,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,Brasília
+ID002564,OV000021,2025-01-09,VAS06,Produto Final,Vaso Automatizado para 6 hortalicas,1710.0,Fortaleza
+ID006430,OV000022,2025-01-10,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,São Paulo
+ID002987,OV000023,2025-01-10,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,Rio de Janeiro
+ID009942,OV000024,2025-01-11,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,Brasília
+ID009942,OV000024,2025-01-11,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,Brasília
+ID001482,OV000025,2025-01-11,VAS06,Produto Final,Vaso Automatizado para 6 hortalicas,1710.0,Fortaleza
+ID001482,OV000025,2025-01-11,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,Fortaleza
+ID001304,OV000026,2025-01-11,VAS01,Produto Final,Vaso Automatizado para 1 hortalicas,800.0,Guarulhos
+ID001304,OV000026,2025-01-11,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,Guarulhos
+ID001304,OV000026,2025-01-11,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,Guarulhos
+ID009539,OV000027,2025-01-12,VAS08,Produto Final,Vaso Automatizado para 8 hortalicas,2280.0,Florianópolis
+ID009539,OV000027,2025-01-12,VAS06,Produto Final,Vaso Automatizado para 6 hortalicas,1710.0,Florianópolis
+ID003231,OV000028,2025-01-12,VAS06,Produto Final,Vaso Automatizado para 6 hortalicas,1710.0,Curitiba
+ID003231,OV000028,2025-01-12,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,Curitiba
+ID006781,OV000029,2025-01-12,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,Manaus
+ID004601,OV000030,2025-01-13,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,Macapá
+ID004601,OV000030,2025-01-13,VAS01,Produto Final,Vaso Automatizado para 1 hortalicas,800.0,Macapá
+ID004601,OV000030,2025-01-13,KIT01,Kit,Kit de Cultivo para Temperos,30.0,Macapá
+ID001652,OV000031,2025-01-13,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,Fortaleza
+ID001652,OV000031,2025-01-13,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,Fortaleza
+ID010063,OV000032,2025-01-14,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,São Paulo
+ID006678,OV000033,2025-01-14,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,São Paulo
+ID000596,OV000034,2025-01-14,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,São Paulo
+ID002096,OV000035,2025-01-15,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,Fortaleza
+ID002096,OV000035,2025-01-15,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,Fortaleza
+ID010567,OV000036,2025-01-15,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,Rio de Janeiro
+ID010567,OV000036,2025-01-15,KIT01,Kit,Kit de Cultivo para Temperos,30.0,Rio de Janeiro
+ID008257,OV000037,2025-01-16,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,Guarulhos
+ID000140,OV000038,2025-01-16,VAS01,Produto Final,Vaso Automatizado para 1 hortalicas,800.0,Vitória
+ID000140,OV000038,2025-01-16,VAS08,Produto Final,Vaso Automatizado para 8 hortalicas,2280.0,Vitória
+ID000140,OV000038,2025-01-16,VAS06,Produto Final,Vaso Automatizado para 6 hortalicas,1710.0,Vitória
+ID000140,OV000038,2025-01-16,KIT03,Kit,Kit de Cultivo para Ervas Aromáticas,30.0,Vitória
+ID006519,OV000039,2025-01-16,VAS06,Produto Final,Vaso Automatizado para 6 hortalicas,1710.0,Maceió
+ID000222,OV000040,2025-01-17,VAS01,Produto Final,Vaso Automatizado para 1 hortalicas,800.0,Porto Alegre
+ID000222,OV000040,2025-01-17,VAS08,Produto Final,Vaso Automatizado para 8 hortalicas,2280.0,Porto Alegre
+ID008385,OV000041,2025-01-17,VAS08,Produto Final,Vaso Automatizado para 8 hortalicas,2280.0,Belém
+ID008385,OV000041,2025-01-17,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,Belém
+ID008385,OV000041,2025-01-17,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,Belém
+ID007118,OV000042,2025-01-18,VAS06,Produto Final,Vaso Automatizado para 6 hortalicas,1710.0,Belford Roxo
+ID007118,OV000042,2025-01-18,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,Belford Roxo
+ID003481,OV000043,2025-01-18,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,Rio de Janeiro
+ID008161,OV000044,2025-01-18,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,São Paulo
+ID003280,OV000045,2025-01-19,VAS01,Produto Final,Vaso Automatizado para 1 hortalicas,800.0,Goiânia
+ID003280,OV000045,2025-01-19,KIT02,Kit,Kit de Cultivo para Saladas,30.0,Goiânia
+ID005197,OV000046,2025-01-19,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,Rio de Janeiro
+ID005197,OV000046,2025-01-19,VAS01,Produto Final,Vaso Automatizado para 1 hortalicas,800.0,Rio de Janeiro
+ID005197,OV000046,2025-01-19,KIT02,Kit,Kit de Cultivo para Saladas,30.0,Rio de Janeiro
+ID008589,OV000047,2025-01-20,VAS06,Produto Final,Vaso Automatizado para 6 hortalicas,1710.0,Belo Horizonte
+ID008589,OV000047,2025-01-20,VAS08,Produto Final,Vaso Automatizado para 8 hortalicas,2280.0,Belo Horizonte
+ID008589,OV000047,2025-01-20,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,Belo Horizonte
+ID000462,OV000048,2025-01-20,VAS08,Produto Final,Vaso Automatizado para 8 hortalicas,2280.0,Nova Iguaçu
+ID000462,OV000048,2025-01-20,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,Nova Iguaçu
+ID000462,OV000048,2025-01-20,KIT01,Kit,Kit de Cultivo para Temperos,30.0,Nova Iguaçu
+ID001204,OV000049,2025-01-20,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,Manaus
+ID000732,OV000050,2025-01-21,VAS01,Produto Final,Vaso Automatizado para 1 hortalicas,800.0,Rio de Janeiro
+ID002561,OV000051,2025-01-21,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,Belo Horizonte
+ID010356,OV000052,2025-01-22,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,Fortaleza
+ID010356,OV000052,2025-01-22,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,Fortaleza
+ID010356,OV000052,2025-01-22,VAS01,Produto Final,Vaso Automatizado para 1 hortalicas,800.0,Fortaleza
+ID010356,OV000052,2025-01-22,KIT03,Kit,Kit de Cultivo para Ervas Aromáticas,30.0,Fortaleza
+ID010435,OV000053,2025-01-22,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,São Paulo
+ID000527,OV000054,2025-01-22,VAS01,Produto Final,Vaso Automatizado para 1 hortalicas,800.0,São Paulo
+ID000527,OV000054,2025-01-22,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,São Paulo
+ID010289,OV000055,2025-01-23,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,Campinas
+ID010289,OV000055,2025-01-23,KIT03,Kit,Kit de Cultivo para Ervas Aromáticas,30.0,Campinas
+ID009905,OV000056,2025-01-23,VAS06,Produto Final,Vaso Automatizado para 6 hortalicas,1710.0,Guarulhos
+ID009905,OV000056,2025-01-23,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,Guarulhos
+ID000910,OV000057,2025-01-23,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,Rio de Janeiro
+ID000910,OV000057,2025-01-23,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,Rio de Janeiro
+ID000910,OV000057,2025-01-23,KIT03,Kit,Kit de Cultivo para Ervas Aromáticas,30.0,Rio de Janeiro
+ID007082,OV000058,2025-01-24,VAS06,Produto Final,Vaso Automatizado para 6 hortalicas,1710.0,São Paulo
+ID007206,OV000059,2025-01-24,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,Fortaleza
+ID007206,OV000059,2025-01-24,KIT02,Kit,Kit de Cultivo para Saladas,30.0,Fortaleza
+ID009055,OV000060,2025-01-25,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,Recife
+ID009055,OV000060,2025-01-25,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,Recife
+ID009055,OV000060,2025-01-25,KIT02,Kit,Kit de Cultivo para Saladas,30.0,Recife
+ID004729,OV000061,2025-01-25,VAS08,Produto Final,Vaso Automatizado para 8 hortalicas,2280.0,Fortaleza
+ID007964,OV000062,2025-01-25,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,Natal
+ID007964,OV000062,2025-01-25,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,Natal
+ID007964,OV000062,2025-01-25,VAS06,Produto Final,Vaso Automatizado para 6 hortalicas,1710.0,Natal
+ID007964,OV000062,2025-01-25,KIT02,Kit,Kit de Cultivo para Saladas,30.0,Natal
+ID006881,OV000063,2025-01-26,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,Fortaleza
+ID006881,OV000063,2025-01-26,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,Fortaleza
+ID006881,OV000063,2025-01-26,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,Fortaleza
+ID002222,OV000064,2025-01-26,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,São Paulo
+ID002222,OV000064,2025-01-26,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,São Paulo
+ID002222,OV000064,2025-01-26,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,São Paulo
+ID009621,OV000065,2025-01-27,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,João Pessoa
+ID008378,OV000066,2025-01-27,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,Belo Horizonte
+ID003466,OV000067,2025-01-27,VAS08,Produto Final,Vaso Automatizado para 8 hortalicas,2280.0,Campo Grande
+ID003466,OV000067,2025-01-27,VAS06,Produto Final,Vaso Automatizado para 6 hortalicas,1710.0,Campo Grande
+ID002508,OV000068,2025-01-28,VAS01,Produto Final,Vaso Automatizado para 1 hortalicas,800.0,São Paulo
+ID002178,OV000069,2025-01-28,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,São Paulo
+ID001846,OV000070,2025-01-29,VAS08,Produto Final,Vaso Automatizado para 8 hortalicas,2280.0,Belém
+ID008681,OV000071,2025-01-29,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,Recife
+ID009588,OV000072,2025-01-29,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,Salvador
+ID002147,OV000073,2025-01-30,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,Belém
+ID001249,OV000074,2025-01-30,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,Rio de Janeiro
+ID001249,OV000074,2025-01-30,VAS08,Produto Final,Vaso Automatizado para 8 hortalicas,2280.0,Rio de Janeiro
+ID001249,OV000074,2025-01-30,KIT03,Kit,Kit de Cultivo para Ervas Aromáticas,30.0,Rio de Janeiro
+ID007890,OV000075,2025-01-31,VAS01,Produto Final,Vaso Automatizado para 1 hortalicas,800.0,Fortaleza
+ID007139,OV000076,2025-01-31,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,Fortaleza
+ID007139,OV000076,2025-01-31,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,Fortaleza
+ID007391,OV000077,2025-01-31,VAS01,Produto Final,Vaso Automatizado para 1 hortalicas,800.0,São Paulo
+ID007391,OV000077,2025-01-31,KIT01,Kit,Kit de Cultivo para Temperos,30.0,São Paulo
+ID007776,OV000078,2025-02-01,VAS08,Produto Final,Vaso Automatizado para 8 hortalicas,2280.0,São Paulo
+ID007776,OV000078,2025-02-01,VAS01,Produto Final,Vaso Automatizado para 1 hortalicas,800.0,São Paulo
+ID000168,OV000079,2025-02-01,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,São Paulo
+ID000168,OV000079,2025-02-01,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,São Paulo
+ID002246,OV000080,2025-02-01,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,Salvador
+ID002246,OV000080,2025-02-01,VAS08,Produto Final,Vaso Automatizado para 8 hortalicas,2280.0,Salvador
+ID002246,OV000080,2025-02-01,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,Salvador
+ID001919,OV000081,2025-02-02,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,Salvador
+ID006270,OV000082,2025-02-02,VAS08,Produto Final,Vaso Automatizado para 8 hortalicas,2280.0,Rio de Janeiro
+ID000141,OV000083,2025-02-03,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,Manaus
+ID001845,OV000084,2025-02-03,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,Goiânia
+ID004609,OV000085,2025-02-03,VAS06,Produto Final,Vaso Automatizado para 6 hortalicas,1710.0,São Paulo
+ID004489,OV000086,2025-02-04,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,São Paulo
+ID004489,OV000086,2025-02-04,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,São Paulo
+ID004489,OV000086,2025-02-04,KIT02,Kit,Kit de Cultivo para Saladas,30.0,São Paulo
+ID010823,OV000087,2025-02-04,VAS01,Produto Final,Vaso Automatizado para 1 hortalicas,800.0,Maceió
+ID010823,OV000087,2025-02-04,KIT03,Kit,Kit de Cultivo para Ervas Aromáticas,30.0,Maceió
+ID007400,OV000088,2025-02-05,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,Niterói
+ID004920,OV000089,2025-02-05,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,Teresina
+ID003362,OV000090,2025-02-05,VAS08,Produto Final,Vaso Automatizado para 8 hortalicas,2280.0,Belford Roxo
+ID003528,OV000091,2025-02-06,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,São Paulo
+ID003528,OV000091,2025-02-06,VAS01,Produto Final,Vaso Automatizado para 1 hortalicas,800.0,São Paulo
+ID003528,OV000091,2025-02-06,KIT03,Kit,Kit de Cultivo para Ervas Aromáticas,30.0,São Paulo
+ID010049,OV000092,2025-02-06,VAS06,Produto Final,Vaso Automatizado para 6 hortalicas,1710.0,Curitiba
+ID010049,OV000092,2025-02-06,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,Curitiba
+ID010049,OV000092,2025-02-06,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,Curitiba
+ID009051,OV000093,2025-02-07,VAS01,Produto Final,Vaso Automatizado para 1 hortalicas,800.0,Maceió
+ID000531,OV000094,2025-02-07,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,Goiânia
+ID010371,OV000095,2025-02-07,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,Rio de Janeiro
+ID010371,OV000095,2025-02-07,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,Rio de Janeiro
+ID004504,OV000096,2025-02-08,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,Manaus
+ID004504,OV000096,2025-02-08,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,Manaus
+ID007955,OV000097,2025-02-08,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,Belém
+ID010391,OV000098,2025-02-08,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,Brasília
+ID010391,OV000098,2025-02-08,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,Brasília
+ID010391,OV000098,2025-02-08,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,Brasília
+ID001516,OV000099,2025-02-09,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,Manaus
+ID001516,OV000099,2025-02-09,VAS06,Produto Final,Vaso Automatizado para 6 hortalicas,1710.0,Manaus
+ID007826,OV000100,2025-02-09,VAS06,Produto Final,Vaso Automatizado para 6 hortalicas,1710.0,Rio de Janeiro
+ID008276,OV000101,2025-02-10,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,Brasília
+ID008276,OV000101,2025-02-10,VAS08,Produto Final,Vaso Automatizado para 8 hortalicas,2280.0,Brasília
+ID006588,OV000102,2025-02-10,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,Goiânia
+ID006588,OV000102,2025-02-10,VAS08,Produto Final,Vaso Automatizado para 8 hortalicas,2280.0,Goiânia
+ID006588,OV000102,2025-02-10,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,Goiânia
+ID006588,OV000102,2025-02-10,KIT03,Kit,Kit de Cultivo para Ervas Aromáticas,30.0,Goiânia
+ID002750,OV000103,2025-02-10,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,São Paulo
+ID002750,OV000103,2025-02-10,KIT03,Kit,Kit de Cultivo para Ervas Aromáticas,30.0,São Paulo
+ID005552,OV000104,2025-02-11,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,Rio de Janeiro
+ID005552,OV000104,2025-02-11,KIT01,Kit,Kit de Cultivo para Temperos,30.0,Rio de Janeiro
+ID005051,OV000105,2025-02-11,VAS08,Produto Final,Vaso Automatizado para 8 hortalicas,2280.0,Goiânia
+ID005051,OV000105,2025-02-11,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,Goiânia
+ID005051,OV000105,2025-02-11,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,Goiânia
+ID005515,OV000106,2025-02-12,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,Fortaleza
+ID005515,OV000106,2025-02-12,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,Fortaleza
+ID005515,OV000106,2025-02-12,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,Fortaleza
+ID004362,OV000107,2025-02-12,VAS08,Produto Final,Vaso Automatizado para 8 hortalicas,2280.0,Belém
+ID004362,OV000107,2025-02-12,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,Belém
+ID007303,OV000108,2025-02-12,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,Guarulhos
+ID007303,OV000108,2025-02-12,VAS08,Produto Final,Vaso Automatizado para 8 hortalicas,2280.0,Guarulhos
+ID007303,OV000108,2025-02-12,KIT03,Kit,Kit de Cultivo para Ervas Aromáticas,30.0,Guarulhos
+ID002284,OV000109,2025-02-13,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,Vitória
+ID002284,OV000109,2025-02-13,VAS06,Produto Final,Vaso Automatizado para 6 hortalicas,1710.0,Vitória
+ID009327,OV000110,2025-02-13,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,São Luís
+ID009327,OV000110,2025-02-13,VAS08,Produto Final,Vaso Automatizado para 8 hortalicas,2280.0,São Luís
+ID009327,OV000110,2025-02-13,VAS01,Produto Final,Vaso Automatizado para 1 hortalicas,800.0,São Luís
+ID007191,OV000111,2025-02-14,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,São Paulo
+ID010457,OV000112,2025-02-14,VAS01,Produto Final,Vaso Automatizado para 1 hortalicas,800.0,Brasília
+ID010457,OV000112,2025-02-14,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,Brasília
+ID010695,OV000113,2025-02-14,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,Brasília
+ID007064,OV000114,2025-02-15,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,Rio de Janeiro
+ID007064,OV000114,2025-02-15,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,Rio de Janeiro
+ID007064,OV000114,2025-02-15,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,Rio de Janeiro
+ID007064,OV000114,2025-02-15,KIT01,Kit,Kit de Cultivo para Temperos,30.0,Rio de Janeiro
+ID009437,OV000115,2025-02-15,VAS06,Produto Final,Vaso Automatizado para 6 hortalicas,1710.0,Rio de Janeiro
+ID009437,OV000115,2025-02-15,KIT03,Kit,Kit de Cultivo para Ervas Aromáticas,30.0,Rio de Janeiro
+ID002537,OV000116,2025-02-15,VAS01,Produto Final,Vaso Automatizado para 1 hortalicas,800.0,Manaus
+ID002537,OV000116,2025-02-15,VAS08,Produto Final,Vaso Automatizado para 8 hortalicas,2280.0,Manaus
+ID002537,OV000116,2025-02-15,KIT01,Kit,Kit de Cultivo para Temperos,30.0,Manaus
+ID001408,OV000117,2025-02-16,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,Curitiba
+ID001408,OV000117,2025-02-16,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,Curitiba
+ID001069,OV000118,2025-02-16,VAS08,Produto Final,Vaso Automatizado para 8 hortalicas,2280.0,São Paulo
+ID001069,OV000118,2025-02-16,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,São Paulo
+ID009121,OV000119,2025-02-17,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,Niterói
+ID009121,OV000119,2025-02-17,KIT01,Kit,Kit de Cultivo para Temperos,30.0,Niterói
+ID005692,OV000120,2025-02-17,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,Porto Alegre
+ID006149,OV000121,2025-02-17,VAS06,Produto Final,Vaso Automatizado para 6 hortalicas,1710.0,Brasília
+ID006149,OV000121,2025-02-17,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,Brasília
+ID006149,OV000121,2025-02-17,KIT03,Kit,Kit de Cultivo para Ervas Aromáticas,30.0,Brasília
+ID006630,OV000122,2025-02-18,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,Florianópolis
+ID007996,OV000123,2025-02-18,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,Maceió
+ID005513,OV000124,2025-02-19,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,Ribeirão Preto
+ID005513,OV000124,2025-02-19,KIT02,Kit,Kit de Cultivo para Saladas,30.0,Ribeirão Preto
+ID005305,OV000125,2025-02-19,VAS08,Produto Final,Vaso Automatizado para 8 hortalicas,2280.0,Salvador
+ID001782,OV000126,2025-02-19,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,São Paulo
+ID006244,OV000127,2025-02-20,VAS06,Produto Final,Vaso Automatizado para 6 hortalicas,1710.0,São Paulo
+ID006244,OV000127,2025-02-20,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,São Paulo
+ID006356,OV000128,2025-02-20,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,Belo Horizonte
+ID006356,OV000128,2025-02-20,KIT03,Kit,Kit de Cultivo para Ervas Aromáticas,30.0,Belo Horizonte
+ID010345,OV000129,2025-02-21,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,Ribeirão Preto
+ID005369,OV000130,2025-02-21,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,Porto Alegre
+ID007472,OV000131,2025-02-21,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,Fortaleza
+ID005522,OV000132,2025-02-22,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,São Paulo
+ID005522,OV000132,2025-02-22,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,São Paulo
+ID005522,OV000132,2025-02-22,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,São Paulo
+ID005468,OV000133,2025-02-22,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,Fortaleza
+ID005468,OV000133,2025-02-22,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,Fortaleza
+ID005468,OV000133,2025-02-22,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,Fortaleza
+ID003114,OV000134,2025-02-22,VAS08,Produto Final,Vaso Automatizado para 8 hortalicas,2280.0,Curitiba
+ID004285,OV000135,2025-02-23,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,São Paulo
+ID004285,OV000135,2025-02-23,VAS01,Produto Final,Vaso Automatizado para 1 hortalicas,800.0,São Paulo
+ID003353,OV000136,2025-02-23,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,Rio de Janeiro
+ID003353,OV000136,2025-02-23,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,Rio de Janeiro
+ID000568,OV000137,2025-02-24,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,Fortaleza
+ID000568,OV000137,2025-02-24,VAS01,Produto Final,Vaso Automatizado para 1 hortalicas,800.0,Fortaleza
+ID007338,OV000138,2025-02-24,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,Manaus
+ID006750,OV000139,2025-02-24,VAS08,Produto Final,Vaso Automatizado para 8 hortalicas,2280.0,Maceió
+ID006750,OV000139,2025-02-24,KIT02,Kit,Kit de Cultivo para Saladas,30.0,Maceió
+ID008324,OV000140,2025-02-25,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,Florianópolis
+ID008324,OV000140,2025-02-25,KIT03,Kit,Kit de Cultivo para Ervas Aromáticas,30.0,Florianópolis
+ID004747,OV000141,2025-02-25,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,São Paulo
+ID001760,OV000142,2025-02-26,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,Brasília
+ID006768,OV000143,2025-02-26,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,Belém
+ID006768,OV000143,2025-02-26,VAS06,Produto Final,Vaso Automatizado para 6 hortalicas,1710.0,Belém
+ID005272,OV000144,2025-02-26,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,São Gonçalo
+ID005272,OV000144,2025-02-26,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,São Gonçalo
+ID005108,OV000145,2025-02-27,VAS06,Produto Final,Vaso Automatizado para 6 hortalicas,1710.0,São Paulo
+ID005108,OV000145,2025-02-27,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,São Paulo
+ID005108,OV000145,2025-02-27,KIT02,Kit,Kit de Cultivo para Saladas,30.0,São Paulo
+ID010463,OV000146,2025-02-27,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,São Gonçalo
+ID010714,OV000147,2025-02-28,VAS01,Produto Final,Vaso Automatizado para 1 hortalicas,800.0,Brasília
+ID010697,OV000148,2025-02-28,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,Fortaleza
+ID008392,OV000149,2025-02-28,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,São Paulo
+ID008392,OV000149,2025-02-28,KIT03,Kit,Kit de Cultivo para Ervas Aromáticas,30.0,São Paulo
+ID005331,OV000150,2025-03-01,VAS06,Produto Final,Vaso Automatizado para 6 hortalicas,1710.0,Campo Grande
+ID000587,OV000151,2025-03-01,VAS06,Produto Final,Vaso Automatizado para 6 hortalicas,1710.0,Duque de Caxias
+ID009289,OV000152,2025-03-01,VAS01,Produto Final,Vaso Automatizado para 1 hortalicas,800.0,Fortaleza
+ID006493,OV000153,2025-03-02,VAS08,Produto Final,Vaso Automatizado para 8 hortalicas,2280.0,Maceió
+ID004372,OV000154,2025-03-02,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,Porto Alegre
+ID004372,OV000154,2025-03-02,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,Porto Alegre
+ID000394,OV000155,2025-03-03,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,São Paulo
+ID004505,OV000156,2025-03-03,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,São Gonçalo
+ID004505,OV000156,2025-03-03,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,São Gonçalo
+ID004505,OV000156,2025-03-03,VAS06,Produto Final,Vaso Automatizado para 6 hortalicas,1710.0,São Gonçalo
+ID009303,OV000157,2025-03-03,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,Campo Grande
+ID006570,OV000158,2025-03-04,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,Guarulhos
+ID005919,OV000159,2025-03-04,VAS01,Produto Final,Vaso Automatizado para 1 hortalicas,800.0,Natal
+ID005919,OV000159,2025-03-04,KIT01,Kit,Kit de Cultivo para Temperos,30.0,Natal
+ID003618,OV000160,2025-03-05,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,Porto Alegre
+ID008354,OV000161,2025-03-05,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,São Paulo
+ID008354,OV000161,2025-03-05,VAS08,Produto Final,Vaso Automatizado para 8 hortalicas,2280.0,São Paulo
+ID004299,OV000162,2025-03-05,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,São Paulo
+ID007365,OV000163,2025-03-06,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,Guarulhos
+ID001286,OV000164,2025-03-06,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,Porto Alegre
+ID006428,OV000165,2025-03-07,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,Vitória
+ID006428,OV000165,2025-03-07,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,Vitória
+ID001572,OV000166,2025-03-07,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,Santos
+ID001572,OV000166,2025-03-07,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,Santos
+ID007344,OV000167,2025-03-07,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,São Paulo
+ID004218,OV000168,2025-03-08,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,São Luís
+ID004218,OV000168,2025-03-08,KIT02,Kit,Kit de Cultivo para Saladas,30.0,São Luís
+ID008043,OV000169,2025-03-08,VAS08,Produto Final,Vaso Automatizado para 8 hortalicas,2280.0,Natal
+ID009664,OV000170,2025-03-08,VAS08,Produto Final,Vaso Automatizado para 8 hortalicas,2280.0,Porto Alegre
+ID000445,OV000171,2025-03-09,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,Recife
+ID000445,OV000171,2025-03-09,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,Recife
+ID000445,OV000171,2025-03-09,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,Recife
+ID005372,OV000172,2025-03-09,VAS08,Produto Final,Vaso Automatizado para 8 hortalicas,2280.0,Manaus
+ID005372,OV000172,2025-03-09,KIT01,Kit,Kit de Cultivo para Temperos,30.0,Manaus
+ID001903,OV000173,2025-03-10,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,São Paulo
+ID001903,OV000173,2025-03-10,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,São Paulo
+ID001903,OV000173,2025-03-10,KIT03,Kit,Kit de Cultivo para Ervas Aromáticas,30.0,São Paulo
+ID010722,OV000174,2025-03-10,VAS01,Produto Final,Vaso Automatizado para 1 hortalicas,800.0,Curitiba
+ID005280,OV000175,2025-03-10,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,Natal
+ID005280,OV000175,2025-03-10,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,Natal
+ID005280,OV000175,2025-03-10,KIT03,Kit,Kit de Cultivo para Ervas Aromáticas,30.0,Natal
+ID001136,OV000176,2025-03-11,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,Vitória
+ID001136,OV000176,2025-03-11,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,Vitória
+ID000835,OV000177,2025-03-11,VAS01,Produto Final,Vaso Automatizado para 1 hortalicas,800.0,São Paulo
+ID007216,OV000178,2025-03-12,VAS06,Produto Final,Vaso Automatizado para 6 hortalicas,1710.0,Nova Iguaçu
+ID007216,OV000178,2025-03-12,VAS01,Produto Final,Vaso Automatizado para 1 hortalicas,800.0,Nova Iguaçu
+ID007216,OV000178,2025-03-12,VAS08,Produto Final,Vaso Automatizado para 8 hortalicas,2280.0,Nova Iguaçu
+ID007148,OV000179,2025-03-12,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,Recife
+ID007148,OV000179,2025-03-12,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,Recife
+ID009203,OV000180,2025-03-12,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,São Paulo
+ID004448,OV000181,2025-03-13,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,Curitiba
+ID009754,OV000182,2025-03-13,VAS06,Produto Final,Vaso Automatizado para 6 hortalicas,1710.0,Salvador
+ID009754,OV000182,2025-03-13,KIT01,Kit,Kit de Cultivo para Temperos,30.0,Salvador
+ID010227,OV000183,2025-03-13,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,São Paulo
+ID010227,OV000183,2025-03-13,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,São Paulo
+ID006180,OV000184,2025-03-14,VAS06,Produto Final,Vaso Automatizado para 6 hortalicas,1710.0,Curitiba
+ID006180,OV000184,2025-03-14,VAS08,Produto Final,Vaso Automatizado para 8 hortalicas,2280.0,Curitiba
+ID006180,OV000184,2025-03-14,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,Curitiba
+ID006180,OV000184,2025-03-14,KIT02,Kit,Kit de Cultivo para Saladas,30.0,Curitiba
+ID008336,OV000185,2025-03-14,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,Belo Horizonte
+ID008336,OV000185,2025-03-14,KIT03,Kit,Kit de Cultivo para Ervas Aromáticas,30.0,Belo Horizonte
+ID007127,OV000186,2025-03-15,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,Niterói
+ID007127,OV000186,2025-03-15,KIT02,Kit,Kit de Cultivo para Saladas,30.0,Niterói
+ID009442,OV000187,2025-03-15,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,Salvador
+ID001715,OV000188,2025-03-15,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,Belford Roxo
+ID001715,OV000188,2025-03-15,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,Belford Roxo
+ID005462,OV000189,2025-03-16,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,Campinas
+ID005462,OV000189,2025-03-16,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,Campinas
+ID005462,OV000189,2025-03-16,KIT02,Kit,Kit de Cultivo para Saladas,30.0,Campinas
+ID006155,OV000190,2025-03-16,VAS06,Produto Final,Vaso Automatizado para 6 hortalicas,1710.0,São Paulo
+ID006155,OV000190,2025-03-16,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,São Paulo
+ID004929,OV000191,2025-03-17,VAS06,Produto Final,Vaso Automatizado para 6 hortalicas,1710.0,São Paulo
+ID004929,OV000191,2025-03-17,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,São Paulo
+ID004929,OV000191,2025-03-17,VAS01,Produto Final,Vaso Automatizado para 1 hortalicas,800.0,São Paulo
+ID009397,OV000192,2025-03-17,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,Rio de Janeiro
+ID009397,OV000192,2025-03-17,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,Rio de Janeiro
+ID009337,OV000193,2025-03-17,VAS06,Produto Final,Vaso Automatizado para 6 hortalicas,1710.0,São Paulo
+ID009337,OV000193,2025-03-17,KIT03,Kit,Kit de Cultivo para Ervas Aromáticas,30.0,São Paulo
+ID000983,OV000194,2025-03-18,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,Rio de Janeiro
+ID000983,OV000194,2025-03-18,VAS06,Produto Final,Vaso Automatizado para 6 hortalicas,1710.0,Rio de Janeiro
+ID003546,OV000195,2025-03-18,VAS08,Produto Final,Vaso Automatizado para 8 hortalicas,2280.0,Natal
+ID003546,OV000195,2025-03-18,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,Natal
+ID002745,OV000196,2025-03-19,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,Brasília
+ID003336,OV000197,2025-03-19,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,São Paulo
+ID003336,OV000197,2025-03-19,VAS06,Produto Final,Vaso Automatizado para 6 hortalicas,1710.0,São Paulo
+ID000822,OV000198,2025-03-19,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,Rio de Janeiro
+ID005987,OV000199,2025-03-20,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,Maceió
+ID003438,OV000200,2025-03-20,VAS01,Produto Final,Vaso Automatizado para 1 hortalicas,800.0,São Paulo
+ID003438,OV000200,2025-03-20,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,São Paulo
+ID003438,OV000200,2025-03-20,VAS06,Produto Final,Vaso Automatizado para 6 hortalicas,1710.0,São Paulo
+ID003828,OV000201,2025-03-20,VAS08,Produto Final,Vaso Automatizado para 8 hortalicas,2280.0,Salvador
+ID003828,OV000201,2025-03-20,KIT03,Kit,Kit de Cultivo para Ervas Aromáticas,30.0,Salvador
+ID007111,OV000202,2025-03-21,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,Niterói
+ID008146,OV000203,2025-03-21,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,São Paulo
+ID008146,OV000203,2025-03-21,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,São Paulo
+ID008146,OV000203,2025-03-21,KIT01,Kit,Kit de Cultivo para Temperos,30.0,São Paulo
+ID006288,OV000204,2025-03-22,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,Manaus
+ID006288,OV000204,2025-03-22,VAS08,Produto Final,Vaso Automatizado para 8 hortalicas,2280.0,Manaus
+ID006288,OV000204,2025-03-22,KIT03,Kit,Kit de Cultivo para Ervas Aromáticas,30.0,Manaus
+ID006293,OV000205,2025-03-22,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,Belém
+ID009734,OV000206,2025-03-22,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,Belo Horizonte
+ID006683,OV000207,2025-03-23,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,Vitória
+ID004524,OV000208,2025-03-23,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,Rio de Janeiro
+ID004524,OV000208,2025-03-23,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,Rio de Janeiro
+ID004524,OV000208,2025-03-23,VAS01,Produto Final,Vaso Automatizado para 1 hortalicas,800.0,Rio de Janeiro
+ID003682,OV000209,2025-03-24,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,São Paulo
+ID003682,OV000209,2025-03-24,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,São Paulo
+ID003378,OV000210,2025-03-24,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,Vitória
+ID004011,OV000211,2025-03-24,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,Salvador
+ID006116,OV000212,2025-03-25,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,Rio de Janeiro
+ID006116,OV000212,2025-03-25,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,Rio de Janeiro
+ID006116,OV000212,2025-03-25,VAS06,Produto Final,Vaso Automatizado para 6 hortalicas,1710.0,Rio de Janeiro
+ID006116,OV000212,2025-03-25,KIT01,Kit,Kit de Cultivo para Temperos,30.0,Rio de Janeiro
+ID005042,OV000213,2025-03-25,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,Goiânia
+ID005042,OV000213,2025-03-25,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,Goiânia
+ID005042,OV000213,2025-03-25,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,Goiânia
+ID004390,OV000214,2025-03-25,VAS08,Produto Final,Vaso Automatizado para 8 hortalicas,2280.0,Campo Grande
+ID000993,OV000215,2025-03-26,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,São Gonçalo
+ID000993,OV000215,2025-03-26,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,São Gonçalo
+ID010113,OV000216,2025-03-26,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,São Paulo
+ID010113,OV000216,2025-03-26,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,São Paulo
+ID010113,OV000216,2025-03-26,KIT02,Kit,Kit de Cultivo para Saladas,30.0,São Paulo
+ID007672,OV000217,2025-03-27,VAS06,Produto Final,Vaso Automatizado para 6 hortalicas,1710.0,Rio de Janeiro
+ID007672,OV000217,2025-03-27,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,Rio de Janeiro
+ID007672,OV000217,2025-03-27,KIT01,Kit,Kit de Cultivo para Temperos,30.0,Rio de Janeiro
+ID009532,OV000218,2025-03-27,VAS06,Produto Final,Vaso Automatizado para 6 hortalicas,1710.0,Rio de Janeiro
+ID009532,OV000218,2025-03-27,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,Rio de Janeiro
+ID009532,OV000218,2025-03-27,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,Rio de Janeiro
+ID008781,OV000219,2025-03-27,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,Curitiba
+ID008781,OV000219,2025-03-27,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,Curitiba
+ID008781,OV000219,2025-03-27,VAS01,Produto Final,Vaso Automatizado para 1 hortalicas,800.0,Curitiba
+ID007419,OV000220,2025-03-28,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,São Paulo
+ID007419,OV000220,2025-03-28,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,São Paulo
+ID008119,OV000221,2025-03-28,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,Campinas
+ID008296,OV000222,2025-03-29,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,Ribeirão Preto
+ID008296,OV000222,2025-03-29,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,Ribeirão Preto
+ID007119,OV000223,2025-03-29,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,São Paulo
+ID007119,OV000223,2025-03-29,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,São Paulo
+ID007119,OV000223,2025-03-29,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,São Paulo
+ID006823,OV000224,2025-03-29,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,Belém
+ID006823,OV000224,2025-03-29,VAS08,Produto Final,Vaso Automatizado para 8 hortalicas,2280.0,Belém
+ID001791,OV000225,2025-03-30,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,Brasília
+ID010078,OV000226,2025-03-30,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,Manaus
+ID010078,OV000226,2025-03-30,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,Manaus
+ID000917,OV000227,2025-03-30,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,São Paulo
+ID006456,OV000228,2025-03-31,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,Rio de Janeiro
+ID006456,OV000228,2025-03-31,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,Rio de Janeiro
+ID006494,OV000229,2025-03-31,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,São Paulo
+ID006494,OV000229,2025-03-31,VAS01,Produto Final,Vaso Automatizado para 1 hortalicas,800.0,São Paulo
+ID006494,OV000229,2025-03-31,VAS06,Produto Final,Vaso Automatizado para 6 hortalicas,1710.0,São Paulo
+ID010023,OV000230,2025-04-01,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,Manaus
+ID010023,OV000230,2025-04-01,VAS08,Produto Final,Vaso Automatizado para 8 hortalicas,2280.0,Manaus
+ID003214,OV000231,2025-04-01,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,Natal
+ID003214,OV000231,2025-04-01,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,Natal
+ID003214,OV000232,2025-04-01,KIT02,Kit,Kit de Cultivo para Saladas,30.0,Natal
+ID000751,OV000233,2025-04-02,VAS08,Produto Final,Vaso Automatizado para 8 hortalicas,2280.0,São Paulo
+ID009542,OV000234,2025-04-02,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,Brasília
+ID009542,OV000234,2025-04-02,VAS06,Produto Final,Vaso Automatizado para 6 hortalicas,1710.0,Brasília
+ID009542,OV000234,2025-04-02,KIT03,Kit,Kit de Cultivo para Ervas Aromáticas,30.0,Brasília
+ID008919,OV000235,2025-04-03,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,Guarulhos
+ID004352,OV000236,2025-04-03,VAS08,Produto Final,Vaso Automatizado para 8 hortalicas,2280.0,Manaus
+ID004352,OV000236,2025-04-03,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,Manaus
+ID004352,OV000236,2025-04-03,KIT02,Kit,Kit de Cultivo para Saladas,30.0,Manaus
+ID002638,OV000237,2025-04-03,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,Vitória
+ID002638,OV000237,2025-04-03,VAS01,Produto Final,Vaso Automatizado para 1 hortalicas,800.0,Vitória
+ID002638,OV000237,2025-04-03,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,Vitória
+ID007432,OV000238,2025-04-04,VAS01,Produto Final,Vaso Automatizado para 1 hortalicas,800.0,Rio de Janeiro
+ID000807,OV000239,2025-04-04,VAS01,Produto Final,Vaso Automatizado para 1 hortalicas,800.0,São Luís
+ID000807,OV000239,2025-04-04,VAS08,Produto Final,Vaso Automatizado para 8 hortalicas,2280.0,São Luís
+ID000807,OV000239,2025-04-04,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,São Luís
+ID000807,OV000239,2025-04-04,KIT03,Kit,Kit de Cultivo para Ervas Aromáticas,30.0,São Luís
+ID009869,OV000240,2025-04-04,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,Manaus
+ID009869,OV000240,2025-04-04,KIT02,Kit,Kit de Cultivo para Saladas,30.0,Manaus
+ID004034,OV000241,2025-04-05,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,Rio de Janeiro
+ID004034,OV000241,2025-04-05,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,Rio de Janeiro
+ID004034,OV000241,2025-04-05,KIT01,Kit,Kit de Cultivo para Temperos,30.0,Rio de Janeiro
+ID006931,OV000242,2025-04-05,VAS06,Produto Final,Vaso Automatizado para 6 hortalicas,1710.0,Duque de Caxias
+ID006931,OV000242,2025-04-05,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,Duque de Caxias
+ID007948,OV000243,2025-04-06,VAS06,Produto Final,Vaso Automatizado para 6 hortalicas,1710.0,São Paulo
+ID007948,OV000243,2025-04-06,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,São Paulo
+ID000745,OV000244,2025-04-06,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,Brasília
+ID000745,OV000244,2025-04-06,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,Brasília
+ID005469,OV000245,2025-04-06,VAS01,Produto Final,Vaso Automatizado para 1 hortalicas,800.0,Salvador
+ID004348,OV000246,2025-04-07,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,João Pessoa
+ID004588,OV000247,2025-04-07,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,Fortaleza
+ID004416,OV000248,2025-04-08,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,São Paulo
+ID006440,OV000249,2025-04-08,VAS01,Produto Final,Vaso Automatizado para 1 hortalicas,800.0,Rio de Janeiro
+ID006440,OV000249,2025-04-08,KIT03,Kit,Kit de Cultivo para Ervas Aromáticas,30.0,Rio de Janeiro
+ID006665,OV000250,2025-04-08,VAS08,Produto Final,Vaso Automatizado para 8 hortalicas,2280.0,Ribeirão Preto
+ID009336,OV000251,2025-04-09,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,Belo Horizonte
+ID009336,OV000251,2025-04-09,VAS08,Produto Final,Vaso Automatizado para 8 hortalicas,2280.0,Belo Horizonte
+ID009336,OV000251,2025-04-09,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,Belo Horizonte
+ID006911,OV000252,2025-04-09,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,São Paulo
+ID006911,OV000252,2025-04-09,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,São Paulo
+ID010418,OV000253,2025-04-09,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,Rio de Janeiro
+ID010418,OV000253,2025-04-09,KIT02,Kit,Kit de Cultivo para Saladas,30.0,Rio de Janeiro
+ID005452,OV000254,2025-04-10,VAS06,Produto Final,Vaso Automatizado para 6 hortalicas,1710.0,Porto Alegre
+ID005452,OV000254,2025-04-10,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,Porto Alegre
+ID007138,OV000255,2025-04-10,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,São Paulo
+ID007138,OV000255,2025-04-10,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,São Paulo
+ID007138,OV000255,2025-04-10,KIT01,Kit,Kit de Cultivo para Temperos,30.0,São Paulo
+ID006410,OV000256,2025-04-11,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,São Paulo
+ID009739,OV000257,2025-04-11,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,São Paulo
+ID009739,OV000257,2025-04-11,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,São Paulo
+ID009739,OV000257,2025-04-11,KIT01,Kit,Kit de Cultivo para Temperos,30.0,São Paulo
+ID009978,OV000258,2025-04-11,VAS01,Produto Final,Vaso Automatizado para 1 hortalicas,800.0,Curitiba
+ID009978,OV000258,2025-04-11,KIT03,Kit,Kit de Cultivo para Ervas Aromáticas,30.0,Curitiba
+ID000362,OV000259,2025-04-12,VAS06,Produto Final,Vaso Automatizado para 6 hortalicas,1710.0,Porto Alegre
+ID000362,OV000259,2025-04-12,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,Porto Alegre
+ID006413,OV000260,2025-04-12,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,Maceió
+ID006413,OV000260,2025-04-12,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,Maceió
+ID006413,OV000260,2025-04-12,KIT01,Kit,Kit de Cultivo para Temperos,30.0,Maceió
+ID006576,OV000261,2025-04-13,VAS06,Produto Final,Vaso Automatizado para 6 hortalicas,1710.0,Recife
+ID006576,OV000261,2025-04-13,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,Recife
+ID004089,OV000262,2025-04-13,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,Vitória
+ID004089,OV000262,2025-04-13,VAS08,Produto Final,Vaso Automatizado para 8 hortalicas,2280.0,Vitória
+ID006456,OV000263,2025-04-13,POD14,Refil,Pod Refil Pimenta,15.0,Rio de Janeiro
+ID006456,OV000263,2025-04-13,POD10,Refil,Pod Refil Cebolinha,16.0,Rio de Janeiro
+ID006456,OV000263,2025-04-13,KIT02,Kit,Kit de Cultivo para Saladas,30.0,Rio de Janeiro
+ID000649,OV000264,2025-04-14,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,São Gonçalo
+ID010243,OV000265,2025-04-14,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,Belém
+ID010243,OV000265,2025-04-14,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,Belém
+ID003851,OV000266,2025-04-14,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,Curitiba
+ID008434,OV000267,2025-04-15,VAS08,Produto Final,Vaso Automatizado para 8 hortalicas,2280.0,Guarulhos
+ID008434,OV000267,2025-04-15,VAS01,Produto Final,Vaso Automatizado para 1 hortalicas,800.0,Guarulhos
+ID008434,OV000267,2025-04-15,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,Guarulhos
+ID005311,OV000268,2025-04-15,VAS06,Produto Final,Vaso Automatizado para 6 hortalicas,1710.0,Maceió
+ID001694,OV000269,2025-04-16,VAS08,Produto Final,Vaso Automatizado para 8 hortalicas,2280.0,Recife
+ID001694,OV000269,2025-04-16,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,Recife
+ID008933,OV000270,2025-04-16,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,Salvador
+ID009676,OV000271,2025-04-16,VAS01,Produto Final,Vaso Automatizado para 1 hortalicas,800.0,Salvador
+ID009258,OV000272,2025-04-17,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,João Pessoa
+ID009258,OV000272,2025-04-17,VAS01,Produto Final,Vaso Automatizado para 1 hortalicas,800.0,João Pessoa
+ID007548,OV000273,2025-04-17,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,Vitória
+ID007548,OV000273,2025-04-17,VAS06,Produto Final,Vaso Automatizado para 6 hortalicas,1710.0,Vitória
+ID007548,OV000273,2025-04-17,VAS08,Produto Final,Vaso Automatizado para 8 hortalicas,2280.0,Vitória
+ID007548,OV000273,2025-04-17,KIT02,Kit,Kit de Cultivo para Saladas,30.0,Vitória
+ID006929,OV000274,2025-04-18,VAS08,Produto Final,Vaso Automatizado para 8 hortalicas,2280.0,São Paulo
+ID006929,OV000274,2025-04-18,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,São Paulo
+ID006929,OV000274,2025-04-18,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,São Paulo
+ID004165,OV000275,2025-04-18,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,São Paulo
+ID004165,OV000275,2025-04-18,VAS01,Produto Final,Vaso Automatizado para 1 hortalicas,800.0,São Paulo
+ID004165,OV000275,2025-04-18,VAS08,Produto Final,Vaso Automatizado para 8 hortalicas,2280.0,São Paulo
+ID008313,OV000276,2025-04-18,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,Fortaleza
+ID006890,OV000277,2025-04-19,VAS06,Produto Final,Vaso Automatizado para 6 hortalicas,1710.0,Manaus
+ID006707,OV000278,2025-04-19,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,Porto Alegre
+ID006707,OV000278,2025-04-19,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,Porto Alegre
+ID006707,OV000278,2025-04-19,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,Porto Alegre
+ID000248,OV000279,2025-04-19,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,Rio de Janeiro
+ID000248,OV000279,2025-04-19,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,Rio de Janeiro
+ID000248,OV000279,2025-04-19,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,Rio de Janeiro
+ID000722,OV000280,2025-04-20,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,São Paulo
+ID006760,OV000281,2025-04-20,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,Manaus
+ID006760,OV000281,2025-04-20,VAS01,Produto Final,Vaso Automatizado para 1 hortalicas,800.0,Manaus
+ID006760,OV000281,2025-04-20,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,Manaus
+ID001129,OV000282,2025-04-21,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,João Pessoa
+ID009454,OV000283,2025-04-21,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,Belford Roxo
+ID009454,OV000283,2025-04-21,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,Belford Roxo
+ID006542,OV000284,2025-04-21,VAS08,Produto Final,Vaso Automatizado para 8 hortalicas,2280.0,São Paulo
+ID006542,OV000284,2025-04-21,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,São Paulo
+ID007688,OV000285,2025-04-22,VAS06,Produto Final,Vaso Automatizado para 6 hortalicas,1710.0,São Paulo
+ID000986,OV000286,2025-04-22,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,São Paulo
+ID007017,OV000287,2025-04-23,VAS08,Produto Final,Vaso Automatizado para 8 hortalicas,2280.0,São Paulo
+ID007017,OV000287,2025-04-23,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,São Paulo
+ID000421,OV000288,2025-04-23,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,João Pessoa
+ID000421,OV000288,2025-04-23,VAS08,Produto Final,Vaso Automatizado para 8 hortalicas,2280.0,João Pessoa
+ID005289,OV000289,2025-04-23,VAS08,Produto Final,Vaso Automatizado para 8 hortalicas,2280.0,Santos
+ID005289,OV000289,2025-04-23,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,Santos
+ID005289,OV000289,2025-04-23,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,Santos
+ID009196,OV000290,2025-04-24,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,Manaus
+ID002151,OV000291,2025-04-24,VAS06,Produto Final,Vaso Automatizado para 6 hortalicas,1710.0,Rio de Janeiro
+ID002151,OV000291,2025-04-24,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,Rio de Janeiro
+ID002151,OV000291,2025-04-24,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,Rio de Janeiro
+ID002151,OV000291,2025-04-24,KIT03,Kit,Kit de Cultivo para Ervas Aromáticas,30.0,Rio de Janeiro
+ID006475,OV000292,2025-04-24,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,Curitiba
+ID006475,OV000292,2025-04-24,VAS01,Produto Final,Vaso Automatizado para 1 hortalicas,800.0,Curitiba
+ID001217,OV000293,2025-04-25,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,São Paulo
+ID001217,OV000293,2025-04-25,VAS01,Produto Final,Vaso Automatizado para 1 hortalicas,800.0,São Paulo
+ID004698,OV000294,2025-04-25,VAS01,Produto Final,Vaso Automatizado para 1 hortalicas,800.0,Fortaleza
+ID004698,OV000294,2025-04-25,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,Fortaleza
+ID004698,OV000294,2025-04-25,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,Fortaleza
+ID010814,OV000295,2025-04-26,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,São Paulo
+ID009504,OV000296,2025-04-26,VAS06,Produto Final,Vaso Automatizado para 6 hortalicas,1710.0,Salvador
+ID009504,OV000296,2025-04-26,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,Salvador
+ID009504,OV000296,2025-04-26,VAS01,Produto Final,Vaso Automatizado para 1 hortalicas,800.0,Salvador
+ID002708,OV000297,2025-04-26,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,Florianópolis
+ID009279,OV000298,2025-04-27,VAS01,Produto Final,Vaso Automatizado para 1 hortalicas,800.0,São Gonçalo
+ID009279,OV000298,2025-04-27,VAS08,Produto Final,Vaso Automatizado para 8 hortalicas,2280.0,São Gonçalo
+ID009777,OV000299,2025-04-27,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,Fortaleza
+ID009777,OV000299,2025-04-27,VAS06,Produto Final,Vaso Automatizado para 6 hortalicas,1710.0,Fortaleza
+ID007446,OV000300,2025-04-27,VAS06,Produto Final,Vaso Automatizado para 6 hortalicas,1710.0,Campinas
+ID007446,OV000300,2025-04-27,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,Campinas
+ID008962,OV000301,2025-04-28,VAS01,Produto Final,Vaso Automatizado para 1 hortalicas,800.0,Manaus
+ID002580,OV000302,2025-04-28,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,São Paulo
+ID002580,OV000302,2025-04-28,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,São Paulo
+ID000593,OV000303,2025-04-29,VAS08,Produto Final,Vaso Automatizado para 8 hortalicas,2280.0,Teresina
+ID005005,OV000304,2025-04-29,VAS06,Produto Final,Vaso Automatizado para 6 hortalicas,1710.0,São Paulo
+ID005005,OV000304,2025-04-29,VAS08,Produto Final,Vaso Automatizado para 8 hortalicas,2280.0,São Paulo
+ID000290,OV000305,2025-04-29,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,São Paulo
+ID000290,OV000305,2025-04-29,VAS01,Produto Final,Vaso Automatizado para 1 hortalicas,800.0,São Paulo
+ID000290,OV000305,2025-04-29,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,São Paulo
+ID006528,OV000306,2025-04-30,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,Vitória
+ID006528,OV000306,2025-04-30,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,Vitória
+ID004672,OV000307,2025-04-30,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,Nova Iguaçu
+ID004672,OV000307,2025-04-30,VAS06,Produto Final,Vaso Automatizado para 6 hortalicas,1710.0,Nova Iguaçu
+ID006931,OV000308,2025-05-01,POD01,Refil,Pod Refil Alecrim,10.0,Duque de Caxias
+ID006931,OV000308,2025-05-01,POD13,Refil,Pod Refil Espinafre,10.0,Duque de Caxias
+ID006931,OV000308,2025-05-01,POD02,Refil,Pod Refil Cenoura,12.0,Duque de Caxias
+ID006931,OV000308,2025-05-01,KIT02,Kit,Kit de Cultivo para Saladas,30.0,Duque de Caxias
+ID010247,OV000309,2025-05-01,VAS01,Produto Final,Vaso Automatizado para 1 hortalicas,800.0,Fortaleza
+ID009190,OV000310,2025-05-01,VAS06,Produto Final,Vaso Automatizado para 6 hortalicas,1710.0,Florianópolis
+ID009190,OV000310,2025-05-01,VAS08,Produto Final,Vaso Automatizado para 8 hortalicas,2280.0,Florianópolis
+ID007578,OV000311,2025-05-02,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,Porto Alegre
+ID007578,OV000311,2025-05-02,KIT01,Kit,Kit de Cultivo para Temperos,30.0,Porto Alegre
+ID003802,OV000312,2025-05-02,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,João Pessoa
+ID001419,OV000313,2025-05-02,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,Campo Grande
+ID004964,OV000314,2025-05-03,VAS06,Produto Final,Vaso Automatizado para 6 hortalicas,1710.0,Maceió
+ID003297,OV000315,2025-05-03,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,Rio de Janeiro
+ID004255,OV000316,2025-05-04,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,João Pessoa
+ID004255,OV000316,2025-05-04,VAS01,Produto Final,Vaso Automatizado para 1 hortalicas,800.0,João Pessoa
+ID003928,OV000317,2025-05-04,VAS08,Produto Final,Vaso Automatizado para 8 hortalicas,2280.0,Salvador
+ID006291,OV000318,2025-05-04,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,Brasília
+ID006291,OV000318,2025-05-04,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,Brasília
+ID010751,OV000319,2025-05-05,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,Fortaleza
+ID010751,OV000319,2025-05-05,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,Fortaleza
+ID010751,OV000319,2025-05-05,VAS01,Produto Final,Vaso Automatizado para 1 hortalicas,800.0,Fortaleza
+ID001171,OV000320,2025-05-05,VAS01,Produto Final,Vaso Automatizado para 1 hortalicas,800.0,Brasília
+ID001171,OV000320,2025-05-05,VAS06,Produto Final,Vaso Automatizado para 6 hortalicas,1710.0,Brasília
+ID001171,OV000320,2025-05-05,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,Brasília
+ID004871,OV000321,2025-05-06,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,São Paulo
+ID009486,OV000322,2025-05-06,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,Brasília
+ID009486,OV000322,2025-05-06,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,Brasília
+ID007746,OV000323,2025-05-06,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,Duque de Caxias
+ID007746,OV000323,2025-05-06,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,Duque de Caxias
+ID007746,OV000323,2025-05-06,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,Duque de Caxias
+ID000051,OV000324,2025-05-07,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,Nova Iguaçu
+ID000051,OV000324,2025-05-07,VAS08,Produto Final,Vaso Automatizado para 8 hortalicas,2280.0,Nova Iguaçu
+ID006138,OV000325,2025-05-07,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,Guarulhos
+ID006138,OV000325,2025-05-07,VAS06,Produto Final,Vaso Automatizado para 6 hortalicas,1710.0,Guarulhos
+ID004631,OV000326,2025-05-07,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,São Paulo
+ID004631,OV000326,2025-05-07,KIT03,Kit,Kit de Cultivo para Ervas Aromáticas,30.0,São Paulo
+ID003791,OV000327,2025-05-08,VAS08,Produto Final,Vaso Automatizado para 8 hortalicas,2280.0,Guarulhos
+ID003791,OV000327,2025-05-08,VAS06,Produto Final,Vaso Automatizado para 6 hortalicas,1710.0,Guarulhos
+ID008951,OV000328,2025-05-08,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,São Paulo
+ID007971,OV000329,2025-05-09,KIT03,Kit,Kit de Cultivo para Ervas Aromáticas,30.0,Fortaleza
+ID010174,OV000330,2025-05-09,VAS01,Produto Final,Vaso Automatizado para 1 hortalicas,800.0,São Paulo
+ID000140,OV000331,2025-05-09,POD03,Refil,Pod Refil Salsa,8.0,Vitória
+ID000140,OV000331,2025-05-09,KIT01,Kit,Kit de Cultivo para Temperos,30.0,Vitória
+ID004644,OV000332,2025-05-10,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,Teresina
+ID003877,OV000333,2025-05-10,VAS08,Produto Final,Vaso Automatizado para 8 hortalicas,2280.0,Belém
+ID003877,OV000333,2025-05-10,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,Belém
+ID008037,OV000334,2025-05-10,VAS06,Produto Final,Vaso Automatizado para 6 hortalicas,1710.0,Curitiba
+ID008037,OV000334,2025-05-10,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,Curitiba
+ID008037,OV000334,2025-05-10,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,Curitiba
+ID008037,OV000334,2025-05-10,KIT01,Kit,Kit de Cultivo para Temperos,30.0,Curitiba
+ID004468,OV000335,2025-05-11,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,Guarulhos
+ID005794,OV000336,2025-05-11,VAS08,Produto Final,Vaso Automatizado para 8 hortalicas,2280.0,Rio de Janeiro
+ID005794,OV000336,2025-05-11,VAS06,Produto Final,Vaso Automatizado para 6 hortalicas,1710.0,Rio de Janeiro
+ID005586,OV000337,2025-05-12,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,Campo Grande
+ID007547,OV000338,2025-05-12,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,Campinas
+ID004083,OV000339,2025-05-12,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,Rio de Janeiro
+ID004083,OV000339,2025-05-12,KIT02,Kit,Kit de Cultivo para Saladas,30.0,Rio de Janeiro
+ID000693,OV000340,2025-05-13,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,Manaus
+ID009171,OV000341,2025-05-13,VAS01,Produto Final,Vaso Automatizado para 1 hortalicas,800.0,São Paulo
+ID010809,OV000342,2025-05-13,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,São Paulo
+ID007104,OV000343,2025-05-14,VAS08,Produto Final,Vaso Automatizado para 8 hortalicas,2280.0,Rio de Janeiro
+ID005713,OV000344,2025-05-14,VAS01,Produto Final,Vaso Automatizado para 1 hortalicas,800.0,Florianópolis
+ID004870,OV000345,2025-05-15,VAS06,Produto Final,Vaso Automatizado para 6 hortalicas,1710.0,Rio de Janeiro
+ID000446,OV000346,2025-05-15,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,João Pessoa
+ID002415,OV000347,2025-05-15,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,Goiânia
+ID001720,OV000348,2025-05-16,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,Campinas
+ID003329,OV000349,2025-05-16,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,Campinas
+ID003329,OV000349,2025-05-16,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,Campinas
+ID008004,OV000350,2025-05-17,VAS08,Produto Final,Vaso Automatizado para 8 hortalicas,2280.0,Macapá
+ID006464,OV000351,2025-05-17,VAS01,Produto Final,Vaso Automatizado para 1 hortalicas,800.0,Recife
+ID006464,OV000351,2025-05-17,KIT02,Kit,Kit de Cultivo para Saladas,30.0,Recife
+ID007652,OV000352,2025-05-17,VAS08,Produto Final,Vaso Automatizado para 8 hortalicas,2280.0,Belford Roxo
+ID007652,OV000352,2025-05-17,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,Belford Roxo
+ID008861,OV000353,2025-05-18,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,Rio de Janeiro
+ID003570,OV000354,2025-05-18,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,Rio de Janeiro
+ID003570,OV000354,2025-05-18,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,Rio de Janeiro
+ID005168,OV000355,2025-05-18,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,Fortaleza
+ID009531,OV000356,2025-05-19,VAS08,Produto Final,Vaso Automatizado para 8 hortalicas,2280.0,Recife
+ID006681,OV000357,2025-05-19,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,Goiânia
+ID006681,OV000357,2025-05-19,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,Goiânia
+ID002194,OV000358,2025-05-20,VAS01,Produto Final,Vaso Automatizado para 1 hortalicas,800.0,Brasília
+ID002194,OV000358,2025-05-20,KIT01,Kit,Kit de Cultivo para Temperos,30.0,Brasília
+ID003321,OV000359,2025-05-20,VAS08,Produto Final,Vaso Automatizado para 8 hortalicas,2280.0,Belém
+ID003321,OV000359,2025-05-20,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,Belém
+ID003321,OV000359,2025-05-20,VAS01,Produto Final,Vaso Automatizado para 1 hortalicas,800.0,Belém
+ID004421,OV000360,2025-05-20,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,São Paulo
+ID009865,OV000361,2025-05-21,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,Campo Grande
+ID009928,OV000362,2025-05-21,VAS08,Produto Final,Vaso Automatizado para 8 hortalicas,2280.0,Campinas
+ID009928,OV000362,2025-05-21,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,Campinas
+ID000387,OV000363,2025-05-21,VAS06,Produto Final,Vaso Automatizado para 6 hortalicas,1710.0,Fortaleza
+ID000387,OV000363,2025-05-21,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,Fortaleza
+ID000387,OV000363,2025-05-21,VAS08,Produto Final,Vaso Automatizado para 8 hortalicas,2280.0,Fortaleza
+ID007583,OV000364,2025-05-22,VAS08,Produto Final,Vaso Automatizado para 8 hortalicas,2280.0,São Paulo
+ID000259,OV000365,2025-05-22,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,Teresina
+ID001150,OV000366,2025-05-23,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,Santos
+ID003742,OV000367,2025-05-23,VAS01,Produto Final,Vaso Automatizado para 1 hortalicas,800.0,São Paulo
+ID003742,OV000367,2025-05-23,VAS08,Produto Final,Vaso Automatizado para 8 hortalicas,2280.0,São Paulo
+ID003742,OV000367,2025-05-23,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,São Paulo
+ID007123,OV000368,2025-05-23,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,São Paulo
+ID007123,OV000368,2025-05-23,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,São Paulo
+ID002689,OV000369,2025-05-24,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,Niterói
+ID009781,OV000370,2025-05-24,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,Fortaleza
+ID009781,OV000370,2025-05-24,KIT02,Kit,Kit de Cultivo para Saladas,30.0,Fortaleza
+ID005130,OV000371,2025-05-25,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,Recife
+ID000318,OV000372,2025-05-25,VAS01,Produto Final,Vaso Automatizado para 1 hortalicas,800.0,Rio de Janeiro
+ID001146,OV000373,2025-05-25,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,São Paulo
+ID001146,OV000373,2025-05-25,VAS06,Produto Final,Vaso Automatizado para 6 hortalicas,1710.0,São Paulo
+ID004641,OV000374,2025-05-26,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,São Paulo
+ID000525,OV000375,2025-05-26,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,Manaus
+ID000525,OV000375,2025-05-26,KIT02,Kit,Kit de Cultivo para Saladas,30.0,Manaus
+ID004434,OV000376,2025-05-26,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,Fortaleza
+ID002634,OV000377,2025-05-27,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,Campo Grande
+ID002634,OV000377,2025-05-27,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,Campo Grande
+ID002634,OV000377,2025-05-27,KIT03,Kit,Kit de Cultivo para Ervas Aromáticas,30.0,Campo Grande
+ID001888,OV000378,2025-05-27,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,Recife
+ID001888,OV000378,2025-05-27,KIT03,Kit,Kit de Cultivo para Ervas Aromáticas,30.0,Recife
+ID001688,OV000379,2025-05-28,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,Brasília
+ID001688,OV000379,2025-05-28,VAS01,Produto Final,Vaso Automatizado para 1 hortalicas,800.0,Brasília
+ID003432,OV000380,2025-05-28,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,Vitória
+ID003432,OV000380,2025-05-28,VAS01,Produto Final,Vaso Automatizado para 1 hortalicas,800.0,Vitória
+ID003432,OV000380,2025-05-28,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,Vitória
+ID003432,OV000380,2025-05-28,KIT01,Kit,Kit de Cultivo para Temperos,30.0,Vitória
+ID006329,OV000381,2025-05-28,VAS01,Produto Final,Vaso Automatizado para 1 hortalicas,800.0,Teresina
+ID006329,OV000381,2025-05-28,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,Teresina
+ID008211,OV000382,2025-05-29,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,Manaus
+ID008211,OV000382,2025-05-29,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,Manaus
+ID008211,OV000382,2025-05-29,VAS08,Produto Final,Vaso Automatizado para 8 hortalicas,2280.0,Manaus
+ID010184,OV000383,2025-05-29,VAS06,Produto Final,Vaso Automatizado para 6 hortalicas,1710.0,São Paulo
+ID010184,OV000383,2025-05-29,VAS01,Produto Final,Vaso Automatizado para 1 hortalicas,800.0,São Paulo
+ID010184,OV000383,2025-05-29,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,São Paulo
+ID008487,OV000384,2025-05-29,VAS08,Produto Final,Vaso Automatizado para 8 hortalicas,2280.0,São Paulo
+ID008487,OV000384,2025-05-29,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,São Paulo
+ID008487,OV000384,2025-05-29,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,São Paulo
+ID007206,OV000385,2025-05-30,POD05,Refil,Pod Refil Rúcula,15.0,Fortaleza
+ID007206,OV000385,2025-05-30,POD15,Refil,Pod Refil Coentro,14.0,Fortaleza
+ID007206,OV000385,2025-05-30,POD03,Refil,Pod Refil Salsa,8.0,Fortaleza
+ID007206,OV000385,2025-05-30,KIT03,Kit,Kit de Cultivo para Ervas Aromáticas,30.0,Fortaleza
+ID005575,OV000386,2025-05-30,VAS01,Produto Final,Vaso Automatizado para 1 hortalicas,800.0,Belford Roxo
+ID005575,OV000386,2025-05-30,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,Belford Roxo
+ID006199,OV000387,2025-05-31,VAS08,Produto Final,Vaso Automatizado para 8 hortalicas,2280.0,Brasília
+ID006199,OV000387,2025-05-31,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,Brasília
+ID001502,OV000388,2025-05-31,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,Rio de Janeiro
+ID001502,OV000388,2025-05-31,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,Rio de Janeiro
+ID001502,OV000388,2025-05-31,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,Rio de Janeiro
+ID008202,OV000389,2025-05-31,VAS01,Produto Final,Vaso Automatizado para 1 hortalicas,800.0,João Pessoa
+ID008202,OV000389,2025-05-31,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,João Pessoa
+ID001059,OV000390,2025-06-01,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,Salvador
+ID007510,OV000391,2025-06-01,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,Fortaleza
+ID006789,OV000392,2025-06-01,VAS08,Produto Final,Vaso Automatizado para 8 hortalicas,2280.0,São Gonçalo
+ID006789,OV000392,2025-06-01,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,São Gonçalo
+ID006789,OV000392,2025-06-01,VAS06,Produto Final,Vaso Automatizado para 6 hortalicas,1710.0,São Gonçalo
+ID003035,OV000393,2025-06-02,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,Natal
+ID003035,OV000393,2025-06-02,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,Natal
+ID003478,OV000394,2025-06-02,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,Natal
+ID004533,OV000395,2025-06-03,VAS06,Produto Final,Vaso Automatizado para 6 hortalicas,1710.0,Belo Horizonte
+ID003080,OV000396,2025-06-03,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,Brasília
+ID003080,OV000396,2025-06-03,KIT03,Kit,Kit de Cultivo para Ervas Aromáticas,30.0,Brasília
+ID005260,OV000397,2025-06-03,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,Florianópolis
+ID005260,OV000397,2025-06-03,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,Florianópolis
+ID003263,OV000398,2025-06-04,VAS06,Produto Final,Vaso Automatizado para 6 hortalicas,1710.0,São Paulo
+ID001282,OV000399,2025-06-04,VAS06,Produto Final,Vaso Automatizado para 6 hortalicas,1710.0,Santos
+ID001282,OV000399,2025-06-04,VAS08,Produto Final,Vaso Automatizado para 8 hortalicas,2280.0,Santos
+ID001282,OV000399,2025-06-04,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,Santos
+ID003408,OV000400,2025-06-04,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,Vitória
+ID008416,OV000401,2025-06-05,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,Rio de Janeiro
+ID006751,OV000402,2025-06-05,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,Goiânia
+ID006751,OV000402,2025-06-05,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,Goiânia
+ID006751,OV000402,2025-06-05,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,Goiânia
+ID006751,OV000402,2025-06-05,KIT03,Kit,Kit de Cultivo para Ervas Aromáticas,30.0,Goiânia
+ID001736,OV000403,2025-06-06,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,Manaus
+ID001736,OV000403,2025-06-06,VAS08,Produto Final,Vaso Automatizado para 8 hortalicas,2280.0,Manaus
+ID001736,OV000403,2025-06-06,KIT03,Kit,Kit de Cultivo para Ervas Aromáticas,30.0,Manaus
+ID002872,OV000404,2025-06-06,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,Vitória
+ID002872,OV000404,2025-06-06,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,Vitória
+ID002872,OV000404,2025-06-06,VAS08,Produto Final,Vaso Automatizado para 8 hortalicas,2280.0,Vitória
+ID001265,OV000405,2025-06-06,VAS01,Produto Final,Vaso Automatizado para 1 hortalicas,800.0,Rio de Janeiro
+ID004741,OV000406,2025-06-07,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,São Gonçalo
+ID009321,OV000407,2025-06-07,VAS08,Produto Final,Vaso Automatizado para 8 hortalicas,2280.0,São Luís
+ID004900,OV000408,2025-06-07,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,Duque de Caxias
+ID004900,OV000408,2025-06-07,VAS01,Produto Final,Vaso Automatizado para 1 hortalicas,800.0,Duque de Caxias
+ID004736,OV000409,2025-06-08,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,São Paulo
+ID004736,OV000409,2025-06-08,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,São Paulo
+ID004736,OV000409,2025-06-08,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,São Paulo
+ID005628,OV000410,2025-06-08,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,São Paulo
+ID005628,OV000410,2025-06-08,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,São Paulo
+ID005628,OV000410,2025-06-08,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,São Paulo
+ID002274,OV000411,2025-06-09,VAS01,Produto Final,Vaso Automatizado para 1 hortalicas,800.0,Fortaleza
+ID010083,OV000412,2025-06-09,VAS01,Produto Final,Vaso Automatizado para 1 hortalicas,800.0,Belém
+ID005752,OV000413,2025-06-09,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,Niterói
+ID010154,OV000414,2025-06-10,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,Rio de Janeiro
+ID010154,OV000414,2025-06-10,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,Rio de Janeiro
+ID001317,OV000415,2025-06-10,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,Manaus
+ID001317,OV000415,2025-06-10,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,Manaus
+ID010096,OV000416,2025-06-11,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,Rio de Janeiro
+ID010096,OV000416,2025-06-11,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,Rio de Janeiro
+ID008975,OV000417,2025-06-11,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,São Paulo
+ID008975,OV000417,2025-06-11,VAS01,Produto Final,Vaso Automatizado para 1 hortalicas,800.0,São Paulo
+ID004712,OV000418,2025-06-11,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,Rio de Janeiro
+ID004712,OV000418,2025-06-11,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,Rio de Janeiro
+ID003037,OV000419,2025-06-12,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,Rio de Janeiro
+ID003037,OV000419,2025-06-12,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,Rio de Janeiro
+ID006587,OV000420,2025-06-12,VAS01,Produto Final,Vaso Automatizado para 1 hortalicas,800.0,Brasília
+ID007233,OV000421,2025-06-12,VAS08,Produto Final,Vaso Automatizado para 8 hortalicas,2280.0,São Paulo
+ID007233,OV000421,2025-06-12,VAS06,Produto Final,Vaso Automatizado para 6 hortalicas,1710.0,São Paulo
+ID004774,OV000422,2025-06-13,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,Santos
+ID000356,OV000423,2025-06-13,VAS08,Produto Final,Vaso Automatizado para 8 hortalicas,2280.0,Manaus
+ID005665,OV000424,2025-06-14,VAS08,Produto Final,Vaso Automatizado para 8 hortalicas,2280.0,Curitiba
+ID005665,OV000424,2025-06-14,KIT01,Kit,Kit de Cultivo para Temperos,30.0,Curitiba
+ID005610,OV000425,2025-06-14,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,Fortaleza
+ID003506,OV000426,2025-06-14,VAS01,Produto Final,Vaso Automatizado para 1 hortalicas,800.0,Rio de Janeiro
+ID009809,OV000427,2025-06-15,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,Santos
+ID009809,OV000427,2025-06-15,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,Santos
+ID009809,OV000427,2025-06-15,KIT02,Kit,Kit de Cultivo para Saladas,30.0,Santos
+ID001052,OV000428,2025-06-15,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,Maceió
+ID001052,OV000428,2025-06-15,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,Maceió
+ID001295,OV000429,2025-06-15,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,Campo Grande
+ID001295,OV000429,2025-06-15,VAS01,Produto Final,Vaso Automatizado para 1 hortalicas,800.0,Campo Grande
+ID004761,OV000430,2025-06-16,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,Rio de Janeiro
+ID005666,OV000431,2025-06-16,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,Fortaleza
+ID005666,OV000431,2025-06-16,KIT03,Kit,Kit de Cultivo para Ervas Aromáticas,30.0,Fortaleza
+ID004226,OV000432,2025-06-17,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,Campo Grande
+ID007310,OV000433,2025-06-17,VAS01,Produto Final,Vaso Automatizado para 1 hortalicas,800.0,Florianópolis
+ID002274,OV000434,2025-06-17,KIT03,Kit,Kit de Cultivo para Ervas Aromáticas,30.0,Fortaleza
+ID004277,OV000435,2025-06-18,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,São Paulo
+ID009470,OV000436,2025-06-18,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,Rio de Janeiro
+ID009470,OV000436,2025-06-18,KIT01,Kit,Kit de Cultivo para Temperos,30.0,Rio de Janeiro
+ID003734,OV000437,2025-06-18,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,Belém
+ID000212,OV000438,2025-06-19,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,Salvador
+ID002292,OV000439,2025-06-19,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,Natal
+ID006715,OV000440,2025-06-20,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,Natal
+ID006715,OV000440,2025-06-20,VAS08,Produto Final,Vaso Automatizado para 8 hortalicas,2280.0,Natal
+ID006770,OV000441,2025-06-20,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,Maceió
+ID008531,OV000442,2025-06-20,VAS08,Produto Final,Vaso Automatizado para 8 hortalicas,2280.0,Manaus
+ID008531,OV000442,2025-06-20,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,Manaus
+ID008531,OV000442,2025-06-20,KIT03,Kit,Kit de Cultivo para Ervas Aromáticas,30.0,Manaus
+ID003591,OV000443,2025-06-21,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,Nova Iguaçu
+ID003591,OV000443,2025-06-21,VAS06,Produto Final,Vaso Automatizado para 6 hortalicas,1710.0,Nova Iguaçu
+ID002354,OV000444,2025-06-21,VAS01,Produto Final,Vaso Automatizado para 1 hortalicas,800.0,Rio de Janeiro
+ID002354,OV000444,2025-06-21,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,Rio de Janeiro
+ID005747,OV000445,2025-06-21,VAS06,Produto Final,Vaso Automatizado para 6 hortalicas,1710.0,Campo Grande
+ID005747,OV000445,2025-06-21,KIT01,Kit,Kit de Cultivo para Temperos,30.0,Campo Grande
+ID007775,OV000446,2025-06-22,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,São Paulo
+ID008278,OV000447,2025-06-22,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,Duque de Caxias
+ID008278,OV000447,2025-06-22,KIT02,Kit,Kit de Cultivo para Saladas,30.0,Duque de Caxias
+ID006002,OV000448,2025-06-23,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,Recife
+ID006002,OV000448,2025-06-23,VAS06,Produto Final,Vaso Automatizado para 6 hortalicas,1710.0,Recife
+ID006002,OV000448,2025-06-23,KIT02,Kit,Kit de Cultivo para Saladas,30.0,Recife
+ID006066,OV000449,2025-06-23,VAS01,Produto Final,Vaso Automatizado para 1 hortalicas,800.0,São Paulo
+ID006066,OV000449,2025-06-23,KIT03,Kit,Kit de Cultivo para Ervas Aromáticas,30.0,São Paulo
+ID010205,OV000450,2025-06-23,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,Manaus
+ID010205,OV000450,2025-06-23,KIT01,Kit,Kit de Cultivo para Temperos,30.0,Manaus
+ID003621,OV000451,2025-06-24,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,Rio de Janeiro
+ID002504,OV000452,2025-06-24,VAS08,Produto Final,Vaso Automatizado para 8 hortalicas,2280.0,Natal
+ID002504,OV000452,2025-06-24,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,Natal
+ID002504,OV000452,2025-06-24,KIT02,Kit,Kit de Cultivo para Saladas,30.0,Natal
+ID009029,OV000453,2025-06-24,VAS08,Produto Final,Vaso Automatizado para 8 hortalicas,2280.0,Ribeirão Preto
+ID009029,OV000453,2025-06-24,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,Ribeirão Preto
+ID009029,OV000453,2025-06-24,KIT03,Kit,Kit de Cultivo para Ervas Aromáticas,30.0,Ribeirão Preto
+ID004887,OV000454,2025-06-25,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,São Gonçalo
+ID004887,OV000454,2025-06-25,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,São Gonçalo
+ID010817,OV000455,2025-06-25,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,Manaus
+ID010817,OV000455,2025-06-25,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,Manaus
+ID010817,OV000455,2025-06-25,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,Manaus
+ID004396,OV000456,2025-06-26,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,Campinas
+ID004396,OV000456,2025-06-26,KIT01,Kit,Kit de Cultivo para Temperos,30.0,Campinas
+ID008385,OV000457,2025-06-26,KIT01,Kit,Kit de Cultivo para Temperos,30.0,Belém
+ID005671,OV000458,2025-06-26,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,São Paulo
+ID005671,OV000458,2025-06-26,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,São Paulo
+ID005671,OV000458,2025-06-26,VAS06,Produto Final,Vaso Automatizado para 6 hortalicas,1710.0,São Paulo
+ID008624,OV000459,2025-06-27,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,São Paulo
+ID008624,OV000459,2025-06-27,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,São Paulo
+ID010813,OV000460,2025-06-27,VAS06,Produto Final,Vaso Automatizado para 6 hortalicas,1710.0,Guarulhos
+ID007058,OV000461,2025-06-27,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,Manaus
+ID009462,OV000462,2025-06-28,VAS08,Produto Final,Vaso Automatizado para 8 hortalicas,2280.0,Florianópolis
+ID000286,OV000463,2025-06-28,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,Curitiba
+ID000286,OV000463,2025-06-28,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,Curitiba
+ID006266,OV000464,2025-06-29,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,São Paulo
+ID006266,OV000464,2025-06-29,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,São Paulo
+ID005677,OV000465,2025-06-29,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,São Paulo
+ID005677,OV000465,2025-06-29,VAS08,Produto Final,Vaso Automatizado para 8 hortalicas,2280.0,São Paulo
+ID005677,OV000465,2025-06-29,KIT01,Kit,Kit de Cultivo para Temperos,30.0,São Paulo
+ID005776,OV000466,2025-06-29,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,Belém
+ID008700,OV000467,2025-06-30,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,Curitiba
+ID008700,OV000467,2025-06-30,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,Curitiba
+ID001530,OV000468,2025-06-30,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,Vitória
+ID001530,OV000468,2025-06-30,VAS06,Produto Final,Vaso Automatizado para 6 hortalicas,1710.0,Vitória
+ID001530,OV000468,2025-06-30,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,Vitória
+ID000318,OV000469,2025-06-30,POD10,Refil,Pod Refil Cebolinha,16.0,Rio de Janeiro
+ID000318,OV000469,2025-06-30,POD11,Refil,Pod Refil Salsa,10.0,Rio de Janeiro
+ID000318,OV000469,2025-06-30,KIT02,Kit,Kit de Cultivo para Saladas,30.0,Rio de Janeiro
+ID000501,OV000470,2025-07-01,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,Rio de Janeiro
+ID000501,OV000470,2025-07-01,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,Rio de Janeiro
+ID003501,OV000471,2025-07-01,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,Natal
+ID002242,OV000472,2025-07-02,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,Guarulhos
+ID002580,OV000473,2025-07-02,POD12,Refil,Pod Refil Tomate-cereja,10.0,São Paulo
+ID002580,OV000473,2025-07-02,POD13,Refil,Pod Refil Espinafre,10.0,São Paulo
+ID002580,OV000473,2025-07-02,KIT02,Kit,Kit de Cultivo para Saladas,30.0,São Paulo
+ID004781,OV000474,2025-07-02,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,Guarulhos
+ID004781,OV000474,2025-07-02,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,Guarulhos
+ID004781,OV000474,2025-07-02,KIT01,Kit,Kit de Cultivo para Temperos,30.0,Guarulhos
+ID007428,OV000475,2025-07-03,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,Brasília
+ID003361,OV000476,2025-07-03,VAS08,Produto Final,Vaso Automatizado para 8 hortalicas,2280.0,Nova Iguaçu
+ID003361,OV000476,2025-07-03,VAS06,Produto Final,Vaso Automatizado para 6 hortalicas,1710.0,Nova Iguaçu
+ID004552,OV000477,2025-07-03,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,Manaus
+ID004552,OV000477,2025-07-03,KIT01,Kit,Kit de Cultivo para Temperos,30.0,Manaus
+ID001633,OV000478,2025-07-04,VAS08,Produto Final,Vaso Automatizado para 8 hortalicas,2280.0,Manaus
+ID001633,OV000478,2025-07-04,VAS06,Produto Final,Vaso Automatizado para 6 hortalicas,1710.0,Manaus
+ID001633,OV000478,2025-07-04,KIT03,Kit,Kit de Cultivo para Ervas Aromáticas,30.0,Manaus
+ID003793,OV000479,2025-07-04,VAS01,Produto Final,Vaso Automatizado para 1 hortalicas,800.0,Curitiba
+ID003793,OV000479,2025-07-04,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,Curitiba
+ID003793,OV000479,2025-07-04,VAS06,Produto Final,Vaso Automatizado para 6 hortalicas,1710.0,Curitiba
+ID003793,OV000479,2025-07-04,KIT03,Kit,Kit de Cultivo para Ervas Aromáticas,30.0,Curitiba
+ID002755,OV000480,2025-07-04,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,São Paulo
+ID002755,OV000480,2025-07-04,KIT03,Kit,Kit de Cultivo para Ervas Aromáticas,30.0,São Paulo
+ID006762,OV000481,2025-07-05,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,Rio de Janeiro
+ID000272,OV000482,2025-07-05,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,São Paulo
+ID000272,OV000482,2025-07-05,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,São Paulo
+ID000272,OV000482,2025-07-05,VAS08,Produto Final,Vaso Automatizado para 8 hortalicas,2280.0,São Paulo
+ID000875,OV000483,2025-07-06,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,São Paulo
+ID003453,OV000484,2025-07-06,VAS01,Produto Final,Vaso Automatizado para 1 hortalicas,800.0,Campo Grande
+ID003376,OV000485,2025-07-06,VAS06,Produto Final,Vaso Automatizado para 6 hortalicas,1710.0,São Paulo
+ID002179,OV000486,2025-07-07,VAS08,Produto Final,Vaso Automatizado para 8 hortalicas,2280.0,Belford Roxo
+ID002179,OV000486,2025-07-07,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,Belford Roxo
+ID002179,OV000486,2025-07-07,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,Belford Roxo
+ID009828,OV000487,2025-07-07,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,São Gonçalo
+ID009828,OV000487,2025-07-07,VAS08,Produto Final,Vaso Automatizado para 8 hortalicas,2280.0,São Gonçalo
+ID009828,OV000487,2025-07-07,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,São Gonçalo
+ID009828,OV000487,2025-07-07,KIT01,Kit,Kit de Cultivo para Temperos,30.0,São Gonçalo
+ID006059,OV000488,2025-07-07,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,Rio de Janeiro
+ID006059,OV000488,2025-07-07,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,Rio de Janeiro
+ID006059,OV000488,2025-07-07,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,Rio de Janeiro
+ID004542,OV000489,2025-07-08,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,Natal
+ID009885,OV000490,2025-07-08,VAS06,Produto Final,Vaso Automatizado para 6 hortalicas,1710.0,Fortaleza
+ID009182,OV000491,2025-07-09,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,Teresina
+ID009182,OV000491,2025-07-09,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,Teresina
+ID010005,OV000492,2025-07-09,VAS06,Produto Final,Vaso Automatizado para 6 hortalicas,1710.0,São Luís
+ID007924,OV000493,2025-07-09,VAS06,Produto Final,Vaso Automatizado para 6 hortalicas,1710.0,Salvador
+ID009013,OV000494,2025-07-10,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,Fortaleza
+ID009013,OV000494,2025-07-10,VAS08,Produto Final,Vaso Automatizado para 8 hortalicas,2280.0,Fortaleza
+ID009013,OV000494,2025-07-10,KIT01,Kit,Kit de Cultivo para Temperos,30.0,Fortaleza
+ID009985,OV000495,2025-07-10,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,São Paulo
+ID003729,OV000496,2025-07-10,VAS01,Produto Final,Vaso Automatizado para 1 hortalicas,800.0,Porto Alegre
+ID008813,OV000497,2025-07-11,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,São Paulo
+ID008813,OV000497,2025-07-11,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,São Paulo
+ID005190,OV000498,2025-07-11,VAS06,Produto Final,Vaso Automatizado para 6 hortalicas,1710.0,São Paulo
+ID000059,OV000499,2025-07-12,VAS01,Produto Final,Vaso Automatizado para 1 hortalicas,800.0,Curitiba
+ID000059,OV000499,2025-07-12,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,Curitiba
+ID002559,OV000500,2025-07-12,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,São Paulo
+ID008534,OV000501,2025-07-12,VAS01,Produto Final,Vaso Automatizado para 1 hortalicas,800.0,Curitiba
+ID008534,OV000501,2025-07-12,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,Curitiba
+ID009955,OV000502,2025-07-13,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,Ribeirão Preto
+ID000329,OV000503,2025-07-13,VAS08,Produto Final,Vaso Automatizado para 8 hortalicas,2280.0,São Paulo
+ID000329,OV000503,2025-07-13,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,São Paulo
+ID010691,OV000504,2025-07-13,VAS01,Produto Final,Vaso Automatizado para 1 hortalicas,800.0,Campinas
+ID008368,OV000505,2025-07-14,VAS08,Produto Final,Vaso Automatizado para 8 hortalicas,2280.0,São Paulo
+ID008368,OV000505,2025-07-14,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,São Paulo
+ID009450,OV000506,2025-07-14,VAS08,Produto Final,Vaso Automatizado para 8 hortalicas,2280.0,Duque de Caxias
+ID009450,OV000506,2025-07-14,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,Duque de Caxias
+ID009450,OV000506,2025-07-14,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,Duque de Caxias
+ID000326,OV000507,2025-07-15,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,Goiânia
+ID000326,OV000507,2025-07-15,VAS08,Produto Final,Vaso Automatizado para 8 hortalicas,2280.0,Goiânia
+ID008865,OV000508,2025-07-15,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,São Paulo
+ID010651,OV000509,2025-07-15,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,Campo Grande
+ID010313,OV000510,2025-07-16,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,Rio de Janeiro
+ID007355,OV000511,2025-07-16,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,Campo Grande
+ID003870,OV000512,2025-07-16,VAS01,Produto Final,Vaso Automatizado para 1 hortalicas,800.0,Rio de Janeiro
+ID001675,OV000513,2025-07-17,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,Belo Horizonte
+ID001675,OV000513,2025-07-17,VAS08,Produto Final,Vaso Automatizado para 8 hortalicas,2280.0,Belo Horizonte
+ID002492,OV000514,2025-07-17,VAS01,Produto Final,Vaso Automatizado para 1 hortalicas,800.0,Campo Grande
+ID002492,OV000514,2025-07-17,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,Campo Grande
+ID002492,OV000514,2025-07-17,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,Campo Grande
+ID006293,OV000515,2025-07-18,POD12,Refil,Pod Refil Tomate-cereja,10.0,Belém
+ID006293,OV000515,2025-07-18,POD13,Refil,Pod Refil Espinafre,10.0,Belém
+ID006293,OV000515,2025-07-18,VAS08,Produto Final,Vaso Automatizado para 8 hortalicas,2280.0,Belém
+ID006293,OV000515,2025-07-18,KIT01,Kit,Kit de Cultivo para Temperos,30.0,Belém
+ID009669,OV000516,2025-07-18,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,São Paulo
+ID004589,OV000517,2025-07-18,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,Brasília
+ID004589,OV000517,2025-07-18,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,Brasília
+ID004589,OV000517,2025-07-18,VAS08,Produto Final,Vaso Automatizado para 8 hortalicas,2280.0,Brasília
+ID009140,OV000518,2025-07-19,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,Niterói
+ID010838,OV000519,2025-07-19,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,Goiânia
+ID010838,OV000519,2025-07-19,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,Goiânia
+ID010838,OV000519,2025-07-19,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,Goiânia
+ID009101,OV000520,2025-07-19,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,São Paulo
+ID009101,OV000520,2025-07-19,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,São Paulo
+ID002183,OV000521,2025-07-20,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,Brasília
+ID002183,OV000521,2025-07-20,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,Brasília
+ID002183,OV000521,2025-07-20,VAS01,Produto Final,Vaso Automatizado para 1 hortalicas,800.0,Brasília
+ID007048,OV000522,2025-07-20,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,Brasília
+ID009094,OV000523,2025-07-20,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,São Paulo
+ID009094,OV000523,2025-07-20,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,São Paulo
+ID009094,OV000523,2025-07-20,VAS08,Produto Final,Vaso Automatizado para 8 hortalicas,2280.0,São Paulo
+ID001790,OV000524,2025-07-21,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,Curitiba
+ID001790,OV000524,2025-07-21,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,Curitiba
+ID001625,OV000525,2025-07-21,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,São Paulo
+ID005325,OV000526,2025-07-22,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,São Gonçalo
+ID001885,OV000527,2025-07-22,VAS01,Produto Final,Vaso Automatizado para 1 hortalicas,800.0,São Paulo
+ID004075,OV000528,2025-07-22,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,Rio de Janeiro
+ID004075,OV000528,2025-07-22,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,Rio de Janeiro
+ID004075,OV000528,2025-07-22,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,Rio de Janeiro
+ID004075,OV000528,2025-07-22,KIT01,Kit,Kit de Cultivo para Temperos,30.0,Rio de Janeiro
+ID004049,OV000529,2025-07-23,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,Rio de Janeiro
+ID004049,OV000529,2025-07-23,KIT03,Kit,Kit de Cultivo para Ervas Aromáticas,30.0,Rio de Janeiro
+ID001089,OV000530,2025-07-23,VAS08,Produto Final,Vaso Automatizado para 8 hortalicas,2280.0,Natal
+ID003103,OV000531,2025-07-23,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,São Gonçalo
+ID010540,OV000532,2025-07-24,VAS01,Produto Final,Vaso Automatizado para 1 hortalicas,800.0,Manaus
+ID010540,OV000532,2025-07-24,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,Manaus
+ID010456,OV000533,2025-07-24,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,Rio de Janeiro
+ID004972,OV000534,2025-07-25,VAS08,Produto Final,Vaso Automatizado para 8 hortalicas,2280.0,Salvador
+ID004972,OV000534,2025-07-25,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,Salvador
+ID006948,OV000535,2025-07-25,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,Belo Horizonte
+ID009422,OV000536,2025-07-25,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,Porto Alegre
+ID009422,OV000536,2025-07-25,KIT03,Kit,Kit de Cultivo para Ervas Aromáticas,30.0,Porto Alegre
+ID004993,OV000537,2025-07-26,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,João Pessoa
+ID006745,OV000538,2025-07-26,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,São Luís
+ID004858,OV000539,2025-07-26,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,São Paulo
+ID004820,OV000540,2025-07-27,VAS06,Produto Final,Vaso Automatizado para 6 hortalicas,1710.0,Manaus
+ID002566,OV000541,2025-07-27,VAS08,Produto Final,Vaso Automatizado para 8 hortalicas,2280.0,Rio de Janeiro
+ID002566,OV000541,2025-07-27,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,Rio de Janeiro
+ID002566,OV000541,2025-07-27,VAS06,Produto Final,Vaso Automatizado para 6 hortalicas,1710.0,Rio de Janeiro
+ID004663,OV000542,2025-07-28,VAS06,Produto Final,Vaso Automatizado para 6 hortalicas,1710.0,São Paulo
+ID004663,OV000542,2025-07-28,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,São Paulo
+ID001883,OV000543,2025-07-28,VAS01,Produto Final,Vaso Automatizado para 1 hortalicas,800.0,São Paulo
+ID006546,OV000544,2025-07-28,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,São Paulo
+ID006546,OV000544,2025-07-28,VAS06,Produto Final,Vaso Automatizado para 6 hortalicas,1710.0,São Paulo
+ID001824,OV000545,2025-07-29,VAS01,Produto Final,Vaso Automatizado para 1 hortalicas,800.0,Belo Horizonte
+ID001824,OV000545,2025-07-29,KIT01,Kit,Kit de Cultivo para Temperos,30.0,Belo Horizonte
+ID009721,OV000546,2025-07-29,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,São Paulo
+ID009721,OV000546,2025-07-29,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,São Paulo
+ID003914,OV000547,2025-07-29,VAS08,Produto Final,Vaso Automatizado para 8 hortalicas,2280.0,Goiânia
+ID003914,OV000547,2025-07-29,KIT02,Kit,Kit de Cultivo para Saladas,30.0,Goiânia
+ID002091,OV000548,2025-07-30,VAS01,Produto Final,Vaso Automatizado para 1 hortalicas,800.0,Fortaleza
+ID007060,OV000549,2025-07-30,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,Belo Horizonte
+ID007060,OV000549,2025-07-30,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,Belo Horizonte
+ID007170,OV000550,2025-07-30,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,Guarulhos
+ID007170,OV000550,2025-07-30,VAS08,Produto Final,Vaso Automatizado para 8 hortalicas,2280.0,Guarulhos
+ID007170,OV000550,2025-07-30,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,Guarulhos
+ID006468,OV000551,2025-07-31,VAS01,Produto Final,Vaso Automatizado para 1 hortalicas,800.0,Rio de Janeiro
+ID006468,OV000551,2025-07-31,KIT01,Kit,Kit de Cultivo para Temperos,30.0,Rio de Janeiro
+ID009228,OV000552,2025-07-31,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,São Paulo
+ID007719,OV000553,2025-08-01,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,São Paulo
+ID000429,OV000554,2025-08-01,VAS08,Produto Final,Vaso Automatizado para 8 hortalicas,2280.0,Manaus
+ID000429,OV000554,2025-08-01,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,Manaus
+ID000429,OV000554,2025-08-01,VAS06,Produto Final,Vaso Automatizado para 6 hortalicas,1710.0,Manaus
+ID000429,OV000554,2025-08-01,KIT01,Kit,Kit de Cultivo para Temperos,30.0,Manaus
+ID001000,OV000555,2025-08-01,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,Recife
+ID007514,OV000556,2025-08-02,VAS01,Produto Final,Vaso Automatizado para 1 hortalicas,800.0,Duque de Caxias
+ID007514,OV000556,2025-08-02,VAS06,Produto Final,Vaso Automatizado para 6 hortalicas,1710.0,Duque de Caxias
+ID007514,OV000556,2025-08-02,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,Duque de Caxias
+ID008121,OV000557,2025-08-02,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,Belo Horizonte
+ID008121,OV000557,2025-08-02,VAS08,Produto Final,Vaso Automatizado para 8 hortalicas,2280.0,Belo Horizonte
+ID010543,OV000558,2025-08-02,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,Brasília
+ID010543,OV000558,2025-08-02,VAS01,Produto Final,Vaso Automatizado para 1 hortalicas,800.0,Brasília
+ID010543,OV000558,2025-08-02,VAS08,Produto Final,Vaso Automatizado para 8 hortalicas,2280.0,Brasília
+ID006801,OV000559,2025-08-03,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,Curitiba
+ID006801,OV000559,2025-08-03,KIT01,Kit,Kit de Cultivo para Temperos,30.0,Curitiba
+ID002732,OV000560,2025-08-03,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,Belo Horizonte
+ID004480,OV000561,2025-08-04,VAS08,Produto Final,Vaso Automatizado para 8 hortalicas,2280.0,Manaus
+ID003914,OV000562,2025-08-04,KIT03,Kit,Kit de Cultivo para Ervas Aromáticas,30.0,Goiânia
+ID007160,OV000563,2025-08-04,VAS08,Produto Final,Vaso Automatizado para 8 hortalicas,2280.0,Porto Alegre
+ID010127,OV000564,2025-08-05,VAS01,Produto Final,Vaso Automatizado para 1 hortalicas,800.0,São Gonçalo
+ID010127,OV000564,2025-08-05,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,São Gonçalo
+ID008929,OV000565,2025-08-05,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,São Paulo
+ID008929,OV000565,2025-08-05,VAS08,Produto Final,Vaso Automatizado para 8 hortalicas,2280.0,São Paulo
+ID008929,OV000565,2025-08-05,VAS06,Produto Final,Vaso Automatizado para 6 hortalicas,1710.0,São Paulo
+ID000976,OV000566,2025-08-05,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,Belo Horizonte
+ID000976,OV000566,2025-08-05,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,Belo Horizonte
+ID003856,OV000567,2025-08-06,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,Nova Iguaçu
+ID006437,OV000568,2025-08-06,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,Fortaleza
+ID006437,OV000568,2025-08-06,VAS06,Produto Final,Vaso Automatizado para 6 hortalicas,1710.0,Fortaleza
+ID007653,OV000569,2025-08-06,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,Fortaleza
+ID002662,OV000570,2025-08-07,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,São Luís
+ID009975,OV000571,2025-08-07,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,Brasília
+ID009975,OV000571,2025-08-07,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,Brasília
+ID006819,OV000572,2025-08-08,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,Salvador
+ID005204,OV000573,2025-08-08,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,Brasília
+ID005204,OV000573,2025-08-08,KIT03,Kit,Kit de Cultivo para Ervas Aromáticas,30.0,Brasília
+ID005386,OV000574,2025-08-08,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,São Paulo
+ID009480,OV000575,2025-08-09,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,São Paulo
+ID003401,OV000576,2025-08-09,VAS01,Produto Final,Vaso Automatizado para 1 hortalicas,800.0,Rio de Janeiro
+ID003401,OV000576,2025-08-09,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,Rio de Janeiro
+ID003061,OV000577,2025-08-09,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,São Gonçalo
+ID002721,OV000578,2025-08-10,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,Rio de Janeiro
+ID002721,OV000578,2025-08-10,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,Rio de Janeiro
+ID002721,OV000578,2025-08-10,VAS08,Produto Final,Vaso Automatizado para 8 hortalicas,2280.0,Rio de Janeiro
+ID002721,OV000578,2025-08-10,KIT02,Kit,Kit de Cultivo para Saladas,30.0,Rio de Janeiro
+ID004839,OV000579,2025-08-10,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,Brasília
+ID004839,OV000579,2025-08-10,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,Brasília
+ID004839,OV000579,2025-08-10,KIT03,Kit,Kit de Cultivo para Ervas Aromáticas,30.0,Brasília
+ID009096,OV000580,2025-08-11,VAS06,Produto Final,Vaso Automatizado para 6 hortalicas,1710.0,Salvador
+ID009096,OV000580,2025-08-11,VAS08,Produto Final,Vaso Automatizado para 8 hortalicas,2280.0,Salvador
+ID009096,OV000580,2025-08-11,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,Salvador
+ID001229,OV000581,2025-08-11,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,Duque de Caxias
+ID001229,OV000581,2025-08-11,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,Duque de Caxias
+ID001229,OV000581,2025-08-11,VAS08,Produto Final,Vaso Automatizado para 8 hortalicas,2280.0,Duque de Caxias
+ID000375,OV000582,2025-08-11,VAS01,Produto Final,Vaso Automatizado para 1 hortalicas,800.0,Belém
+ID009419,OV000583,2025-08-12,VAS06,Produto Final,Vaso Automatizado para 6 hortalicas,1710.0,Salvador
+ID000406,OV000584,2025-08-12,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,Curitiba
+ID006621,OV000585,2025-08-12,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,Goiânia
+ID006621,OV000585,2025-08-12,VAS08,Produto Final,Vaso Automatizado para 8 hortalicas,2280.0,Goiânia
+ID006621,OV000585,2025-08-12,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,Goiânia
+ID006621,OV000585,2025-08-12,KIT02,Kit,Kit de Cultivo para Saladas,30.0,Goiânia
+ID000270,OV000586,2025-08-13,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,São Paulo
+ID005669,OV000587,2025-08-13,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,Recife
+ID002270,OV000588,2025-08-13,VAS01,Produto Final,Vaso Automatizado para 1 hortalicas,800.0,São Luís
+ID010645,OV000589,2025-08-14,VAS06,Produto Final,Vaso Automatizado para 6 hortalicas,1710.0,Duque de Caxias
+ID009669,OV000590,2025-08-14,POD15,Refil,Pod Refil Coentro,14.0,São Paulo
+ID009669,OV000590,2025-08-14,KIT03,Kit,Kit de Cultivo para Ervas Aromáticas,30.0,São Paulo
+ID002810,OV000591,2025-08-15,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,Rio de Janeiro
+ID002810,OV000591,2025-08-15,KIT01,Kit,Kit de Cultivo para Temperos,30.0,Rio de Janeiro
+ID000330,OV000592,2025-08-15,VAS01,Produto Final,Vaso Automatizado para 1 hortalicas,800.0,Campinas
+ID002334,OV000593,2025-08-15,VAS06,Produto Final,Vaso Automatizado para 6 hortalicas,1710.0,Brasília
+ID002334,OV000593,2025-08-15,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,Brasília
+ID009287,OV000594,2025-08-16,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,Brasília
+ID009287,OV000594,2025-08-16,VAS06,Produto Final,Vaso Automatizado para 6 hortalicas,1710.0,Brasília
+ID005472,OV000595,2025-08-16,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,Maceió
+ID008182,OV000596,2025-08-16,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,Guarulhos
+ID008182,OV000596,2025-08-16,VAS06,Produto Final,Vaso Automatizado para 6 hortalicas,1710.0,Guarulhos
+ID000932,OV000597,2025-08-17,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,Manaus
+ID003539,OV000598,2025-08-17,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,Duque de Caxias
+ID003539,OV000598,2025-08-17,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,Duque de Caxias
+ID009568,OV000599,2025-08-17,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,Fortaleza
+ID009568,OV000599,2025-08-17,KIT01,Kit,Kit de Cultivo para Temperos,30.0,Fortaleza
+ID008948,OV000600,2025-08-18,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,Vitória
+ID006358,OV000601,2025-08-18,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,São Paulo
+ID008053,OV000602,2025-08-19,VAS08,Produto Final,Vaso Automatizado para 8 hortalicas,2280.0,Ribeirão Preto
+ID008053,OV000602,2025-08-19,VAS06,Produto Final,Vaso Automatizado para 6 hortalicas,1710.0,Ribeirão Preto
+ID008053,OV000602,2025-08-19,VAS01,Produto Final,Vaso Automatizado para 1 hortalicas,800.0,Ribeirão Preto
+ID008053,OV000602,2025-08-19,KIT03,Kit,Kit de Cultivo para Ervas Aromáticas,30.0,Ribeirão Preto
+ID000339,OV000603,2025-08-19,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,São Paulo
+ID004853,OV000604,2025-08-19,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,Porto Alegre
+ID004853,OV000604,2025-08-19,VAS08,Produto Final,Vaso Automatizado para 8 hortalicas,2280.0,Porto Alegre
+ID004853,OV000604,2025-08-19,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,Porto Alegre
+ID004853,OV000604,2025-08-19,KIT03,Kit,Kit de Cultivo para Ervas Aromáticas,30.0,Porto Alegre
+ID001919,OV000605,2025-08-20,POD02,Refil,Pod Refil Cenoura,12.0,Salvador
+ID001919,OV000605,2025-08-20,KIT02,Kit,Kit de Cultivo para Saladas,30.0,Salvador
+ID000005,OV000606,2025-08-20,VAS06,Produto Final,Vaso Automatizado para 6 hortalicas,1710.0,Goiânia
+ID000005,OV000606,2025-08-20,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,Goiânia
+ID008424,OV000607,2025-08-20,VAS08,Produto Final,Vaso Automatizado para 8 hortalicas,2280.0,São Paulo
+ID008424,OV000607,2025-08-20,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,São Paulo
+ID008424,OV000607,2025-08-20,VAS06,Produto Final,Vaso Automatizado para 6 hortalicas,1710.0,São Paulo
+ID007956,OV000608,2025-08-21,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,Belo Horizonte
+ID007956,OV000608,2025-08-21,VAS01,Produto Final,Vaso Automatizado para 1 hortalicas,800.0,Belo Horizonte
+ID008945,OV000609,2025-08-21,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,Campo Grande
+ID008945,OV000609,2025-08-21,VAS08,Produto Final,Vaso Automatizado para 8 hortalicas,2280.0,Campo Grande
+ID008945,OV000609,2025-08-21,KIT03,Kit,Kit de Cultivo para Ervas Aromáticas,30.0,Campo Grande
+ID007018,OV000610,2025-08-21,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,Rio de Janeiro
+ID007018,OV000610,2025-08-21,VAS01,Produto Final,Vaso Automatizado para 1 hortalicas,800.0,Rio de Janeiro
+ID002182,OV000611,2025-08-22,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,Manaus
+ID002182,OV000611,2025-08-22,VAS06,Produto Final,Vaso Automatizado para 6 hortalicas,1710.0,Manaus
+ID008266,OV000612,2025-08-22,VAS01,Produto Final,Vaso Automatizado para 1 hortalicas,800.0,Brasília
+ID008266,OV000612,2025-08-22,KIT02,Kit,Kit de Cultivo para Saladas,30.0,Brasília
+ID002377,OV000613,2025-08-23,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,Brasília
+ID005825,OV000614,2025-08-23,VAS06,Produto Final,Vaso Automatizado para 6 hortalicas,1710.0,Belo Horizonte
+ID005825,OV000614,2025-08-23,KIT02,Kit,Kit de Cultivo para Saladas,30.0,Belo Horizonte
+ID003729,OV000615,2025-08-23,POD02,Refil,Pod Refil Cenoura,12.0,Porto Alegre
+ID003729,OV000615,2025-08-23,KIT03,Kit,Kit de Cultivo para Ervas Aromáticas,30.0,Porto Alegre
+ID006928,OV000616,2025-08-24,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,Fortaleza
+ID009864,OV000617,2025-08-24,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,São Paulo
+ID001641,OV000618,2025-08-24,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,Rio de Janeiro
+ID004358,OV000619,2025-08-25,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,Brasília
+ID004358,OV000619,2025-08-25,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,Brasília
+ID004358,OV000619,2025-08-25,KIT01,Kit,Kit de Cultivo para Temperos,30.0,Brasília
+ID004292,OV000620,2025-08-25,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,Belém
+ID004292,OV000620,2025-08-25,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,Belém
+ID002431,OV000621,2025-08-25,VAS08,Produto Final,Vaso Automatizado para 8 hortalicas,2280.0,Porto Alegre
+ID002431,OV000621,2025-08-25,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,Porto Alegre
+ID002384,OV000622,2025-08-26,VAS08,Produto Final,Vaso Automatizado para 8 hortalicas,2280.0,Belo Horizonte
+ID002384,OV000622,2025-08-26,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,Belo Horizonte
+ID005785,OV000623,2025-08-26,VAS08,Produto Final,Vaso Automatizado para 8 hortalicas,2280.0,Belo Horizonte
+ID006929,OV000624,2025-08-27,POD15,Refil,Pod Refil Coentro,14.0,São Paulo
+ID006929,OV000624,2025-08-27,POD13,Refil,Pod Refil Espinafre,10.0,São Paulo
+ID006929,OV000624,2025-08-27,KIT02,Kit,Kit de Cultivo para Saladas,30.0,São Paulo
+ID008329,OV000625,2025-08-27,VAS06,Produto Final,Vaso Automatizado para 6 hortalicas,1710.0,Vitória
+ID008329,OV000625,2025-08-27,VAS01,Produto Final,Vaso Automatizado para 1 hortalicas,800.0,Vitória
+ID008329,OV000625,2025-08-27,KIT01,Kit,Kit de Cultivo para Temperos,30.0,Vitória
+ID008856,OV000626,2025-08-27,VAS01,Produto Final,Vaso Automatizado para 1 hortalicas,800.0,Brasília
+ID006305,OV000627,2025-08-28,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,Fortaleza
+ID002915,OV000628,2025-08-28,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,São Paulo
+ID002915,OV000628,2025-08-28,VAS08,Produto Final,Vaso Automatizado para 8 hortalicas,2280.0,São Paulo
+ID010694,OV000629,2025-08-28,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,Rio de Janeiro
+ID001992,OV000630,2025-08-29,VAS01,Produto Final,Vaso Automatizado para 1 hortalicas,800.0,São Paulo
+ID001992,OV000630,2025-08-29,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,São Paulo
+ID001992,OV000630,2025-08-29,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,São Paulo
+ID001992,OV000630,2025-08-29,KIT01,Kit,Kit de Cultivo para Temperos,30.0,São Paulo
+ID004048,OV000631,2025-08-29,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,Campo Grande
+ID000498,OV000632,2025-08-29,VAS06,Produto Final,Vaso Automatizado para 6 hortalicas,1710.0,Rio de Janeiro
+ID002110,OV000633,2025-08-30,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,Manaus
+ID002110,OV000633,2025-08-30,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,Manaus
+ID006847,OV000634,2025-08-30,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,Rio de Janeiro
+ID006847,OV000634,2025-08-30,KIT03,Kit,Kit de Cultivo para Ervas Aromáticas,30.0,Rio de Janeiro
+ID009149,OV000635,2025-08-31,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,Porto Alegre
+ID009149,OV000635,2025-08-31,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,Porto Alegre
+ID010109,OV000636,2025-08-31,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,São Paulo
+ID007963,OV000637,2025-08-31,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,Recife
+ID007963,OV000637,2025-08-31,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,Recife
+ID006344,OV000638,2025-09-01,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,São Paulo
+ID006344,OV000638,2025-09-01,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,São Paulo
+ID004386,OV000639,2025-09-01,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,São Paulo
+ID004533,OV000640,2025-09-01,POD08,Refil,Pod Refil Alface,10.0,Belo Horizonte
+ID004533,OV000640,2025-09-01,POD07,Refil,Pod Refil Couve,10.0,Belo Horizonte
+ID004533,OV000640,2025-09-01,KIT01,Kit,Kit de Cultivo para Temperos,30.0,Belo Horizonte
+ID002687,OV000641,2025-09-02,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,Manaus
+ID007641,OV000642,2025-09-02,VAS06,Produto Final,Vaso Automatizado para 6 hortalicas,1710.0,Brasília
+ID007641,OV000642,2025-09-02,KIT01,Kit,Kit de Cultivo para Temperos,30.0,Brasília
+ID004912,OV000643,2025-09-02,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,São Paulo
+ID003963,OV000644,2025-09-03,VAS01,Produto Final,Vaso Automatizado para 1 hortalicas,800.0,Campinas
+ID004581,OV000645,2025-09-03,VAS01,Produto Final,Vaso Automatizado para 1 hortalicas,800.0,São Gonçalo
+ID004581,OV000645,2025-09-03,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,São Gonçalo
+ID010163,OV000646,2025-09-04,VAS06,Produto Final,Vaso Automatizado para 6 hortalicas,1710.0,Rio de Janeiro
+ID010163,OV000646,2025-09-04,VAS01,Produto Final,Vaso Automatizado para 1 hortalicas,800.0,Rio de Janeiro
+ID010163,OV000646,2025-09-04,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,Rio de Janeiro
+ID004241,OV000647,2025-09-04,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,Salvador
+ID007955,OV000648,2025-09-04,POD14,Refil,Pod Refil Pimenta,15.0,Belém
+ID007955,OV000648,2025-09-04,POD02,Refil,Pod Refil Cenoura,12.0,Belém
+ID007955,OV000648,2025-09-04,POD09,Refil,Pod Refil Cebola,16.0,Belém
+ID007955,OV000648,2025-09-04,KIT01,Kit,Kit de Cultivo para Temperos,30.0,Belém
+ID007383,OV000649,2025-09-05,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,São Paulo
+ID008342,OV000650,2025-09-05,VAS06,Produto Final,Vaso Automatizado para 6 hortalicas,1710.0,Brasília
+ID008342,OV000650,2025-09-05,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,Brasília
+ID007575,OV000651,2025-09-05,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,São Paulo
+ID007575,OV000651,2025-09-05,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,São Paulo
+ID000142,OV000652,2025-09-06,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,Belém
+ID007446,OV000653,2025-09-06,POD12,Refil,Pod Refil Tomate-cereja,10.0,Campinas
+ID007446,OV000653,2025-09-06,POD13,Refil,Pod Refil Espinafre,10.0,Campinas
+ID007446,OV000653,2025-09-06,KIT03,Kit,Kit de Cultivo para Ervas Aromáticas,30.0,Campinas
+ID008369,OV000654,2025-09-06,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,São Paulo
+ID008369,OV000654,2025-09-06,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,São Paulo
+ID004071,OV000655,2025-09-07,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,Rio de Janeiro
+ID004071,OV000655,2025-09-07,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,Rio de Janeiro
+ID004289,OV000656,2025-09-07,VAS06,Produto Final,Vaso Automatizado para 6 hortalicas,1710.0,Fortaleza
+ID004289,OV000656,2025-09-07,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,Fortaleza
+ID001829,OV000657,2025-09-08,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,Manaus
+ID001829,OV000657,2025-09-08,VAS08,Produto Final,Vaso Automatizado para 8 hortalicas,2280.0,Manaus
+ID001829,OV000657,2025-09-08,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,Manaus
+ID001829,OV000657,2025-09-08,KIT01,Kit,Kit de Cultivo para Temperos,30.0,Manaus
+ID006073,OV000658,2025-09-08,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,São Paulo
+ID006073,OV000658,2025-09-08,KIT01,Kit,Kit de Cultivo para Temperos,30.0,São Paulo
+ID008840,OV000659,2025-09-08,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,Rio de Janeiro
+ID008840,OV000659,2025-09-08,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,Rio de Janeiro
+ID008840,OV000659,2025-09-08,VAS06,Produto Final,Vaso Automatizado para 6 hortalicas,1710.0,Rio de Janeiro
+ID003034,OV000660,2025-09-09,VAS01,Produto Final,Vaso Automatizado para 1 hortalicas,800.0,Goiânia
+ID003034,OV000660,2025-09-09,VAS08,Produto Final,Vaso Automatizado para 8 hortalicas,2280.0,Goiânia
+ID003034,OV000660,2025-09-09,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,Goiânia
+ID009349,OV000661,2025-09-09,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,Salvador
+ID002862,OV000662,2025-09-09,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,Brasília
+ID002862,OV000662,2025-09-09,VAS01,Produto Final,Vaso Automatizado para 1 hortalicas,800.0,Brasília
+ID001823,OV000663,2025-09-10,VAS08,Produto Final,Vaso Automatizado para 8 hortalicas,2280.0,Teresina
+ID001823,OV000663,2025-09-10,VAS06,Produto Final,Vaso Automatizado para 6 hortalicas,1710.0,Teresina
+ID001823,OV000663,2025-09-10,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,Teresina
+ID010319,OV000664,2025-09-10,VAS01,Produto Final,Vaso Automatizado para 1 hortalicas,800.0,Recife
+ID010319,OV000664,2025-09-10,VAS08,Produto Final,Vaso Automatizado para 8 hortalicas,2280.0,Recife
+ID001182,OV000665,2025-09-10,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,São Paulo
+ID001182,OV000665,2025-09-10,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,São Paulo
+ID001182,OV000665,2025-09-10,VAS06,Produto Final,Vaso Automatizado para 6 hortalicas,1710.0,São Paulo
+ID004827,OV000666,2025-09-11,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,Porto Alegre
+ID004827,OV000666,2025-09-11,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,Porto Alegre
+ID004827,OV000666,2025-09-11,VAS01,Produto Final,Vaso Automatizado para 1 hortalicas,800.0,Porto Alegre
+ID004448,OV000667,2025-09-11,KIT02,Kit,Kit de Cultivo para Saladas,30.0,Curitiba
+ID003504,OV000668,2025-09-11,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,Santos
+ID003504,OV000668,2025-09-11,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,Santos
+ID003504,OV000668,2025-09-11,VAS06,Produto Final,Vaso Automatizado para 6 hortalicas,1710.0,Santos
+ID000543,OV000669,2025-09-12,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,Porto Alegre
+ID000543,OV000669,2025-09-12,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,Porto Alegre
+ID009161,OV000670,2025-09-12,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,São Luís
+ID009161,OV000670,2025-09-12,VAS06,Produto Final,Vaso Automatizado para 6 hortalicas,1710.0,São Luís
+ID003434,OV000671,2025-09-13,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,Curitiba
+ID008416,OV000672,2025-09-13,POD10,Refil,Pod Refil Cebolinha,16.0,Rio de Janeiro
+ID008416,OV000672,2025-09-13,KIT02,Kit,Kit de Cultivo para Saladas,30.0,Rio de Janeiro
+ID001258,OV000673,2025-09-13,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,Duque de Caxias
+ID001258,OV000673,2025-09-13,VAS08,Produto Final,Vaso Automatizado para 8 hortalicas,2280.0,Duque de Caxias
+ID006246,OV000674,2025-09-14,VAS01,Produto Final,Vaso Automatizado para 1 hortalicas,800.0,Rio de Janeiro
+ID006246,OV000674,2025-09-14,KIT02,Kit,Kit de Cultivo para Saladas,30.0,Rio de Janeiro
+ID009489,OV000675,2025-09-14,VAS08,Produto Final,Vaso Automatizado para 8 hortalicas,2280.0,Recife
+ID009489,OV000675,2025-09-14,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,Recife
+ID010100,OV000676,2025-09-14,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,São Paulo
+ID010100,OV000676,2025-09-14,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,São Paulo
+ID004396,OV000677,2025-09-15,POD06,Refil,Pod Refil Beterraba,10.0,Campinas
+ID004396,OV000677,2025-09-15,POD08,Refil,Pod Refil Alface,10.0,Campinas
+ID004396,OV000677,2025-09-15,POD10,Refil,Pod Refil Cebolinha,16.0,Campinas
+ID004396,OV000677,2025-09-15,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,Campinas
+ID004396,OV000677,2025-09-15,KIT03,Kit,Kit de Cultivo para Ervas Aromáticas,30.0,Campinas
+ID005544,OV000678,2025-09-15,VAS08,Produto Final,Vaso Automatizado para 8 hortalicas,2280.0,São Paulo
+ID008221,OV000679,2025-09-15,VAS06,Produto Final,Vaso Automatizado para 6 hortalicas,1710.0,Brasília
+ID010820,OV000680,2025-09-16,VAS01,Produto Final,Vaso Automatizado para 1 hortalicas,800.0,Manaus
+ID010262,OV000681,2025-09-16,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,São Paulo
+ID006274,OV000682,2025-09-17,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,São Paulo
+ID002917,OV000683,2025-09-17,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,Belém
+ID002917,OV000683,2025-09-17,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,Belém
+ID010065,OV000684,2025-09-17,VAS01,Produto Final,Vaso Automatizado para 1 hortalicas,800.0,João Pessoa
+ID010065,OV000684,2025-09-17,KIT02,Kit,Kit de Cultivo para Saladas,30.0,João Pessoa
+ID006477,OV000685,2025-09-18,VAS01,Produto Final,Vaso Automatizado para 1 hortalicas,800.0,São Gonçalo
+ID006477,OV000685,2025-09-18,KIT01,Kit,Kit de Cultivo para Temperos,30.0,São Gonçalo
+ID003400,OV000686,2025-09-18,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,Nova Iguaçu
+ID002993,OV000687,2025-09-18,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,Salvador
+ID002993,OV000687,2025-09-18,KIT01,Kit,Kit de Cultivo para Temperos,30.0,Salvador
+ID003002,OV000688,2025-09-19,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,Fortaleza
+ID000325,OV000689,2025-09-19,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,Campo Grande
+ID000325,OV000689,2025-09-19,VAS01,Produto Final,Vaso Automatizado para 1 hortalicas,800.0,Campo Grande
+ID000325,OV000689,2025-09-19,KIT01,Kit,Kit de Cultivo para Temperos,30.0,Campo Grande
+ID009998,OV000690,2025-09-19,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,Recife
+ID001667,OV000691,2025-09-20,VAS08,Produto Final,Vaso Automatizado para 8 hortalicas,2280.0,São Paulo
+ID001667,OV000691,2025-09-20,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,São Paulo
+ID003199,OV000692,2025-09-20,VAS01,Produto Final,Vaso Automatizado para 1 hortalicas,800.0,São Paulo
+ID003199,OV000692,2025-09-20,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,São Paulo
+ID003199,OV000692,2025-09-20,KIT02,Kit,Kit de Cultivo para Saladas,30.0,São Paulo
+ID002535,OV000693,2025-09-20,VAS01,Produto Final,Vaso Automatizado para 1 hortalicas,800.0,Vitória
+ID009999,OV000694,2025-09-21,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,Manaus
+ID009999,OV000694,2025-09-21,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,Manaus
+ID009999,OV000694,2025-09-21,KIT02,Kit,Kit de Cultivo para Saladas,30.0,Manaus
+ID008101,OV000695,2025-09-21,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,Teresina
+ID008101,OV000695,2025-09-21,KIT02,Kit,Kit de Cultivo para Saladas,30.0,Teresina
+ID007877,OV000696,2025-09-22,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,Guarulhos
+ID007877,OV000696,2025-09-22,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,Guarulhos
+ID004515,OV000697,2025-09-22,VAS01,Produto Final,Vaso Automatizado para 1 hortalicas,800.0,São Paulo
+ID007838,OV000698,2025-09-22,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,Brasília
+ID007838,OV000698,2025-09-22,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,Brasília
+ID007240,OV000699,2025-09-23,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,São Paulo
+ID007240,OV000699,2025-09-23,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,São Paulo
+ID007240,OV000699,2025-09-23,KIT01,Kit,Kit de Cultivo para Temperos,30.0,São Paulo
+ID010328,OV000700,2025-09-23,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,Belo Horizonte
+ID000648,OV000701,2025-09-23,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,Vitória
+ID000648,OV000701,2025-09-23,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,Vitória
+ID005369,OV000702,2025-09-24,POD01,Refil,Pod Refil Alecrim,10.0,Porto Alegre
+ID005369,OV000702,2025-09-24,KIT01,Kit,Kit de Cultivo para Temperos,30.0,Porto Alegre
+ID002620,OV000703,2025-09-24,VAS08,Produto Final,Vaso Automatizado para 8 hortalicas,2280.0,Maceió
+ID002620,OV000703,2025-09-24,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,Maceió
+ID002620,OV000703,2025-09-24,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,Maceió
+ID003373,OV000704,2025-09-24,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,Rio de Janeiro
+ID004287,OV000705,2025-09-25,VAS01,Produto Final,Vaso Automatizado para 1 hortalicas,800.0,Belford Roxo
+ID009285,OV000706,2025-09-25,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,Campinas
+ID006696,OV000707,2025-09-25,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,Duque de Caxias
+ID003562,OV000708,2025-09-26,VAS01,Produto Final,Vaso Automatizado para 1 hortalicas,800.0,São Paulo
+ID003562,OV000708,2025-09-26,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,São Paulo
+ID003562,OV000708,2025-09-26,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,São Paulo
+ID003562,OV000708,2025-09-26,KIT01,Kit,Kit de Cultivo para Temperos,30.0,São Paulo
+ID003632,OV000709,2025-09-26,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,Salvador
+ID003632,OV000709,2025-09-26,VAS01,Produto Final,Vaso Automatizado para 1 hortalicas,800.0,Salvador
+ID003632,OV000709,2025-09-26,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,Salvador
+ID003754,OV000710,2025-09-27,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,Fortaleza
+ID003754,OV000710,2025-09-27,VAS06,Produto Final,Vaso Automatizado para 6 hortalicas,1710.0,Fortaleza
+ID006544,OV000711,2025-09-27,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,São Paulo
+ID006544,OV000711,2025-09-27,KIT03,Kit,Kit de Cultivo para Ervas Aromáticas,30.0,São Paulo
+ID009120,OV000712,2025-09-27,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,Belo Horizonte
+ID009120,OV000712,2025-09-27,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,Belo Horizonte
+ID008475,OV000713,2025-09-28,VAS06,Produto Final,Vaso Automatizado para 6 hortalicas,1710.0,Macapá
+ID008475,OV000713,2025-09-28,VAS01,Produto Final,Vaso Automatizado para 1 hortalicas,800.0,Macapá
+ID006233,OV000714,2025-09-28,VAS08,Produto Final,Vaso Automatizado para 8 hortalicas,2280.0,Natal
+ID004269,OV000715,2025-09-28,VAS08,Produto Final,Vaso Automatizado para 8 hortalicas,2280.0,Natal
+ID004269,OV000715,2025-09-28,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,Natal
+ID008531,OV000716,2025-09-29,POD10,Refil,Pod Refil Cebolinha,16.0,Manaus
+ID008531,OV000716,2025-09-29,KIT03,Kit,Kit de Cultivo para Ervas Aromáticas,30.0,Manaus
+ID005290,OV000717,2025-09-29,VAS08,Produto Final,Vaso Automatizado para 8 hortalicas,2280.0,Belford Roxo
+ID005290,OV000717,2025-09-29,KIT02,Kit,Kit de Cultivo para Saladas,30.0,Belford Roxo
+ID008796,OV000718,2025-09-29,VAS01,Produto Final,Vaso Automatizado para 1 hortalicas,800.0,Natal
+ID010129,OV000719,2025-09-30,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,Vitória
+ID010129,OV000719,2025-09-30,VAS06,Produto Final,Vaso Automatizado para 6 hortalicas,1710.0,Vitória
+ID010129,OV000719,2025-09-30,KIT03,Kit,Kit de Cultivo para Ervas Aromáticas,30.0,Vitória
+ID009240,OV000720,2025-09-30,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,Belo Horizonte
+ID009850,OV000721,2025-09-30,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,São Paulo
+ID009850,OV000721,2025-09-30,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,São Paulo
+ID008653,OV000722,2025-10-01,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,Salvador
+ID001002,OV000723,2025-10-01,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,São Paulo
+ID004876,OV000724,2025-10-02,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,São Paulo
+ID004876,OV000724,2025-10-02,VAS08,Produto Final,Vaso Automatizado para 8 hortalicas,2280.0,São Paulo
+ID009461,OV000725,2025-10-02,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,São Paulo
+ID009461,OV000725,2025-10-02,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,São Paulo
+ID009461,OV000725,2025-10-02,VAS06,Produto Final,Vaso Automatizado para 6 hortalicas,1710.0,São Paulo
+ID007932,OV000726,2025-10-02,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,Salvador
+ID007932,OV000726,2025-10-02,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,Salvador
+ID001723,OV000727,2025-10-03,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,Porto Alegre
+ID001723,OV000727,2025-10-03,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,Porto Alegre
+ID001723,OV000727,2025-10-03,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,Porto Alegre
+ID003490,OV000728,2025-10-03,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,São Luís
+ID003490,OV000728,2025-10-03,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,São Luís
+ID003490,OV000728,2025-10-03,VAS01,Produto Final,Vaso Automatizado para 1 hortalicas,800.0,São Luís
+ID008237,OV000729,2025-10-03,VAS08,Produto Final,Vaso Automatizado para 8 hortalicas,2280.0,Maceió
+ID008237,OV000729,2025-10-03,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,Maceió
+ID002445,OV000730,2025-10-04,VAS08,Produto Final,Vaso Automatizado para 8 hortalicas,2280.0,Fortaleza
+ID009098,OV000731,2025-10-04,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,Curitiba
+ID000836,OV000732,2025-10-04,VAS01,Produto Final,Vaso Automatizado para 1 hortalicas,800.0,Guarulhos
+ID000836,OV000732,2025-10-04,KIT02,Kit,Kit de Cultivo para Saladas,30.0,Guarulhos
+ID003066,OV000733,2025-10-05,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,Brasília
+ID003066,OV000733,2025-10-05,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,Brasília
+ID007894,OV000734,2025-10-05,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,São Paulo
+ID005531,OV000735,2025-10-05,VAS08,Produto Final,Vaso Automatizado para 8 hortalicas,2280.0,Porto Alegre
+ID005531,OV000735,2025-10-05,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,Porto Alegre
+ID000814,OV000736,2025-10-06,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,Rio de Janeiro
+ID000814,OV000736,2025-10-06,VAS01,Produto Final,Vaso Automatizado para 1 hortalicas,800.0,Rio de Janeiro
+ID000814,OV000736,2025-10-06,KIT03,Kit,Kit de Cultivo para Ervas Aromáticas,30.0,Rio de Janeiro
+ID010793,OV000737,2025-10-06,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,Rio de Janeiro
+ID010793,OV000737,2025-10-06,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,Rio de Janeiro
+ID010793,OV000737,2025-10-06,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,Rio de Janeiro
+ID006690,OV000738,2025-10-06,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,Rio de Janeiro
+ID006690,OV000738,2025-10-06,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,Rio de Janeiro
+ID004222,OV000739,2025-10-07,VAS06,Produto Final,Vaso Automatizado para 6 hortalicas,1710.0,Duque de Caxias
+ID009234,OV000740,2025-10-07,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,São Luís
+ID009234,OV000740,2025-10-07,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,São Luís
+ID008591,OV000741,2025-10-08,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,São Paulo
+ID008591,OV000741,2025-10-08,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,São Paulo
+ID002827,OV000742,2025-10-08,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,Fortaleza
+ID006602,OV000743,2025-10-08,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,Fortaleza
+ID006602,OV000743,2025-10-08,VAS08,Produto Final,Vaso Automatizado para 8 hortalicas,2280.0,Fortaleza
+ID008416,OV000744,2025-10-09,POD13,Refil,Pod Refil Espinafre,10.0,Rio de Janeiro
+ID008416,OV000744,2025-10-09,POD04,Refil,Pod Refil Manjericão,9.0,Rio de Janeiro
+ID008416,OV000744,2025-10-09,KIT01,Kit,Kit de Cultivo para Temperos,30.0,Rio de Janeiro
+ID001268,OV000745,2025-10-09,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,Brasília
+ID001268,OV000745,2025-10-09,KIT03,Kit,Kit de Cultivo para Ervas Aromáticas,30.0,Brasília
+ID010135,OV000746,2025-10-09,VAS01,Produto Final,Vaso Automatizado para 1 hortalicas,800.0,São Paulo
+ID010360,OV000747,2025-10-10,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,Fortaleza
+ID010360,OV000747,2025-10-10,VAS06,Produto Final,Vaso Automatizado para 6 hortalicas,1710.0,Fortaleza
+ID010811,OV000748,2025-10-10,VAS01,Produto Final,Vaso Automatizado para 1 hortalicas,800.0,Belo Horizonte
+ID008604,OV000749,2025-10-10,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,Recife
+ID008604,OV000749,2025-10-10,KIT03,Kit,Kit de Cultivo para Ervas Aromáticas,30.0,Recife
+ID005363,OV000750,2025-10-11,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,Rio de Janeiro
+ID008908,OV000751,2025-10-11,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,Curitiba
+ID000057,OV000752,2025-10-11,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,Rio de Janeiro
+ID009159,OV000753,2025-10-12,VAS01,Produto Final,Vaso Automatizado para 1 hortalicas,800.0,Goiânia
+ID006836,OV000754,2025-10-12,VAS06,Produto Final,Vaso Automatizado para 6 hortalicas,1710.0,Goiânia
+ID006836,OV000754,2025-10-12,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,Goiânia
+ID006836,OV000754,2025-10-12,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,Goiânia
+ID007812,OV000755,2025-10-12,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,Porto Alegre
+ID001171,OV000756,2025-10-13,POD15,Refil,Pod Refil Coentro,14.0,Brasília
+ID001171,OV000756,2025-10-13,POD06,Refil,Pod Refil Beterraba,10.0,Brasília
+ID001171,OV000756,2025-10-13,KIT03,Kit,Kit de Cultivo para Ervas Aromáticas,30.0,Brasília
+ID008230,OV000757,2025-10-13,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,Guarulhos
+ID008230,OV000757,2025-10-13,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,Guarulhos
+ID008230,OV000757,2025-10-13,KIT01,Kit,Kit de Cultivo para Temperos,30.0,Guarulhos
+ID006862,OV000758,2025-10-14,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,Fortaleza
+ID006862,OV000758,2025-10-14,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,Fortaleza
+ID010737,OV000759,2025-10-14,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,Guarulhos
+ID010737,OV000759,2025-10-14,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,Guarulhos
+ID010574,OV000760,2025-10-14,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,Recife
+ID010574,OV000760,2025-10-14,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,Recife
+ID010574,OV000760,2025-10-14,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,Recife
+ID008840,OV000761,2025-10-15,POD10,Refil,Pod Refil Cebolinha,16.0,Rio de Janeiro
+ID008840,OV000761,2025-10-15,POD09,Refil,Pod Refil Cebola,16.0,Rio de Janeiro
+ID008840,OV000761,2025-10-15,KIT02,Kit,Kit de Cultivo para Saladas,30.0,Rio de Janeiro
+ID008385,OV000762,2025-10-15,POD15,Refil,Pod Refil Coentro,14.0,Belém
+ID008385,OV000762,2025-10-15,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,Belém
+ID008385,OV000762,2025-10-15,KIT02,Kit,Kit de Cultivo para Saladas,30.0,Belém
+ID000235,OV000763,2025-10-15,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,Brasília
+ID004992,OV000764,2025-10-16,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,Rio de Janeiro
+ID005164,OV000765,2025-10-16,VAS08,Produto Final,Vaso Automatizado para 8 hortalicas,2280.0,Brasília
+ID005164,OV000765,2025-10-16,VAS01,Produto Final,Vaso Automatizado para 1 hortalicas,800.0,Brasília
+ID005299,OV000766,2025-10-16,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,Macapá
+ID005299,OV000766,2025-10-16,VAS06,Produto Final,Vaso Automatizado para 6 hortalicas,1710.0,Macapá
+ID005299,OV000766,2025-10-16,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,Macapá
+ID005299,OV000766,2025-10-16,KIT03,Kit,Kit de Cultivo para Ervas Aromáticas,30.0,Macapá
+ID006599,OV000767,2025-10-17,VAS06,Produto Final,Vaso Automatizado para 6 hortalicas,1710.0,Rio de Janeiro
+ID006599,OV000767,2025-10-17,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,Rio de Janeiro
+ID002672,OV000768,2025-10-17,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,Salvador
+ID002672,OV000768,2025-10-17,VAS01,Produto Final,Vaso Automatizado para 1 hortalicas,800.0,Salvador
+ID003189,OV000769,2025-10-17,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,São Paulo
+ID003189,OV000769,2025-10-17,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,São Paulo
+ID006759,OV000770,2025-10-18,VAS01,Produto Final,Vaso Automatizado para 1 hortalicas,800.0,Rio de Janeiro
+ID006759,OV000770,2025-10-18,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,Rio de Janeiro
+ID000172,OV000771,2025-10-18,VAS08,Produto Final,Vaso Automatizado para 8 hortalicas,2280.0,São Paulo
+ID000172,OV000771,2025-10-18,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,São Paulo
+ID000172,OV000771,2025-10-18,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,São Paulo
+ID002704,OV000772,2025-10-18,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,Santos
+ID007431,OV000773,2025-10-19,VAS08,Produto Final,Vaso Automatizado para 8 hortalicas,2280.0,Santos
+ID007431,OV000773,2025-10-19,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,Santos
+ID007431,OV000773,2025-10-19,VAS06,Produto Final,Vaso Automatizado para 6 hortalicas,1710.0,Santos
+ID003942,OV000774,2025-10-19,VAS06,Produto Final,Vaso Automatizado para 6 hortalicas,1710.0,São Paulo
+ID003942,OV000774,2025-10-19,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,São Paulo
+ID005964,OV000775,2025-10-19,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,Rio de Janeiro
+ID004705,OV000776,2025-10-20,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,Rio de Janeiro
+ID004705,OV000776,2025-10-20,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,Rio de Janeiro
+ID004705,OV000776,2025-10-20,KIT01,Kit,Kit de Cultivo para Temperos,30.0,Rio de Janeiro
+ID000336,OV000777,2025-10-20,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,Salvador
+ID003969,OV000778,2025-10-21,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,Vitória
+ID003969,OV000778,2025-10-21,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,Vitória
+ID007008,OV000779,2025-10-21,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,São Paulo
+ID007733,OV000780,2025-10-21,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,Rio de Janeiro
+ID007733,OV000780,2025-10-21,KIT01,Kit,Kit de Cultivo para Temperos,30.0,Rio de Janeiro
+ID009039,OV000781,2025-10-22,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,Curitiba
+ID009039,OV000781,2025-10-22,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,Curitiba
+ID007309,OV000782,2025-10-22,VAS08,Produto Final,Vaso Automatizado para 8 hortalicas,2280.0,São Paulo
+ID007309,OV000782,2025-10-22,KIT03,Kit,Kit de Cultivo para Ervas Aromáticas,30.0,São Paulo
+ID010592,OV000783,2025-10-22,VAS01,Produto Final,Vaso Automatizado para 1 hortalicas,800.0,Rio de Janeiro
+ID010592,OV000783,2025-10-22,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,Rio de Janeiro
+ID001522,OV000784,2025-10-23,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,Niterói
+ID001084,OV000785,2025-10-23,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,Teresina
+ID003588,OV000786,2025-10-23,VAS06,Produto Final,Vaso Automatizado para 6 hortalicas,1710.0,Manaus
+ID000091,OV000787,2025-10-24,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,Salvador
+ID010466,OV000788,2025-10-24,VAS06,Produto Final,Vaso Automatizado para 6 hortalicas,1710.0,Manaus
+ID001474,OV000789,2025-10-24,VAS06,Produto Final,Vaso Automatizado para 6 hortalicas,1710.0,Belém
+ID001474,OV000789,2025-10-24,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,Belém
+ID005438,OV000790,2025-10-25,VAS06,Produto Final,Vaso Automatizado para 6 hortalicas,1710.0,Manaus
+ID005438,OV000790,2025-10-25,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,Manaus
+ID005739,OV000791,2025-10-25,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,Manaus
+ID002044,OV000792,2025-10-25,VAS01,Produto Final,Vaso Automatizado para 1 hortalicas,800.0,São Gonçalo
+ID005750,OV000793,2025-10-26,VAS01,Produto Final,Vaso Automatizado para 1 hortalicas,800.0,Campo Grande
+ID002654,OV000794,2025-10-26,VAS06,Produto Final,Vaso Automatizado para 6 hortalicas,1710.0,São Paulo
+ID002654,OV000794,2025-10-26,VAS01,Produto Final,Vaso Automatizado para 1 hortalicas,800.0,São Paulo
+ID002654,OV000794,2025-10-26,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,São Paulo
+ID005803,OV000795,2025-10-26,VAS08,Produto Final,Vaso Automatizado para 8 hortalicas,2280.0,São Paulo
+ID008650,OV000796,2025-10-27,VAS06,Produto Final,Vaso Automatizado para 6 hortalicas,1710.0,Fortaleza
+ID008650,OV000796,2025-10-27,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,Fortaleza
+ID008650,OV000796,2025-10-27,VAS01,Produto Final,Vaso Automatizado para 1 hortalicas,800.0,Fortaleza
+ID004668,OV000797,2025-10-27,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,São Gonçalo
+ID004668,OV000797,2025-10-27,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,São Gonçalo
+ID004668,OV000797,2025-10-27,KIT02,Kit,Kit de Cultivo para Saladas,30.0,São Gonçalo
+ID000187,OV000798,2025-10-27,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,Duque de Caxias
+ID003277,OV000799,2025-10-28,VAS06,Produto Final,Vaso Automatizado para 6 hortalicas,1710.0,Campo Grande
+ID007012,OV000800,2025-10-28,VAS06,Produto Final,Vaso Automatizado para 6 hortalicas,1710.0,Belo Horizonte
+ID007012,OV000800,2025-10-28,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,Belo Horizonte
+ID005543,OV000801,2025-10-28,VAS01,Produto Final,Vaso Automatizado para 1 hortalicas,800.0,São Luís
+ID005543,OV000801,2025-10-28,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,São Luís
+ID005543,OV000801,2025-10-28,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,São Luís
+ID008963,OV000802,2025-10-29,VAS06,Produto Final,Vaso Automatizado para 6 hortalicas,1710.0,Brasília
+ID009583,OV000803,2025-10-29,VAS08,Produto Final,Vaso Automatizado para 8 hortalicas,2280.0,Curitiba
+ID009583,OV000803,2025-10-29,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,Curitiba
+ID009583,OV000803,2025-10-29,KIT03,Kit,Kit de Cultivo para Ervas Aromáticas,30.0,Curitiba
+ID006060,OV000804,2025-10-30,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,São Luís
+ID006060,OV000804,2025-10-30,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,São Luís
+ID006060,OV000804,2025-10-30,KIT03,Kit,Kit de Cultivo para Ervas Aromáticas,30.0,São Luís
+ID005141,OV000805,2025-10-30,VAS06,Produto Final,Vaso Automatizado para 6 hortalicas,1710.0,São Paulo
+ID009172,OV000806,2025-10-30,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,São Paulo
+ID006764,OV000807,2025-10-31,VAS06,Produto Final,Vaso Automatizado para 6 hortalicas,1710.0,Rio de Janeiro
+ID006764,OV000807,2025-10-31,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,Rio de Janeiro
+ID003619,OV000808,2025-10-31,VAS08,Produto Final,Vaso Automatizado para 8 hortalicas,2280.0,Manaus
+ID003619,OV000808,2025-10-31,VAS06,Produto Final,Vaso Automatizado para 6 hortalicas,1710.0,Manaus
+ID007430,OV000809,2025-10-31,VAS06,Produto Final,Vaso Automatizado para 6 hortalicas,1710.0,Nova Iguaçu
+ID008400,OV000810,2025-11-01,VAS01,Produto Final,Vaso Automatizado para 1 hortalicas,800.0,Salvador
+ID007469,OV000811,2025-11-01,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,Fortaleza
+ID007469,OV000811,2025-11-01,VAS01,Produto Final,Vaso Automatizado para 1 hortalicas,800.0,Fortaleza
+ID009882,OV000812,2025-11-01,VAS01,Produto Final,Vaso Automatizado para 1 hortalicas,800.0,São Paulo
+ID009882,OV000812,2025-11-01,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,São Paulo
+ID009882,OV000812,2025-11-01,KIT03,Kit,Kit de Cultivo para Ervas Aromáticas,30.0,São Paulo
+ID010467,OV000813,2025-11-02,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,Fortaleza
+ID010467,OV000813,2025-11-02,VAS08,Produto Final,Vaso Automatizado para 8 hortalicas,2280.0,Fortaleza
+ID009372,OV000814,2025-11-02,VAS06,Produto Final,Vaso Automatizado para 6 hortalicas,1710.0,São Paulo
+ID009372,OV000814,2025-11-02,VAS08,Produto Final,Vaso Automatizado para 8 hortalicas,2280.0,São Paulo
+ID001368,OV000815,2025-11-02,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,Recife
+ID001368,OV000815,2025-11-02,VAS06,Produto Final,Vaso Automatizado para 6 hortalicas,1710.0,Recife
+ID001368,OV000815,2025-11-02,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,Recife
+ID010466,OV000816,2025-11-03,VAS01,Produto Final,Vaso Automatizado para 1 hortalicas,800.0,Manaus
+ID010466,OV000816,2025-11-03,KIT02,Kit,Kit de Cultivo para Saladas,30.0,Manaus
+ID002666,OV000817,2025-11-03,VAS01,Produto Final,Vaso Automatizado para 1 hortalicas,800.0,Curitiba
+ID002666,OV000817,2025-11-03,VAS06,Produto Final,Vaso Automatizado para 6 hortalicas,1710.0,Curitiba
+ID002666,OV000817,2025-11-03,VAS08,Produto Final,Vaso Automatizado para 8 hortalicas,2280.0,Curitiba
+ID007505,OV000818,2025-11-03,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,Rio de Janeiro
+ID009450,OV000819,2025-11-04,POD11,Refil,Pod Refil Salsa,10.0,Duque de Caxias
+ID009450,OV000819,2025-11-04,POD13,Refil,Pod Refil Espinafre,10.0,Duque de Caxias
+ID009450,OV000819,2025-11-04,POD08,Refil,Pod Refil Alface,10.0,Duque de Caxias
+ID009450,OV000819,2025-11-04,KIT01,Kit,Kit de Cultivo para Temperos,30.0,Duque de Caxias
+ID001503,OV000820,2025-11-04,VAS01,Produto Final,Vaso Automatizado para 1 hortalicas,800.0,Belford Roxo
+ID001503,OV000820,2025-11-04,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,Belford Roxo
+ID004705,OV000821,2025-11-04,POD02,Refil,Pod Refil Cenoura,12.0,Rio de Janeiro
+ID004705,OV000821,2025-11-04,KIT02,Kit,Kit de Cultivo para Saladas,30.0,Rio de Janeiro
+ID006291,OV000822,2025-11-05,KIT02,Kit,Kit de Cultivo para Saladas,30.0,Brasília
+ID004527,OV000823,2025-11-05,VAS06,Produto Final,Vaso Automatizado para 6 hortalicas,1710.0,Guarulhos
+ID007719,OV000824,2025-11-05,POD13,Refil,Pod Refil Espinafre,10.0,São Paulo
+ID007719,OV000824,2025-11-05,POD15,Refil,Pod Refil Coentro,14.0,São Paulo
+ID007719,OV000824,2025-11-05,POD11,Refil,Pod Refil Salsa,10.0,São Paulo
+ID007719,OV000824,2025-11-05,KIT01,Kit,Kit de Cultivo para Temperos,30.0,São Paulo
+ID000118,OV000825,2025-11-06,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,Ribeirão Preto
+ID000118,OV000825,2025-11-06,VAS08,Produto Final,Vaso Automatizado para 8 hortalicas,2280.0,Ribeirão Preto
+ID000118,OV000825,2025-11-06,VAS06,Produto Final,Vaso Automatizado para 6 hortalicas,1710.0,Ribeirão Preto
+ID000118,OV000825,2025-11-06,KIT01,Kit,Kit de Cultivo para Temperos,30.0,Ribeirão Preto
+ID008694,OV000826,2025-11-06,VAS06,Produto Final,Vaso Automatizado para 6 hortalicas,1710.0,João Pessoa
+ID008557,OV000827,2025-11-06,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,Rio de Janeiro
+ID008557,OV000827,2025-11-06,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,Rio de Janeiro
+ID005245,OV000828,2025-11-07,VAS08,Produto Final,Vaso Automatizado para 8 hortalicas,2280.0,Salvador
+ID005245,OV000828,2025-11-07,KIT02,Kit,Kit de Cultivo para Saladas,30.0,Salvador
+ID003307,OV000829,2025-11-07,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,Belém
+ID004837,OV000830,2025-11-07,VAS08,Produto Final,Vaso Automatizado para 8 hortalicas,2280.0,São Luís
+ID004738,OV000831,2025-11-08,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,São Luís
+ID004738,OV000831,2025-11-08,KIT02,Kit,Kit de Cultivo para Saladas,30.0,São Luís
+ID002304,OV000832,2025-11-08,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,Ribeirão Preto
+ID004962,OV000833,2025-11-08,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,Curitiba
+ID002886,OV000834,2025-11-09,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,São Paulo
+ID002886,OV000834,2025-11-09,KIT01,Kit,Kit de Cultivo para Temperos,30.0,São Paulo
+ID009484,OV000835,2025-11-09,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,Vitória
+ID009484,OV000835,2025-11-09,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,Vitória
+ID007542,OV000836,2025-11-10,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,Guarulhos
+ID009142,OV000837,2025-11-10,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,Porto Alegre
+ID009142,OV000837,2025-11-10,VAS01,Produto Final,Vaso Automatizado para 1 hortalicas,800.0,Porto Alegre
+ID000580,OV000838,2025-11-10,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,Salvador
+ID010018,OV000839,2025-11-11,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,São Paulo
+ID006652,OV000840,2025-11-11,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,Brasília
+ID006652,OV000840,2025-11-11,VAS08,Produto Final,Vaso Automatizado para 8 hortalicas,2280.0,Brasília
+ID006652,OV000840,2025-11-11,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,Brasília
+ID000220,OV000841,2025-11-11,VAS08,Produto Final,Vaso Automatizado para 8 hortalicas,2280.0,Salvador
+ID000220,OV000841,2025-11-11,VAS01,Produto Final,Vaso Automatizado para 1 hortalicas,800.0,Salvador
+ID008086,OV000842,2025-11-12,VAS06,Produto Final,Vaso Automatizado para 6 hortalicas,1710.0,Campo Grande
+ID008086,OV000842,2025-11-12,KIT02,Kit,Kit de Cultivo para Saladas,30.0,Campo Grande
+ID010781,OV000843,2025-11-12,VAS08,Produto Final,Vaso Automatizado para 8 hortalicas,2280.0,São Gonçalo
+ID008804,OV000844,2025-11-12,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,Rio de Janeiro
+ID008804,OV000844,2025-11-12,VAS08,Produto Final,Vaso Automatizado para 8 hortalicas,2280.0,Rio de Janeiro
+ID008804,OV000844,2025-11-12,KIT03,Kit,Kit de Cultivo para Ervas Aromáticas,30.0,Rio de Janeiro
+ID006351,OV000845,2025-11-13,VAS01,Produto Final,Vaso Automatizado para 1 hortalicas,800.0,Natal
+ID010112,OV000846,2025-11-13,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,Campo Grande
+ID010112,OV000846,2025-11-13,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,Campo Grande
+ID010112,OV000846,2025-11-13,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,Campo Grande
+ID010112,OV000846,2025-11-13,KIT01,Kit,Kit de Cultivo para Temperos,30.0,Campo Grande
+ID008510,OV000847,2025-11-13,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,São Gonçalo
+ID008686,OV000848,2025-11-14,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,São Paulo
+ID008686,OV000848,2025-11-14,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,São Paulo
+ID008686,OV000848,2025-11-14,KIT01,Kit,Kit de Cultivo para Temperos,30.0,São Paulo
+ID005238,OV000849,2025-11-14,VAS06,Produto Final,Vaso Automatizado para 6 hortalicas,1710.0,Salvador
+ID002354,OV000850,2025-11-14,POD14,Refil,Pod Refil Pimenta,15.0,Rio de Janeiro
+ID002354,OV000850,2025-11-14,POD13,Refil,Pod Refil Espinafre,10.0,Rio de Janeiro
+ID002354,OV000850,2025-11-14,POD07,Refil,Pod Refil Couve,10.0,Rio de Janeiro
+ID002354,OV000850,2025-11-14,KIT01,Kit,Kit de Cultivo para Temperos,30.0,Rio de Janeiro
+ID007791,OV000851,2025-11-15,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,São Paulo
+ID007791,OV000851,2025-11-15,VAS06,Produto Final,Vaso Automatizado para 6 hortalicas,1710.0,São Paulo
+ID006957,OV000852,2025-11-15,VAS08,Produto Final,Vaso Automatizado para 8 hortalicas,2280.0,Fortaleza
+ID006957,OV000852,2025-11-15,KIT01,Kit,Kit de Cultivo para Temperos,30.0,Fortaleza
+ID001637,OV000853,2025-11-15,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,São Paulo
+ID001637,OV000853,2025-11-15,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,São Paulo
+ID001637,OV000853,2025-11-15,VAS01,Produto Final,Vaso Automatizado para 1 hortalicas,800.0,São Paulo
+ID000822,OV000854,2025-11-16,POD08,Refil,Pod Refil Alface,10.0,Rio de Janeiro
+ID000822,OV000854,2025-11-16,POD10,Refil,Pod Refil Cebolinha,16.0,Rio de Janeiro
+ID000822,OV000854,2025-11-16,POD04,Refil,Pod Refil Manjericão,9.0,Rio de Janeiro
+ID000822,OV000854,2025-11-16,KIT01,Kit,Kit de Cultivo para Temperos,30.0,Rio de Janeiro
+ID004417,OV000855,2025-11-16,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,Porto Alegre
+ID004417,OV000855,2025-11-16,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,Porto Alegre
+ID004417,OV000855,2025-11-16,VAS08,Produto Final,Vaso Automatizado para 8 hortalicas,2280.0,Porto Alegre
+ID008828,OV000856,2025-11-16,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,Campinas
+ID010718,OV000857,2025-11-17,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,Guarulhos
+ID010718,OV000857,2025-11-17,VAS06,Produto Final,Vaso Automatizado para 6 hortalicas,1710.0,Guarulhos
+ID010718,OV000857,2025-11-17,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,Guarulhos
+ID006241,OV000858,2025-11-17,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,São Gonçalo
+ID006241,OV000858,2025-11-17,VAS06,Produto Final,Vaso Automatizado para 6 hortalicas,1710.0,São Gonçalo
+ID000192,OV000859,2025-11-17,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,São Paulo
+ID003512,OV000860,2025-11-18,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,São Paulo
+ID003512,OV000860,2025-11-18,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,São Paulo
+ID002566,OV000861,2025-11-18,POD05,Refil,Pod Refil Rúcula,15.0,Rio de Janeiro
+ID002566,OV000861,2025-11-18,KIT01,Kit,Kit de Cultivo para Temperos,30.0,Rio de Janeiro
+ID010326,OV000862,2025-11-18,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,Ribeirão Preto
+ID010326,OV000862,2025-11-18,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,Ribeirão Preto
+ID001152,OV000863,2025-11-19,VAS08,Produto Final,Vaso Automatizado para 8 hortalicas,2280.0,Duque de Caxias
+ID001152,OV000863,2025-11-19,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,Duque de Caxias
+ID001152,OV000863,2025-11-19,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,Duque de Caxias
+ID006552,OV000864,2025-11-19,VAS01,Produto Final,Vaso Automatizado para 1 hortalicas,800.0,São Paulo
+ID006552,OV000864,2025-11-19,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,São Paulo
+ID001195,OV000865,2025-11-19,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,Natal
+ID001195,OV000865,2025-11-19,VAS01,Produto Final,Vaso Automatizado para 1 hortalicas,800.0,Natal
+ID001195,OV000865,2025-11-19,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,Natal
+ID010199,OV000866,2025-11-20,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,São Paulo
+ID010199,OV000866,2025-11-20,VAS08,Produto Final,Vaso Automatizado para 8 hortalicas,2280.0,São Paulo
+ID010199,OV000866,2025-11-20,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,São Paulo
+ID010199,OV000866,2025-11-20,KIT02,Kit,Kit de Cultivo para Saladas,30.0,São Paulo
+ID003084,OV000867,2025-11-20,VAS06,Produto Final,Vaso Automatizado para 6 hortalicas,1710.0,Campo Grande
+ID003084,OV000867,2025-11-20,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,Campo Grande
+ID003084,OV000867,2025-11-20,KIT01,Kit,Kit de Cultivo para Temperos,30.0,Campo Grande
+ID001526,OV000868,2025-11-20,VAS01,Produto Final,Vaso Automatizado para 1 hortalicas,800.0,Manaus
+ID001526,OV000868,2025-11-20,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,Manaus
+ID001526,OV000868,2025-11-20,KIT02,Kit,Kit de Cultivo para Saladas,30.0,Manaus
+ID000784,OV000869,2025-11-21,VAS01,Produto Final,Vaso Automatizado para 1 hortalicas,800.0,Manaus
+ID000784,OV000869,2025-11-21,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,Manaus
+ID008558,OV000870,2025-11-21,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,Curitiba
+ID008558,OV000870,2025-11-21,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,Curitiba
+ID008558,OV000870,2025-11-21,VAS08,Produto Final,Vaso Automatizado para 8 hortalicas,2280.0,Curitiba
+ID008558,OV000870,2025-11-21,KIT01,Kit,Kit de Cultivo para Temperos,30.0,Curitiba
+ID002703,OV000871,2025-11-21,VAS01,Produto Final,Vaso Automatizado para 1 hortalicas,800.0,São Paulo
+ID005990,OV000872,2025-11-22,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,Niterói
+ID005990,OV000872,2025-11-22,VAS08,Produto Final,Vaso Automatizado para 8 hortalicas,2280.0,Niterói
+ID007647,OV000873,2025-11-22,VAS08,Produto Final,Vaso Automatizado para 8 hortalicas,2280.0,Salvador
+ID002030,OV000874,2025-11-22,VAS01,Produto Final,Vaso Automatizado para 1 hortalicas,800.0,Niterói
+ID002030,OV000874,2025-11-22,VAS06,Produto Final,Vaso Automatizado para 6 hortalicas,1710.0,Niterói
+ID002030,OV000874,2025-11-22,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,Niterói
+ID002030,OV000874,2025-11-22,KIT01,Kit,Kit de Cultivo para Temperos,30.0,Niterói
+ID004294,OV000875,2025-11-23,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,São Paulo
+ID004660,OV000876,2025-11-23,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,Fortaleza
+ID010140,OV000877,2025-11-23,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,Campo Grande
+ID006385,OV000878,2025-11-24,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,São Paulo
+ID008126,OV000879,2025-11-24,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,Teresina
+ID008126,OV000879,2025-11-24,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,Teresina
+ID010401,OV000880,2025-11-24,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,Rio de Janeiro
+ID010401,OV000880,2025-11-24,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,Rio de Janeiro
+ID010401,OV000880,2025-11-24,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,Rio de Janeiro
+ID003871,OV000881,2025-11-25,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,Rio de Janeiro
+ID003871,OV000881,2025-11-25,KIT03,Kit,Kit de Cultivo para Ervas Aromáticas,30.0,Rio de Janeiro
+ID006347,OV000882,2025-11-25,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,Salvador
+ID006347,OV000882,2025-11-25,VAS08,Produto Final,Vaso Automatizado para 8 hortalicas,2280.0,Salvador
+ID006347,OV000882,2025-11-25,VAS01,Produto Final,Vaso Automatizado para 1 hortalicas,800.0,Salvador
+ID004647,OV000883,2025-11-25,VAS06,Produto Final,Vaso Automatizado para 6 hortalicas,1710.0,Santos
+ID004647,OV000883,2025-11-25,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,Santos
+ID000849,OV000884,2025-11-26,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,Nova Iguaçu
+ID000849,OV000884,2025-11-26,VAS08,Produto Final,Vaso Automatizado para 8 hortalicas,2280.0,Nova Iguaçu
+ID000849,OV000884,2025-11-26,KIT02,Kit,Kit de Cultivo para Saladas,30.0,Nova Iguaçu
+ID008889,OV000885,2025-11-26,VAS08,Produto Final,Vaso Automatizado para 8 hortalicas,2280.0,Manaus
+ID008889,OV000885,2025-11-26,VAS01,Produto Final,Vaso Automatizado para 1 hortalicas,800.0,Manaus
+ID008889,OV000885,2025-11-26,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,Manaus
+ID008877,OV000886,2025-11-26,VAS01,Produto Final,Vaso Automatizado para 1 hortalicas,800.0,São Paulo
+ID002350,OV000887,2025-11-27,VAS01,Produto Final,Vaso Automatizado para 1 hortalicas,800.0,Florianópolis
+ID002350,OV000887,2025-11-27,VAS08,Produto Final,Vaso Automatizado para 8 hortalicas,2280.0,Florianópolis
+ID001307,OV000888,2025-11-27,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,Brasília
+ID004683,OV000889,2025-11-27,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,Maceió
+ID004683,OV000889,2025-11-27,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,Maceió
+ID010559,OV000890,2025-11-28,VAS01,Produto Final,Vaso Automatizado para 1 hortalicas,800.0,Brasília
+ID010559,OV000890,2025-11-28,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,Brasília
+ID010795,OV000891,2025-11-28,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,Belo Horizonte
+ID010795,OV000891,2025-11-28,VAS06,Produto Final,Vaso Automatizado para 6 hortalicas,1710.0,Belo Horizonte
+ID010795,OV000891,2025-11-28,VAS08,Produto Final,Vaso Automatizado para 8 hortalicas,2280.0,Belo Horizonte
+ID009983,OV000892,2025-11-28,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,Belo Horizonte
+ID009983,OV000892,2025-11-28,VAS08,Produto Final,Vaso Automatizado para 8 hortalicas,2280.0,Belo Horizonte
+ID008370,OV000893,2025-11-29,VAS08,Produto Final,Vaso Automatizado para 8 hortalicas,2280.0,Manaus
+ID008370,OV000893,2025-11-29,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,Manaus
+ID008370,OV000893,2025-11-29,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,Manaus
+ID005868,OV000894,2025-11-29,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,Belém
+ID005868,OV000894,2025-11-29,VAS08,Produto Final,Vaso Automatizado para 8 hortalicas,2280.0,Belém
+ID006590,OV000895,2025-11-29,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,São Paulo
+ID009740,OV000896,2025-11-30,VAS01,Produto Final,Vaso Automatizado para 1 hortalicas,800.0,Manaus
+ID009740,OV000896,2025-11-30,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,Manaus
+ID009740,OV000896,2025-11-30,KIT02,Kit,Kit de Cultivo para Saladas,30.0,Manaus
+ID009859,OV000897,2025-11-30,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,Fortaleza
+ID009859,OV000897,2025-11-30,KIT02,Kit,Kit de Cultivo para Saladas,30.0,Fortaleza
+ID000813,OV000898,2025-11-30,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,Vitória
+ID000813,OV000898,2025-11-30,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,Vitória
+ID000813,OV000898,2025-11-30,VAS06,Produto Final,Vaso Automatizado para 6 hortalicas,1710.0,Vitória
+ID008649,OV000899,2025-12-01,VAS01,Produto Final,Vaso Automatizado para 1 hortalicas,800.0,Nova Iguaçu
+ID008649,OV000899,2025-12-01,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,Nova Iguaçu
+ID008649,OV000899,2025-12-01,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,Nova Iguaçu
+ID007752,OV000900,2025-12-01,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,Campinas
+ID002591,OV000901,2025-12-01,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,João Pessoa
+ID002591,OV000901,2025-12-01,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,João Pessoa
+ID002591,OV000901,2025-12-01,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,João Pessoa
+ID000466,OV000902,2025-12-02,VAS06,Produto Final,Vaso Automatizado para 6 hortalicas,1710.0,Teresina
+ID000466,OV000902,2025-12-02,KIT01,Kit,Kit de Cultivo para Temperos,30.0,Teresina
+ID002493,OV000903,2025-12-02,VAS01,Produto Final,Vaso Automatizado para 1 hortalicas,800.0,Vitória
+ID002493,OV000903,2025-12-02,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,Vitória
+ID003740,OV000904,2025-12-02,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,Vitória
+ID003740,OV000904,2025-12-02,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,Vitória
+ID003740,OV000904,2025-12-02,VAS06,Produto Final,Vaso Automatizado para 6 hortalicas,1710.0,Vitória
+ID003740,OV000904,2025-12-02,KIT03,Kit,Kit de Cultivo para Ervas Aromáticas,30.0,Vitória
+ID001606,OV000905,2025-12-03,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,Ribeirão Preto
+ID001606,OV000905,2025-12-03,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,Ribeirão Preto
+ID001538,OV000906,2025-12-03,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,Rio de Janeiro
+ID001538,OV000906,2025-12-03,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,Rio de Janeiro
+ID001538,OV000906,2025-12-03,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,Rio de Janeiro
+ID000329,OV000907,2025-12-03,POD02,Refil,Pod Refil Cenoura,12.0,São Paulo
+ID000329,OV000907,2025-12-03,POD14,Refil,Pod Refil Pimenta,15.0,São Paulo
+ID000329,OV000907,2025-12-03,POD07,Refil,Pod Refil Couve,10.0,São Paulo
+ID000329,OV000907,2025-12-03,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,São Paulo
+ID000329,OV000907,2025-12-03,KIT03,Kit,Kit de Cultivo para Ervas Aromáticas,30.0,São Paulo
+ID008128,OV000908,2025-12-04,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,Teresina
+ID005959,OV000909,2025-12-04,VAS01,Produto Final,Vaso Automatizado para 1 hortalicas,800.0,São Paulo
+ID003760,OV000910,2025-12-04,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,Manaus
+ID003760,OV000910,2025-12-04,VAS01,Produto Final,Vaso Automatizado para 1 hortalicas,800.0,Manaus
+ID009717,OV000911,2025-12-04,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,São Paulo
+ID009717,OV000911,2025-12-04,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,São Paulo
+ID002450,OV000912,2025-12-05,VAS08,Produto Final,Vaso Automatizado para 8 hortalicas,2280.0,Rio de Janeiro
+ID009776,OV000913,2025-12-05,VAS01,Produto Final,Vaso Automatizado para 1 hortalicas,800.0,Rio de Janeiro
+ID005882,OV000914,2025-12-05,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,Brasília
+ID005882,OV000914,2025-12-05,VAS06,Produto Final,Vaso Automatizado para 6 hortalicas,1710.0,Brasília
+ID005882,OV000914,2025-12-05,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,Brasília
+ID007823,OV000915,2025-12-06,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,Manaus
+ID005858,OV000916,2025-12-06,VAS06,Produto Final,Vaso Automatizado para 6 hortalicas,1710.0,Belo Horizonte
+ID005858,OV000916,2025-12-06,KIT02,Kit,Kit de Cultivo para Saladas,30.0,Belo Horizonte
+ID006875,OV000917,2025-12-06,VAS06,Produto Final,Vaso Automatizado para 6 hortalicas,1710.0,São Paulo
+ID003660,OV000918,2025-12-07,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,Natal
+ID003660,OV000918,2025-12-07,KIT03,Kit,Kit de Cultivo para Ervas Aromáticas,30.0,Natal
+ID001128,OV000919,2025-12-07,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,Fortaleza
+ID002428,OV000920,2025-12-07,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,Campinas
+ID002428,OV000920,2025-12-07,VAS06,Produto Final,Vaso Automatizado para 6 hortalicas,1710.0,Campinas
+ID002961,OV000921,2025-12-08,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,Campinas
+ID002961,OV000921,2025-12-08,VAS06,Produto Final,Vaso Automatizado para 6 hortalicas,1710.0,Campinas
+ID002961,OV000921,2025-12-08,KIT03,Kit,Kit de Cultivo para Ervas Aromáticas,30.0,Campinas
+ID003554,OV000922,2025-12-08,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,Campinas
+ID009070,OV000923,2025-12-08,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,Belford Roxo
+ID009070,OV000923,2025-12-08,VAS08,Produto Final,Vaso Automatizado para 8 hortalicas,2280.0,Belford Roxo
+ID009070,OV000923,2025-12-08,KIT03,Kit,Kit de Cultivo para Ervas Aromáticas,30.0,Belford Roxo
+ID009036,OV000924,2025-12-09,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,Belo Horizonte
+ID009036,OV000924,2025-12-09,VAS01,Produto Final,Vaso Automatizado para 1 hortalicas,800.0,Belo Horizonte
+ID007282,OV000925,2025-12-09,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,Duque de Caxias
+ID005964,OV000926,2025-12-09,POD13,Refil,Pod Refil Espinafre,10.0,Rio de Janeiro
+ID005964,OV000926,2025-12-09,POD03,Refil,Pod Refil Salsa,8.0,Rio de Janeiro
+ID005964,OV000926,2025-12-09,KIT03,Kit,Kit de Cultivo para Ervas Aromáticas,30.0,Rio de Janeiro
+ID008493,OV000927,2025-12-10,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,Salvador
+ID003664,OV000928,2025-12-10,VAS06,Produto Final,Vaso Automatizado para 6 hortalicas,1710.0,São Paulo
+ID003664,OV000928,2025-12-10,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,São Paulo
+ID003903,OV000929,2025-12-10,VAS01,Produto Final,Vaso Automatizado para 1 hortalicas,800.0,Rio de Janeiro
+ID002518,OV000930,2025-12-11,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,Curitiba
+ID002518,OV000930,2025-12-11,KIT02,Kit,Kit de Cultivo para Saladas,30.0,Curitiba
+ID004820,OV000931,2025-12-11,POD06,Refil,Pod Refil Beterraba,10.0,Manaus
+ID004820,OV000931,2025-12-11,KIT02,Kit,Kit de Cultivo para Saladas,30.0,Manaus
+ID010810,OV000932,2025-12-11,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,Brasília
+ID010810,OV000932,2025-12-11,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,Brasília
+ID008865,OV000933,2025-12-12,POD05,Refil,Pod Refil Rúcula,15.0,São Paulo
+ID008865,OV000933,2025-12-12,POD09,Refil,Pod Refil Cebola,16.0,São Paulo
+ID008865,OV000933,2025-12-12,POD01,Refil,Pod Refil Alecrim,10.0,São Paulo
+ID008865,OV000933,2025-12-12,KIT02,Kit,Kit de Cultivo para Saladas,30.0,São Paulo
+ID007486,OV000934,2025-12-12,VAS06,Produto Final,Vaso Automatizado para 6 hortalicas,1710.0,São Paulo
+ID007486,OV000934,2025-12-12,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,São Paulo
+ID004936,OV000935,2025-12-12,VAS08,Produto Final,Vaso Automatizado para 8 hortalicas,2280.0,Belo Horizonte
+ID004936,OV000935,2025-12-12,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,Belo Horizonte
+ID004936,OV000935,2025-12-12,KIT03,Kit,Kit de Cultivo para Ervas Aromáticas,30.0,Belo Horizonte
+ID005603,OV000936,2025-12-12,VAS08,Produto Final,Vaso Automatizado para 8 hortalicas,2280.0,Campo Grande
+ID006616,OV000937,2025-12-13,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,Campo Grande
+ID006616,OV000937,2025-12-13,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,Campo Grande
+ID010342,OV000938,2025-12-13,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,São Paulo
+ID009207,OV000939,2025-12-13,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,Rio de Janeiro
+ID001523,OV000940,2025-12-14,VAS01,Produto Final,Vaso Automatizado para 1 hortalicas,800.0,Macapá
+ID001523,OV000940,2025-12-14,VAS08,Produto Final,Vaso Automatizado para 8 hortalicas,2280.0,Macapá
+ID003377,OV000941,2025-12-14,VAS08,Produto Final,Vaso Automatizado para 8 hortalicas,2280.0,Belém
+ID002395,OV000942,2025-12-14,VAS08,Produto Final,Vaso Automatizado para 8 hortalicas,2280.0,João Pessoa
+ID001235,OV000943,2025-12-15,VAS01,Produto Final,Vaso Automatizado para 1 hortalicas,800.0,Salvador
+ID008853,OV000944,2025-12-15,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,Porto Alegre
+ID004299,OV000945,2025-12-15,POD07,Refil,Pod Refil Couve,10.0,São Paulo
+ID004299,OV000945,2025-12-15,POD11,Refil,Pod Refil Salsa,10.0,São Paulo
+ID004299,OV000945,2025-12-15,POD13,Refil,Pod Refil Espinafre,10.0,São Paulo
+ID004299,OV000945,2025-12-15,KIT02,Kit,Kit de Cultivo para Saladas,30.0,São Paulo
+ID000047,OV000946,2025-12-16,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,São Paulo
+ID010391,OV000947,2025-12-16,KIT01,Kit,Kit de Cultivo para Temperos,30.0,Brasília
+ID004379,OV000948,2025-12-16,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,Rio de Janeiro
+ID004379,OV000948,2025-12-16,VAS06,Produto Final,Vaso Automatizado para 6 hortalicas,1710.0,Rio de Janeiro
+ID004379,OV000948,2025-12-16,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,Rio de Janeiro
+ID004379,OV000948,2025-12-16,KIT03,Kit,Kit de Cultivo para Ervas Aromáticas,30.0,Rio de Janeiro
+ID007892,OV000949,2025-12-17,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,Goiânia
+ID002956,OV000950,2025-12-17,VAS08,Produto Final,Vaso Automatizado para 8 hortalicas,2280.0,Rio de Janeiro
+ID009800,OV000951,2025-12-17,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,Vitória
+ID002658,OV000952,2025-12-17,VAS06,Produto Final,Vaso Automatizado para 6 hortalicas,1710.0,São Paulo
+ID002658,OV000952,2025-12-17,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,São Paulo
+ID002658,OV000952,2025-12-17,VAS08,Produto Final,Vaso Automatizado para 8 hortalicas,2280.0,São Paulo
+ID002658,OV000952,2025-12-17,KIT03,Kit,Kit de Cultivo para Ervas Aromáticas,30.0,São Paulo
+ID004156,OV000953,2025-12-18,VAS06,Produto Final,Vaso Automatizado para 6 hortalicas,1710.0,Rio de Janeiro
+ID004156,OV000953,2025-12-18,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,Rio de Janeiro
+ID004156,OV000953,2025-12-18,VAS08,Produto Final,Vaso Automatizado para 8 hortalicas,2280.0,Rio de Janeiro
+ID008342,OV000954,2025-12-18,POD11,Refil,Pod Refil Salsa,10.0,Brasília
+ID008342,OV000954,2025-12-18,POD14,Refil,Pod Refil Pimenta,15.0,Brasília
+ID008342,OV000954,2025-12-18,POD15,Refil,Pod Refil Coentro,14.0,Brasília
+ID008342,OV000954,2025-12-18,KIT01,Kit,Kit de Cultivo para Temperos,30.0,Brasília
+ID000792,OV000955,2025-12-18,VAS01,Produto Final,Vaso Automatizado para 1 hortalicas,800.0,Curitiba
+ID000792,OV000955,2025-12-18,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,Curitiba
+ID009158,OV000956,2025-12-19,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,Ribeirão Preto
+ID004152,OV000957,2025-12-19,VAS06,Produto Final,Vaso Automatizado para 6 hortalicas,1710.0,Curitiba
+ID004152,OV000957,2025-12-19,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,Curitiba
+ID004152,OV000957,2025-12-19,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,Curitiba
+ID004152,OV000957,2025-12-19,KIT02,Kit,Kit de Cultivo para Saladas,30.0,Curitiba
+ID007298,OV000958,2025-12-19,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,São Paulo
+ID000660,OV000959,2025-12-20,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,Rio de Janeiro
+ID000660,OV000959,2025-12-20,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,Rio de Janeiro
+ID000660,OV000959,2025-12-20,VAS06,Produto Final,Vaso Automatizado para 6 hortalicas,1710.0,Rio de Janeiro
+ID000494,OV000960,2025-12-20,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,Brasília
+ID000494,OV000960,2025-12-20,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,Brasília
+ID000614,OV000961,2025-12-20,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,São Paulo
+ID000614,OV000961,2025-12-20,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,São Paulo
+ID000614,OV000961,2025-12-20,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,São Paulo
+ID005442,OV000962,2025-12-21,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,São Paulo
+ID007756,OV000963,2025-12-21,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,Santos
+ID008508,OV000964,2025-12-21,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,Manaus
+ID009504,OV000965,2025-12-21,POD01,Refil,Pod Refil Alecrim,10.0,Salvador
+ID009504,OV000965,2025-12-21,KIT01,Kit,Kit de Cultivo para Temperos,30.0,Salvador
+ID008749,OV000966,2025-12-22,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,Fortaleza
+ID008567,OV000967,2025-12-22,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,Salvador
+ID004091,OV000968,2025-12-22,VAS06,Produto Final,Vaso Automatizado para 6 hortalicas,1710.0,Recife
+ID001855,OV000969,2025-12-23,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,Salvador
+ID010851,OV000970,2025-12-23,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,Campo Grande
+ID010851,OV000970,2025-12-23,VAS01,Produto Final,Vaso Automatizado para 1 hortalicas,800.0,Campo Grande
+ID010851,OV000970,2025-12-23,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,Campo Grande
+ID000627,OV000971,2025-12-23,VAS06,Produto Final,Vaso Automatizado para 6 hortalicas,1710.0,São Paulo
+ID000627,OV000971,2025-12-23,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,São Paulo
+ID008218,OV000972,2025-12-24,KIT01,Kit,Kit de Cultivo para Temperos,30.0,Ribeirão Preto
+ID001701,OV000973,2025-12-24,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,Goiânia
+ID001701,OV000973,2025-12-24,VAS06,Produto Final,Vaso Automatizado para 6 hortalicas,1710.0,Goiânia
+ID002836,OV000974,2025-12-24,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,Rio de Janeiro
+ID002883,OV000975,2025-12-24,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,Guarulhos
+ID002883,OV000975,2025-12-24,KIT01,Kit,Kit de Cultivo para Temperos,30.0,Guarulhos
+ID010275,OV000976,2025-12-25,VAS06,Produto Final,Vaso Automatizado para 6 hortalicas,1710.0,Belo Horizonte
+ID010275,OV000976,2025-12-25,KIT03,Kit,Kit de Cultivo para Ervas Aromáticas,30.0,Belo Horizonte
+ID001954,OV000977,2025-12-25,VAS06,Produto Final,Vaso Automatizado para 6 hortalicas,1710.0,Salvador
+ID010245,OV000978,2025-12-25,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,São Luís
+ID010245,OV000978,2025-12-25,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,São Luís
+ID008257,OV000979,2025-12-26,POD08,Refil,Pod Refil Alface,10.0,Guarulhos
+ID008257,OV000979,2025-12-26,POD11,Refil,Pod Refil Salsa,10.0,Guarulhos
+ID008257,OV000979,2025-12-26,POD04,Refil,Pod Refil Manjericão,9.0,Guarulhos
+ID008257,OV000979,2025-12-26,KIT03,Kit,Kit de Cultivo para Ervas Aromáticas,30.0,Guarulhos
+ID000294,OV000980,2025-12-26,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,Belo Horizonte
+ID000294,OV000980,2025-12-26,VAS06,Produto Final,Vaso Automatizado para 6 hortalicas,1710.0,Belo Horizonte
+ID000294,OV000980,2025-12-26,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,Belo Horizonte
+ID009734,OV000981,2025-12-26,POD14,Refil,Pod Refil Pimenta,15.0,Belo Horizonte
+ID009734,OV000981,2025-12-26,KIT03,Kit,Kit de Cultivo para Ervas Aromáticas,30.0,Belo Horizonte
+ID004029,OV000982,2025-12-26,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,Natal
+ID004029,OV000982,2025-12-26,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,Natal
+ID004029,OV000982,2025-12-26,VAS06,Produto Final,Vaso Automatizado para 6 hortalicas,1710.0,Natal
+ID002638,OV000983,2025-12-27,POD11,Refil,Pod Refil Salsa,10.0,Vitória
+ID002638,OV000983,2025-12-27,KIT03,Kit,Kit de Cultivo para Ervas Aromáticas,30.0,Vitória
+ID009986,OV000984,2025-12-27,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,Brasília
+ID000151,OV000985,2025-12-27,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,Goiânia
+ID000151,OV000985,2025-12-27,VAS06,Produto Final,Vaso Automatizado para 6 hortalicas,1710.0,Goiânia
+ID003522,OV000986,2025-12-28,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,Rio de Janeiro
+ID006167,OV000987,2025-12-28,VAS01,Produto Final,Vaso Automatizado para 1 hortalicas,800.0,São Paulo
+ID006167,OV000987,2025-12-28,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,São Paulo
+ID004831,OV000988,2025-12-28,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,São Paulo
+ID004831,OV000988,2025-12-28,VAS01,Produto Final,Vaso Automatizado para 1 hortalicas,800.0,São Paulo
+ID004831,OV000988,2025-12-28,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,São Paulo
+ID000884,OV000989,2025-12-28,VAS06,Produto Final,Vaso Automatizado para 6 hortalicas,1710.0,Vitória
+ID000884,OV000989,2025-12-28,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,Vitória
+ID000884,OV000989,2025-12-28,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,Vitória
+ID008167,OV000990,2025-12-29,VAS06,Produto Final,Vaso Automatizado para 6 hortalicas,1710.0,Macapá
+ID008167,OV000990,2025-12-29,VAS08,Produto Final,Vaso Automatizado para 8 hortalicas,2280.0,Macapá
+ID004447,OV000991,2025-12-29,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,Belford Roxo
+ID002693,OV000992,2025-12-29,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,São Paulo
+ID002693,OV000992,2025-12-29,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,São Paulo
+ID008733,OV000993,2025-12-30,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,São Gonçalo
+ID008733,OV000993,2025-12-30,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,São Gonçalo
+ID003575,OV000994,2025-12-30,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,Goiânia
+ID003575,OV000994,2025-12-30,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,Goiânia
+ID003575,OV000994,2025-12-30,VAS08,Produto Final,Vaso Automatizado para 8 hortalicas,2280.0,Goiânia
+ID003575,OV000994,2025-12-30,KIT02,Kit,Kit de Cultivo para Saladas,30.0,Goiânia
+ID008388,OV000995,2025-12-30,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,Teresina
+ID008388,OV000995,2025-12-30,VAS06,Produto Final,Vaso Automatizado para 6 hortalicas,1710.0,Teresina
+ID008388,OV000995,2025-12-30,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,Teresina
+ID009005,OV000996,2025-12-30,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,Manaus
+ID004015,OV000997,2025-12-31,VAS03,Produto Final,Vaso Automatizado para 3 hortalicas,1200.0,São Paulo
+ID004015,OV000997,2025-12-31,VAS05,Produto Final,Vaso Automatizado para 5 hortalicas,1500.0,São Paulo
+ID000936,OV000998,2025-12-31,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,Rio de Janeiro
+ID003977,OV000999,2025-12-31,VAS04,Produto Final,Vaso Automatizado para 4 hortalicas,1400.0,Macapá
+ID003977,OV000999,2025-12-31,VAS07,Produto Final,Vaso Automatizado para 7 hortalicas,2000.0,Macapá
+ID003977,OV000999,2025-12-31,KIT01,Kit,Kit de Cultivo para Temperos,30.0,Macapá
+ID003461,OV001000,2025-12-31,VAS02,Produto Final,Vaso Automatizado para 2 hortalicas,1000.0,Florianópolis
+ID003461,OV001000,2025-12-31,VAS06,Produto Final,Vaso Automatizado para 6 hortalicas,1710.0,Florianópolis

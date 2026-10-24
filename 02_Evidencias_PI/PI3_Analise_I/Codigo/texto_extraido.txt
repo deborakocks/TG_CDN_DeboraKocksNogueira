@@ -1,0 +1,3331 @@
+PLANO DE GESTÃO ANUAL
+PGA 2025
+V04
+Estruturado em uma única etapa, contendo 2 anexos:
+PLANEJAMENTO PELA EQUIPE GESTORA DA UE
+• Anexo 1 – Lista de equipamentos necessários aos projetos
+• Anexo 2 – Lista de Ações/Projetos referentes à CPA (Origem 3: Gestão Tática – CPA)
+IDENTIFICAÇÃO DA UNIDADE
+Unidade código F301 Fatec Votorantim
+Diretor(a) Prof. Dr. Mauro Tomazela
+PLANEJAMENTO PELA EQUIPE GESTORA DA UE
+(Administração da Faculdade - Deliberação CEETEPS 31/2016)
+ANÁLISE DO CENÁRIO
+Descrever de forma breve e objetiva o cenário da Unidade perante sua missão como Unidade de Ensino na localidade em que
+se encontra (é este cenário que se pretende melhorar).
+Votorantim, um município da região metropolitana de Sorocaba, no interior de São Paulo, inaugurou em 2022 a Fatec
+Votorantim, que ofereceu à comunidade 80 vagas semestrais, distribuídas entre os seguintes cursos:
+Controle de Obras: 40 vagas (noturno)
+Desenvolvimento de Software Multiplataforma: 40 vagas (noturno)
+A partir do segundo semestre de 2023, ambos os cursos reduziram sua oferta para 35 vagas cada. Essa mudança foi
+necessária devido às limitações de capacidade física das salas de aula e laboratórios.
+No primeiro semestre de 2024, a instituição expandiu seu catálogo acadêmico para incluir o Curso de Ciência de Dados para
+Negócios, também com 35 vagas semestrais, além dos já existentes.
+É importante destacar que a cidade de Votorantim apresenta um grau de urbanização 96,2 (%) (SEADE 2022), população da
+cidade estimada em 124.468 (IBGE 2021), PIB per capta R$ 28.587 (SEADE 2020), com IDH 0,767 (IBGE 2010) um dos
+melhores índices, tem como orçamento vigente R$ 617.500,000, conta com aproximadamente 5.298 MEIs, 902 empresas de
+grande e médio porte, 402 empresas de pequeno porte, 2.253 microempresas e 470 profissionais liberais (Secretaria de
+Finanças de Votorantim – SEF). Além disso, possuí, aproximadamente, 39.725 imóveis construídos, 1.492 ruas, 203
+loteamentos e 127 condomínios (Secretaria de Finanças de Votorantim – SEF).
+Importante salientar que, a cidade de Votorantim faz parte da RMS (Região Metropolitana de Sorocaba). Neste contexto, a
+Região Administrativa de Sorocaba (RAS) ocupa a maior área do Estado de São Paulo (16,5%). E entre os municípios com
+maior índice populacional estão: Sorocaba, Salto de Pirapora e Votorantim, que somam mais de 500 hab/km². A população
+projetada nesta região é de quase 2,6 milhões de habitantes, ou seja, 6,7% do total do Estado. A economia da RAS está
+fortemente estruturada na atividade industrial, contando com diversos seguimentos, além do têxtil, tradicional na região
+(Segundo dados da Pesquisa de Atividade Econômica Paulista - PAEP).
+Votorantim conta ainda com uma ampla rede hoteleira, shopping center e estrutura comercial variada, abriga empresas como:
+Controlflex, SOal, Grupo Votorantim, Suzano Papel e Celulose, Vitopel, Alpina Têxtil, Pipocas Clac, FLS midth, Bamberg,
+Hoffen Bier, Emphasis, Bandeiras – Centro Empresarial, entre outras.
+Com a aprovação do projeto de lei 635/2018 na Assembleia Legislativa de São Paulo, Votorantim foi classificada pelo Governo
+do Estado de São Paulo, como Município de Interesse Turístico (MIT). Com isso, a cidade tem acesso a recursos exclusivos
+para investimento na infraestrutura, serviços e equipamentos turísticos, com impacto direto no fomento e ampliação das
+atividades econômicas, como geração de emprego, renda e mais qualidade de vida aos votorantinenses.
+Neste contexto, o Governo do Estado de São Paulo, por intermédio do Centro Estadual de Educação Tecnológica Paula Souza e
+o Município de Votorantim uniram-se para a implantação da Fatec Votorantim, que oferece cursos superiores de tecnologia
+gratuitos para os habitantes de Votorantim e região de abrangência, a fim de atender o mercado de trabalho diversificado de
+Votorantim e a economia do município que gira, principalmente, em torno da extração e o beneficiamento do cimento (Cimento
+Votorantim), além da indústria; agropecuária; cultivo de hortifrutigranjeiros, comércio e serviços.
+• Discorrer sobre o cenário, realizando um breve diagnóstico (limitar o espaço da escrita, para que seja inserido de forma sucinta).
+APONTAMENTO DE SITUAÇÕES-PROBLEMA MAIS RELEVANTES
+Fontes: relatório CPA, análise de processos críticos da UE, relatório de atendimento e ocorrências Hórus, relatório NDE,
+relatório de representação discente (DA, Atlética, representantes de turma), relatório CIPA, entre outros.
+cat 0.1.01 - Metodologia de ensino, desempenho cat 0.1.07 - Comunicação com a comunidade
+1 5
+de alunos, evasão acadêmica
+2 cat 0.1.02 - Manutenção e conservação predial 6 cat 0.1.08 - Participação da comunidade e sociedade
+cat 0.1.04 - Infraestrutura laboratorial e ambientes de cat 0.1.11 - Segurança pessoal e patrimonial
+3 7
+ensino
+4 cat 0.1.05 - Materiais, equipamentos e mobiliários 8 cat 0.1.99 - Outra
+Outra – Especificar: Internet deficitária
+
+Objetivos Institucionais – CPS (Plano de Metas)
+1) Atender às demandas sociais e do mercado de trabalho.
+2) Obter a satisfação dos públicos que se relacionam com o Centro Paula Souza (stakeholders).
+3) Alcançar e manter o grau de excelência em seus processos de ensino e aprendizagem.
+4) Assegurar a perenidade do crescimento da instituição com recursos financeiros disponíveis.
+5) Garantir celeridade e efetividade na prestação de serviços.
+6) Formar profissionais atualizados em tecnologias e processos produtivos, capazes de atuar no desenvolvimento tecnológico e inovação.
+7) Promover a cultura de inovação e empreendedorismo.
+8) Aumentar a eficiência, a produtividade e a competitividade da instituição.
+9) Ampliar a oferta da Educação Profissional.
+10) Resolução Conjunta SOG/SFP/SG-3, de 28-12-2022 - Bonificação por Resultados – BR das Secretarias de Estado, Procuradoria Geral do Estado,
+Controladoria Geral do Estado e das Autarquias, de que trata a LC 1361-2021
+Objetivos Institucionais – Cesu (Plano de Metas)
+A. Integrar as diferentes modalidades de ensino, otimizando itinerários e tempo para a formação profissional.
+B. Inovar processos de ensino e aprendizagem para manter excelência diante do mercado.
+C. Ampliar a capacidade de criar e atualizar cursos em parceria com o mercado.
+D. Expandir e ampliar a capacidade de articulação com Governos e Setores Produtivos.
+E. Promover a captação de recursos extras e não orçamentários.
+Atenção: Determinação da Origem (prioridade) de uma Ação ou Projeto de Melhoria que compõe o PGA, a fim de ordenar os graus de prioridade tomando-se por
+base atos normativos regulatórios das atividades do CPS, e a governança institucional, por suas esferas Estratégica, Tática e Operacional:
+Grau 1 - URGÊNCIA DE REGULAÇÃO - prioridade máxima (advinda do MEC, CEE, MP, Vigilância Sanitária ou notificação de qualquer órgão regulador/fiscalizador)
+- fundamentação: notificação de fiscalização, diligência de regulação, termo de ajustamento de conduta, relatório circunstanciado, dentre outros
+emanados de órgãos que impõem ações para cumprimento com regularidade normativa da instituição.
+Grau 2 - URGÊNCIA ESTRATÉGICA - Gestão Estratégica do CPS (AMS, novos cursos e unidades, programas de governo) - fundamentação: PPA do CPS, ações de
+governo conduzidas pela Superintendência do CPS.
+Grau 3 - PRIORIDADE ALTA - Gestão Tática (ações correlatas à Avaliação institucional - ENADE, WebSAI, CPA, Observatório Escolar). - fundamentação: processo
+avaliativo de órgãos reguladores, processo avaliativo interno do CPS.
+Grau 4 - PRIORIDADE MÉDIA - Gestão Operacional para aumento da capacidade instalada. - fundamentação: plano operacional de gestão, homologado pela
+respectiva área da intendência, com foco na atividade fim do CPS.
+Grau 5 - PRIORIDADE REGULAR - Gestão Operacional para preservação da capacidade instalada. - fundamentação: plano operacional de gestão, homologado
+pela respectiva área da intendência, com foco na atividade fim do CPS.
+
+ESTRUTURAÇÃO DAS AÇÕES/PROJETOS
+01 - Didático-pedagógico
+Ações associadas ao PPC/PE de CSTs e Disciplinas: CST (implantação, alteração, readequação, reestruturação),
+prática pedagógica (PE, PA), projeto interdisciplinar/ integrador, extensão curricularizada.
+AÇÃO/PROJETO (Tema) 101 - cat 1.04 - Biblioteca Ativa e aquisição de bibliografias
+Origem (prioridade): 3-Gestão Tática - CPA (RADE, RCEE, RLAB, RWebSAI, RAAI)
+Planejamento/ organização/ instalação de infraestrutura e mobiliários / organização de acesso
+O que será feito:
+lógico ao acervo/ compra e catalogação.
+Por que será feito: Para incentivar o uso da biblioteca da unidade e atendimento de demandas legais
+<nome> Júlia Cristina Gütschow Sampaio Qde CH/sem: 5 Tipo: H - Hora <não
+Responsável:
+tipificada>
+Colaborador(a): <nome> nn Qde CH/sem: nn Tipo: Escolher um item.
+Colaborador(a): <nome> nn Qde CH/sem: nn Tipo: Escolher um item.
+Período de execução: Data inicial: 17/02/2025 Data final: 19/12/2025
+Etapas do processo: 01- Planejamento e levantamento das ações a serem desenvolvidas 17/02 19/12
+02- Definição da lista dos livros de acordo com o PPC dos cursos 24/02 14/03
+03- Envio da lista de livros para compra na CESU 17/03 28/03
+04- Aquisição da bibliografia básica e complementar 17/02 19/12
+05- Promover ações para incentivo ao uso da biblioteca 17/02 19/12
+06- Digitação do acervo da biblioteca recebido 17/02 19/12
+07- Digitação do acervo da biblioteca recebido 17/02 19/12
+08- nn dd/mm dd/mm
+Custo R$ (se houver): A ser definido Fonte(s) dos recursos: Centro Paula Souza (Licitação)
+Situação problema: cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão
+(a ser resolvida/mitigada) cat 0.1.03 - Infraestrutura predial (espaços, sistemas)
+X
+X
+102 - cat 1.06 - Ações pedagógicas: visitas técnicas, projetos integradores/interdisciplinares, dias de campo,
+AÇÃO/PROJETO (Tema)
+feira das profissões, cursos extracurriculares para alunos.
+Origem (prioridade): 3-Gestão Tática - CPA (RADE, RCEE, RLAB, RWebSAI, RAAI)
+O que será feito: Participação em visitas técnicas a empresas locais e presença em feiras de profissões.
+Os estudantes terão a oportunidade de adquirir conhecimentos práticos aplicados, enquanto
+também contribuem para a divulgação da FATEC Votorantim e de seus cursos. Isso não apenas
+Por que será feito:
+permite que os alunos se familiarizem com o mercado, mas também facilita sua visibilidade junto
+às empresas locais.
+Responsável: <nome> Dilermano Piva Júnior Qde CH/sem: 02 Tipo: HA - Hora Atividade
+Colaborador(a): <nome> Angelina V. S. Melaré Qde CH/sem: 02 Tipo: HA - Hora Atividade
+Colaborador(a): <nome> Lígia C. P. Agasi Qde CH/sem: 02 Tipo: HA - Hora Atividade
+Período de execução: Data inicial: 03/02/2025 Data final: 19/12/2025
+Etapas do processo: 01- Consultar os professores sobre a viabilidade de visitas técnicas 03/02 19/12
+02- Fazer o contato e levantamento de empresas regionais para visita 03/02 19/12
+03- Confirmar os professores encarregados das visitas técnicas 03/02 19/12
+04- Realizar agendamento com as empresas 03/02 19/12
+05- Verificar datas de feiras de profissões presenciais e on-line 03/02 19/12
+06- Realizar visitas técnicas 03/02 19/12
+07- Participar de feiras de profissões presenciais e online 03/02 19/12
+08- nn dd/mm dd/mm
+Custo R$ (se houver): Não haverá custos Fonte(s) dos recursos: Não haverá custos
+Situação problema: cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão
+(a ser resolvida/mitigada) cat 0.1.08 - Participação da comunidade e sociedade
+X
+X
+
+103 - cat 1.06 - Ações pedagógicas: visitas técnicas, projetos integradores/interdisciplinares, dias de campo,
+AÇÃO/PROJETO (Tema)
+feira das profissões, cursos extracurriculares para alunos.
+Origem (prioridade): 3-Gestão Tática - CPA (RADE, RCEE, RLAB, RWebSAI, RAAI)
+O que será feito: Implementação de programas de capacitação extracurricular para os estudantes
+Para que os alunos tenham acesso a capacitações que os ajudarão a adquirir as habilidades
+Por que será feito:
+necessárias conforme especificado no Projeto Pedagógico do Curso (PPC).
+Responsável: <nome> Angelina V. S. Melaré Qde CH/sem: 02 Tipo: HA - Hora Atividade
+Colaborador(a): <nome> Dilermano Piva Júnior Qde CH/sem: 02 Tipo: HA - Hora Atividade
+Colaborador(a): <nome> Lígia C. P. Agasi Qde CH/sem: 02 Tipo: HA - Hora Atividade
+Período de execução: Data inicial: 03/02/2025 Data final: 19/12/2025
+Etapas do processo: 01- Planejar eventos voltados para capacitação 03/02 19/12
+02- Criação de formulários de inscrição 03/02 19/12
+03- Divulgação dos formulários a comunidade docente e discente 03/02 19/12
+04- Acompanhar a participação efetiva dos inscritos 03/02 19/12
+05- Aquisição de materiais e insumos para os cursos extracurriculares 03/02 19/12
+06- nn dd/mm dd/mm
+07- nn dd/mm dd/mm
+08- nn dd/mm dd/mm
+Custo R$ (se houver): A ser definido Fonte(s) dos recursos: DMPP
+Situação problema: cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão
+(a ser resolvida/mitigada) cat 0.1.99 - Outra
+X
+X
+AÇÃO/PROJETO (Tema) 104 - cat 1.03 - COIL/PCI e Escola de Inovadores
+Origem (prioridade): 3-Gestão Tática - CPA (RADE, RCEE, RLAB, RWebSAI, RAAI)
+O que será feito: Incentivar a participação no projeto “Escola de Inovadores do INOVA CPS”
+Para que os alunos possam ampliar o conhecimento na área de inovação e tecnologia, além de
+Por que será feito:
+proporcionar a participação em um curso de extensão em empreendedorismo.
+Responsável: <nome> Angelina S. V. Milaré Qde CH/sem: 02 Tipo: HA - Hora Atividade
+Colaborador(a): <nome> Dilermando Piva Júnior Qde CH/sem: 02 Tipo: HA - Hora Atividade
+<nome> Rosana Bertila Qde CH/sem: 02 Tipo: HAE - Hora Atividade
+Colaborador(a):
+Específica
+Período de execução: Data inicial: 03/02/2025 Data final: 19/12/2025
+Etapas do processo: 01- Agendar palestra com a Agente Regional do Inova Paula Souza 03/02 19/12
+02- Divulgar e motivar a participação dos alunos em evento 03/02 19/12
+03- Realizar a inscrição dos alunos 03/02 19/12
+04- Incentivar a participação continuada dos alunos 03/02 19/12
+05- Acompanhar a participação dos alunos 03/02 19/12
+06- nn dd/mm dd/mm
+07- nn dd/mm dd/mm
+08- nn dd/mm dd/mm
+Custo R$ (se houver): Não haverá custos Fonte(s) dos recursos: Não haverá custos
+Situação problema: cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão
+(a ser resolvida/mitigada) cat 0.1.08 - Participação da comunidade e sociedade
+X
+X
+AÇÃO/PROJETO (Tema) 105 - cat 1.12 - Orientação profissional para discentes, mentoria e apoio psicopedagógico
+Origem (prioridade): 6-Outra
+Estabelecimento e organização do núcleo de empregabilidade, empreendedorismo e inovação,
+que fornecerá orientação sobre carreiras e conduzirá um processo de alinhamento de
+O que será feito:
+competências para o desenvolvimento profissional. Implementação de atividades de
+acompanhamento dos alunos desde a matrícula até três anos após a formatura.
+Facilitar oportunidades de emprego e reintegração profissional com alinhamento a novas áreas
+Por que será feito:
+de atuação.
+<nome> Maria Eliana Gomes Cardim de Q Guimarães Qde CH/sem: 08 Tipo: HAE - Hora Atividade
+Responsável:
+Específica
+<nome> Juliana Ribeiro de Lima Qde CH/sem: 05 Tipo: HAE - Hora Atividade
+Colaborador(a):
+Específica
+Colaborador(a): <nome> nn Qde CH/sem: nn Tipo: Escolher um item.
+
+Período de execução: Data inicial: 03/02/2025 Data final: 19/12/2025
+01- Análise do PPC dos cursos e aprovação da proposta da escrita da 03/02 19/12
+Etapas do processo:
+atividade de alinhamento de competências do PPC junto as coordenações.
+02- Levantamento de perfil e motivações 03/02 19/12
+03- Desenvolvimento de currículo 03/02 19/12
+04- Curso de capacitação para os alunos 03/02 19/12
+05- Desenvolvimento de relatório de acompanhamento 03/02 19/12
+06- nn dd/mm dd/mm
+07- nn dd/mm dd/mm
+08- nn dd/mm dd/mm
+Custo R$ (se houver): Não haverá custos Fonte(s) dos recursos: Não haverá custos
+Situação problema: cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão
+(a ser resolvida/mitigada) Escolher um item.
+X
+X
+106 - cat 1.06 - Ações pedagógicas: visitas técnicas, projetos integradores/interdisciplinares, dias de campo,
+AÇÃO/PROJETO (Tema)
+feira das profissões, cursos extracurriculares para alunos.
+Origem (prioridade): 6-Outra
+Acompanhamento e auxílio no desenvolvimento de projetos integradores dos cursos de DSM e
+O que será feito:
+CDN.
+Oferecer suporte para esclarecimento de dúvidas e orientação no desenvolvimento dos projetos
+Por que será feito:
+integradores, além de auxiliar os alunos com desafios de aprendizagem.
+Responsável: <nome> Angelina V. S. Melaré Qde CH/sem: 02 Tipo: HA - Hora Atividade
+<nome> Ricardo Roberto Leme Qde CH/sem: 04 Tipo: HAE - Hora Atividade
+Colaborador(a):
+Específica
+Colaborador(a): <nome> nn Qde CH/sem: nn Tipo: Escolher um item.
+Período de execução: Data inicial: 03/02/2025 Data final: 19/12/2025
+Etapas do processo: 01- Divulgação aos alunos 03/02 19/12
+02- Acompanhamento semanal das atividades desenvolvidas 03/02 19/12
+03- Desenvolvimento de documentação do projeto integrador 03/02 19/12
+04- nn dd/mm dd/mm
+05- nn dd/mm dd/mm
+06- nn dd/mm dd/mm
+07- nn dd/mm dd/mm
+08- nn dd/mm dd/mm
+Custo R$ (se houver): Não haverá custos Fonte(s) dos recursos: Não haverá custos
+Situação problema: cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão
+(a ser resolvida/mitigada) cat 0.1.99 - Outra
+X
+X
+AÇÃO/PROJETO (Tema) 107 - cat 1.05 - Monitoria em disciplina do curso
+Origem (prioridade): 3-Gestão Tática - CPA (RADE, RCEE, RLAB, RWebSAI, RAAI)
+Disponibilizar um monitor para as disciplinas com maior dificuldade de aprendizagem nos cursos
+O que será feito:
+de CDN, CO e DSM
+Por que será feito: Para esclarecer dúvidas e apoiar os alunos com dificuldades de aprendizagem.
+Responsável: <nome> Lígia Conceição Pereira Agasi Qde CH/sem: 02 Tipo: HA - Hora Atividade
+Colaborador(a): <nome> Angelina V. S. Melaré Qde CH/sem: 02 Tipo: HA - Hora Atividade
+<nome> Adriana Barros/Laísa Gamito Qde CH/sem: 02 Tipo: H - Hora <não
+Colaborador(a):
+tipificada>
+Período de execução: Data inicial: 03/02/2025 Data final: 19/12/2025
+01- Os professores responsáveis deverão fornecer orientações pedagógicas 03/02 19/12
+Etapas do processo:
+ao monitor da disciplina.
+02- Comunicar aos alunos os horários de oferecimento de monitoria 03/02 19/12
+03- Os professores e a coordenação deverão motivar os alunos a 03/02 19/12
+participarem ativamente da monitoria
+04- Os monitores deverão gerar e resolver listas de exercícios 03/02 19/12
+05- Atender os alunos com dificuldades semanalmente 03/02 19/12
+06- nn dd/mm dd/mm
+07- nn dd/mm dd/mm
+08- nn dd/mm dd/mm
+
+Custo R$ (se houver): 25% da HA para cada monitor Fonte(s) dos recursos: CESU
+Situação problema: cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão
+(a ser resolvida/mitigada) cat 0.1.99 - Outra
+X
+X
+AÇÃO/PROJETO (Tema) 108 - cat.1.99 - Outra
+Origem (prioridade): 1-Regulação - Notificação de órgão (MEC, CEE, VS.,..)
+O que será feito: Processo de Avaliação da CPA
+Com o objetivo de conduzir um processo abrangente de avaliação, reunindo feedbacks sobre
+Por que será feito: vários aspectos do ensino, aprendizagem e operações da instituição, com o objetivo de identificar
+pontos positivos e áreas que necessitam de melhorias.
+<nome> Diego Aparecido Carvalho Albuquerque Qde CH/sem: 11 Tipo: HAE - Hora Atividade
+Responsável:
+Específica
+Colaborador(a): <nome> Angelina S. V. Melaré / Dilermando Piva Júnior Qde CH/sem: 02 Tipo: HA - Hora Atividade
+<nome> Administrativo/Direção Qde CH/sem: 02 Tipo: H - Hora <não
+Colaborador(a):
+tipificada>
+Período de execução: Data inicial: 03/02/2025 Data final: 19/12/2025
+01- Divulgação e esclarecimento aos docentes, funcionários e alunos sobre 03/02 19/12
+Etapas do processo:
+a CPA
+02- Análise das avaliações anteriores 03/02 19/12
+03- Análise das metas 03/02 19/12
+04- Geração de relatórios e gráficos 03/02 19/12
+05- Consolidar um programa de sensibilização e de divulgação dos 03/02 19/12
+resultados de nossas avaliações institucionais (CPA)
+06- Rever a forma e frequência de divulgação do uso dos indicadores do 03/02 19/12
+WEBSAI no Planejamento Institucional
+07- nn dd/mm dd/mm
+08- nn dd/mm dd/mm
+Custo R$ (se houver): Não haverá custos Fonte(s) dos recursos: Não haverá custos
+Situação problema: cat 0.1.10 - Gestão da unidade de ensino e dos cursos (indicadores)
+(a ser resolvida/mitigada) cat 0.1.99 - Outra
+X
+X
+AÇÃO/PROJETO (Tema) 109 - cat 1.01 - Adequação/reestruturação de PPC, implantação de novos cursos.
+Origem (prioridade): 1-Regulação - Notificação de órgão (MEC, CEE, VS.,..)
+O que será feito: Análise e reestruturação do PPC do curso para adequação da curricularização
+Por que será feito: Para atender exigências legais.
+Responsável: <nome> Coordenadores Qde CH/sem: 06 Tipo: HA - Hora Atividade
+<nome> Representantes do NDE dos cursos Qde CH/sem: 06 Tipo: H - Hora <não
+Colaborador(a):
+tipificada>
+<nome> Juliana Tonon Qde CH/sem: 06 Tipo: H - Hora <não
+Colaborador(a):
+tipificada>
+Período de execução: Data inicial: 10/03/2025 Data final: 19/12/2025
+Etapas do processo: 01- Análise do PPC do curso 10/03 19/12
+02- Reuniões com os NDE e professores 10/03 19/12
+03- Reestruturação do PPC 10/03 19/12
+04- nn dd/mm dd/mm
+05- nn dd/mm dd/mm
+06- nn dd/mm dd/mm
+07- nn dd/mm dd/mm
+08- nn dd/mm dd/mm
+Custo R$ (se houver): Não haverá custos Fonte(s) dos recursos: Não haverá custos
+Situação problema: cat 0.1.10 - Gestão da unidade de ensino e dos cursos (indicadores)
+(a ser resolvida/mitigada) cat 0.1.99 - Outra
+X
+X
+AÇÃO/PROJETO (Tema) 110 - cat 1.08 - Eventos e ações para aperfeiçoamento docente (Spap, treinamentos, avaliação docente)
+Origem (prioridade): 6-Outra
+
+Promover capacitações para os docentes abordando metodologias de ensino, atualizações
+O que será feito: pedagógicas, treinamento em ferramentas acadêmicas e realização de minicursos na área
+técnica.
+Por que será feito: Para melhoria da qualidade do ensino e para aperfeiçoamento didático-pedgógicos do docente.
+Responsável: <nome> Direção Qde CH/sem: 02 Tipo: HA - Hora Atividade
+Colaborador(a): <nome> Coordenação Qde CH/sem: 02 Tipo: HA - Hora Atividade
+<nome> Juliana Tonon Qde CH/sem: 02 Tipo: H - Hora <não
+Colaborador(a):
+tipificada>
+Período de execução: Data inicial: 10/03/2025 Data final: 19/12/2025
+Etapas do processo: 01- Estudo das necessidades 10/03 19/12
+02- Pesquisa de cursos de capacitação 10/03 19/12
+03- Desenvolver capacitações aos docentes 10/03 19/12
+04- nn dd/mm dd/mm
+05- nn dd/mm dd/mm
+06- nn dd/mm dd/mm
+07- nn dd/mm dd/mm
+08- nn dd/mm dd/mm
+Custo R$ (se houver): Não haverá custos Fonte(s) dos recursos: Não haverá custos
+Situação problema: cat 0.1.10 - Gestão da unidade de ensino e dos cursos (indicadores)
+(a ser resolvida/mitigada) cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão
+X
+X
+AÇÃO/PROJETO (Tema) 111 - cat 1.07 - Divulgação do vestibular e ações de fortalecimento de imagem institucional
+Origem (prioridade): 6-Outra
+Divulgar notícias da instituição e dos cursos da Fatec Votorantim para o público interno e externo
+O que será feito:
+através do site, redes sociais e outros canais de comunicação.
+Por que será feito: Para divulgar a Fatec e seus cursos junto à comunidade.
+<nome> Mariana Cristina Pontes Dias Qde CH/sem: 05 Tipo: H - Hora <não
+Responsável:
+tipificada>
+<nome> Laísa Gamito Qde CH/sem: 05 Tipo: H - Hora <não
+Colaborador(a):
+tipificada>
+<nome> Administrativo/Coordenação/Direção Qde CH/sem: 05 Tipo: H - Hora <não
+Colaborador(a):
+tipificada>
+Período de execução: Data inicial: 10/03/2025 Data final: 19/12/2025
+01- Manter as estratégias institucionais da unidade em publicidade interna 10/03 19/12
+Etapas do processo:
+e externa.
+02- Disponibilizar conteúdo atualizado nos meios de comunicação (site, 10/03 19/12
+redes sociais)
+03- Análise do público das redes sociais e traçar campanhas para os públicos 10/03 19/12
+04- nn dd/mm dd/mm
+05- nn dd/mm dd/mm
+06- nn dd/mm dd/mm
+07- nn dd/mm dd/mm
+08- nn dd/mm dd/mm
+Custo R$ (se houver): A ser definido Fonte(s) dos recursos: Verba do vestibular (FAT)
+Situação problema: cat 0.1.10 - Gestão da unidade de ensino e dos cursos (indicadores)
+(a ser resolvida/mitigada) cat 0.1.08 - Participação da comunidade e sociedade
+X
+X
+AÇÃO/PROJETO (Tema) 112 - cat 1.07 - Divulgação do vestibular e ações de fortalecimento de imagem institucional
+Origem (prioridade): 6-Outra
+O que será feito: Divulgação do vestibular e dos seus cursos
+Por que será feito: Para divulgar o vestibular da instituição Fatec Votorantim
+<nome> Mariana Cristina Pontes Dias Qde CH/sem: 05 Tipo: H - Hora <não
+Responsável:
+tipificada>
+<nome> Maria José Cardoso Qde CH/sem: 01 Tipo: HAE - Hora Atividade
+Colaborador(a):
+Específica
+<nome> Administrativo/Coordenação/Direção Qde CH/sem: 05 Tipo: H - Hora <não
+Colaborador(a):
+tipificada>
+Período de execução: Data inicial: 02/01/2025 Data final: 19/12/2025
+
+01- Manter as estratégias de divulgação de todas as etapas do cronograma 02/01 19/12
+Etapas do processo:
+do vestibular
+02- Fazer controle da campanha do vestibular nas redes sociais 02/01 19/12
+03- Realizar visitas em escolas e outros locais próprios para divulgação 02/01 19/12
+04- Realizar roda de entrevistas com profissionais das áreas e criar vídeos no 02/01 19/12
+Youtube
+05- Criar materiais, cards, vídeos, fotos de divulgação da Fatec Votorantim 02/01 19/12
+e seus cursos
+06- Divulgação da unidade e de seus cursos junto aos meios de 02/01 19/12
+comunicação – jornais/rádios
+07- nn dd/mm dd/mm
+08- nn dd/mm dd/mm
+Custo R$ (se houver): A ser definido Fonte(s) dos recursos: Verba do vestibular (FAT)
+Situação problema: cat 0.1.10 - Gestão da unidade de ensino e dos cursos (indicadores)
+(a ser resolvida/mitigada) cat 0.1.08 - Participação da comunidade e sociedade
+
+01 – Didático-Pedagógico: Copiar projetos de 2024
+AÇÃO/PROJETO (Tema) 101 - cat 1.04 - Biblioteca Ativa e aquisição de bibliografias
+Origem (prioridade): 3-Gestão Tática - CPA (RADE, RCEE, RLAB, RWebSAI, RAAI)
+O que será feito: Promover o uso da biblioteca da unidade
+Planejamento/ organização/ instalação de infraestrutura e mobiliários / organização de acesso
+Por que será feito:
+lógico ao acervo/ compra e catalogação; etc.
+<nome> Diego Aparecido carvalho Albuquerque Qde CH/sem: 15 Tipo: HAE - Hora Atividade
+Responsável:
+Específica
+<nome> Juliana Ribeiro de Lima Qde CH/sem: 5 Tipo: HAE - Hora Atividade
+Colaborador(a):
+Específica
+Colaborador(a): <nome> nn Qde CH/sem: nn Tipo: Escolher um item.
+Período de execução: Data inicial: 19/02/2024 Data final: 20/12/2024
+Etapas do processo: 01- Planejamento e levantamento das ações a serem desenvolvidas 19/02 23/02
+02- Definição da lista dos livros de acordo com o PPC dos cursos 26/02 15/03
+03- Envio da lista de livros para compra na CESU 18/03 28/03
+04- Dar a continuidade a Biblioteca Ativa. 19/02 20/12
+05- Digitação do acervo da biblioteca recebido 19/02 20/12
+06- Instalação de software para professor responsável / software do CPS 19/02 20/12
+de acesso a acervo
+07- nr dd/mm dd/mm
+08- nn dd/mm dd/mm
+Custo R$ (se houver): nn Fonte(s) dos recursos: nn
+Situação problema: cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão
+(a ser resolvida/mitigada) cat 0.1.03 - Infraestrutura predial (espaços, sistemas)
+X
+X
+102 - cat 1.06 - Ações pedagógicas: visitas técnicas, projetos integradores/interdisciplinares, dias de campo,
+AÇÃO/PROJETO (Tema)
+feira das profissões, cursos extracurriculares para alunos.
+Origem (prioridade): 3-Gestão Tática - CPA (RADE, RCEE, RLAB, RWebSAI, RAAI)
+Visitas técnicas as empresas da região, feira de profissões, projeto integradores, semana de
+O que será feito:
+engenharia e/ou tecnologias
+Para que os alunos tenham contato com o conhecimento aplicado na prática, e fazer a divulgação
+Por que será feito:
+da FATEC Votorantim, seus cursos e seus alunos se fazer conhecidos às empresas da região
+<nome> Dilermano Piva Júnior - Angelina V. S. Melaré - Qde CH/sem: 2 Tipo: HA - Hora Atividade
+Responsável:
+Lígia C. P. Agasi
+Colaborador(a): <nome> Qde CH/sem: 2 Tipo: HA - Hora Atividade
+Colaborador(a): <nome> Qde CH/sem: 2 Tipo: HA - Hora Atividade
+Período de execução: Data inicial: 02/02/2024 Data final: 20/12/2024
+Etapas do processo: 01- Verificar junto aos professores as possíveis visitas técnicas das turmas 01/02 20/12
+02- Fazer o contato e o levantamento das empresas regionais de interesse 01/02 20/12
+03- Verificar quais os professores responsáveis por cada visita 01/02 20/12
+04- Fazer o agendamento com as empresas 01/02 20/12
+05- Verificar as datas das semanas de Tecnologia de cada curso 01/02 20/12
+06- Agendar as visitas e empresas parceiras 01/02 20/12
+07- Verificar a possibilidade de transporte junto a Prefeitura Municipal 01/02 20/12
+08- nn 01/02 20/12
+Custo R$ (se houver): nn Fonte(s) dos recursos: nn
+Situação problema: cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão
+(a ser resolvida/mitigada) Escolher um item.
+
+103 - cat 1.06 - Ações pedagógicas: visitas técnicas, projetos integradores/interdisciplinares, dias de campo,
+AÇÃO/PROJETO (Tema)
+feira das profissões, cursos extracurriculares para alunos.
+Origem (prioridade): 3-Gestão Tática - CPA (RADE, RCEE, RLAB, RWebSAI, RAAI)
+O que será feito: Participação do Hachathon entre cursos de tecnologia da informação
+Para que os alunos tenham maior conhecimento sobre o estudo aplicado a área de inovação e
+Por que será feito:
+tecnologia
+Responsável: <nome> Dilermano Piva Júnior - Angelina V. S. Melaré Qde CH/sem: 2 Tipo: HA - Hora Atividade
+Colaborador(a): <nome> Qde CH/sem: 2 Tipo: HA - Hora Atividade
+Colaborador(a): <nome> Qde CH/sem: 2 Tipo: HA - Hora Atividade
+Período de execução: Data inicial: 02/02/2024 Data final: 20/12/2024
+Etapas do processo: Organizar participação em evento 01/02 20/12
+Definir alunos de cada curso 01/02 20/12
+Convidar professores para participarem 01/02 20/12
+Participar no dia do evento 01/02 10/12
+Custo R$ (se houver): nn Fonte(s) dos recursos: nn
+Situação problema: cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão
+(a ser resolvida/mitigada) Escolher um item.
+AÇÃO/PROJETO (Tema) 104 - cat 1.14 - Curso de Extensão
+Origem (prioridade): 3-Gestão Tática - CPA (RADE, RCEE, RLAB, RWebSAI, RAAI)
+O que será feito: Participação em Cursos entre Fatecs l
+Para que os alunos tenham maior conhecimento sobre o estudo aplicado a área de inovação e
+Por que será feito:
+tecnologia por meio de integração
+Responsável: <nome> Angelina V. S. Milaré Qde CH/sem: 02 Tipo: HA - Hora Atividade
+Colaborador(a): <nome> Dilermando Piva Júnior Qde CH/sem: 02 Tipo: HA - Hora Atividade
+Colaborador(a): <nome> Lígia C. P. Agasi Qde CH/sem: 02 Tipo: HA - Hora Atividade
+Período de execução: Data inicial: 05/02/2024 Data final: 20/12/2024
+Etapas do processo: 01- Planejar e fazer parcerias de cursos entre Fatecs 05/02 05/08
+02- Organizar participação em eventos 05/02 05/08
+03- Criação de formulário de inscrição 15/02 20/12
+04- Divulgar formulários a comunidade docente e discente 15/02 20/12
+05- nn dd/mm dd/mm
+06- nn dd/mm dd/mm
+07- nn dd/mm dd/mm
+08- nn dd/mm dd/mm
+Custo R$ (se houver): nn Fonte(s) dos recursos: nn
+Situação problema: cat 0.1.07 - Comunicação com a comunidade acadêmica
+(a ser resolvida/mitigada) cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão
+105 - cat 1.06 - Ações pedagógicas: visitas técnicas, projetos integradores/interdisciplinares, dias de campo,
+AÇÃO/PROJETO (Tema)
+feira das profissões, cursos extracurriculares para alunos.
+Origem: 3-Outra
+O que será feito: Participação do Projeto Escola de Inovadores do INOVA CPS
+Os alunos irão participar de um curso de extensão em empreendedorismo ofertado pelo Inova
+Por que será feito:
+CPS que fornece conhecimento em Empreendedorismo e Inovação
+Responsável: <nome> Angelina S. V. Milaré Qde CH/sem: 02 Tipo: HA - Hora Atividade
+Colaborador(a): <nome> Dilermando Piva Júnior Qde CH/sem: 02 Tipo: HA - Hora Atividade
+Colaborador(a): <nome> Lígia C. P. Agasi Qde CH/sem: 02 Tipo: HA - Hora Atividade
+Período de execução: Data inicial: 02/02/2024 Data final: 31/12/2024
+Etapas do processo: 01- Agendar palestra com a Agente Regional do Inova Paula Souza dd/mm dd/mm
+02- Divulgar e motivar a participação dos alunos em evento dd/mm dd/mm
+03- Inscrição dos alunos dd/mm dd/mm
+
+04- Incentivar a participação continuada dos alunos dd/mm dd/mm
+05- nn dd/mm dd/mm
+06- nn dd/mm dd/mm
+07- nn dd/mm dd/mm
+08- nn dd/mm dd/mm
+Custo R$ (se houver): nn Fonte(s) dos recursos: nn
+Situação problema: cat 0.1.13 - Relacionamento interpessoal da equipe
+(a ser resolvida/mitigada) Escolher um item.
+AÇÃO/PROJETO (Tema) 106 - cat 1.12 - Orientação profissional para discentes, mentoria e apoio psicopedagógico
+Origem: 3-Outra
+Criação e estruturação do núcleo de empregabilidade, empreendedorismo e inovação. Esse
+núcleo fará orientação quanto carreiras. Realização de processo de alinhamento de
+O que será feito:
+competências para desenvolvimento de carreiras profissionais. Atividade de acompanhamento
+do aluno desde matrícula (início do curso) até três anos após egresso.
+Por que será feito: Proporcionar empregabilidade, recolocação profissional com alinhamento de novas funções
+Responsável: <nome> Angelina S. V. Milaré Qde CH/sem: 02 Tipo: HA - Hora Atividade
+Colaborador(a): <nome> Dilermando Piva Júnior Qde CH/sem: 02 Tipo: HA - Hora Atividade
+Colaborador(a): <nome> Lígia C. P. Agasi Qde CH/sem: 02 Tipo: HA - Hora Atividade
+Período de execução: Data inicial: 02/02/2024 Data final: 31/12/2024
+Análise do PPC dos cursos e aprovação da proposta da escrita da atividade dd/mm dd/mm
+Etapas do processo:
+de alinhamento de competências do PPC junto as coordenações.
+Levantamento de perfil e motivações dd/mm dd/mm
+Desenvolvimento de currículo dd/mm dd/mm
+Custo R$ (se houver): nn Fonte(s) dos recursos: nn
+Situação problema: cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão
+(a ser resolvida/mitigada) Escolher um item.
+
+02 – Laboratórios - Ensino e Equipamentos Associados
+Ações para melhoramento dos laboratórios de Ensino (Gestão e Equipamentos): Melhoramento de
+equipamentos, mediante instalação, manutenção, desuso, doação, e gestão de ambiente laboratorial.
+201 - cat 2.03 - Ambiente multidisciplinar de ensino - implantação/melhoramento com recursos
+AÇÃO/PROJETO (Tema)
+PEDAGÓGICOS
+Origem (prioridade): 6-Outra
+O que será feito: Laboratório Maker - Planejamento/ instalação de equipamentos / organização de projetos.
+Por que será feito: Para uso do Laboratório Maker para desenvolvimentos de projetos.
+Responsável: <nome> Angelina S. V. Melaré Qde CH/sem: 02 Tipo: HA - Hora Atividade
+<nome> Juliana Lima Qde CH/sem: 05 Tipo: HAE - Hora Atividade
+Colaborador(a):
+Específica
+<nome> Adriana Barros Qde CH/sem: 02 Tipo: H - Hora <não
+Colaborador(a):
+tipificada>
+Período de execução: Data inicial: 03/02/2025 Data final: 19/12/2025
+Etapas do processo: 01- Organização do espaço do laboratório 03/02 19/12
+02- Compra de insumos 03/02 19/12
+03- Definição de projetos a serem executados pelos cursos 03/02 19/12
+04- Treinamento dos docentes e auxiliar docente 03/02 19/12
+05- Treinamento dos discentes 03/02 19/12
+06- Oferecimento de cursos a comunidade 03/02 19/12
+07- nn dd/mm dd/mm
+08- nn dd/mm dd/mm
+Custo R$ (se houver): A ser definido Fonte(s) dos recursos: DMPP, Centro Paula Souza (Licitação)
+Situação problema: cat 0.1.04 - Infraestrutura laboratorial e ambientes de ensino
+(a ser resolvida/mitigada) Escolher um item.
+X
+X
+AÇÃO/PROJETO (Tema) 202 - cat 2.01 - Laboratório físico - implantação/melhoramento com recursos PEDAGÓGICOS
+Origem (prioridade): 3-Gestão Tática - CPA (RADE, RCEE, RLAB, RWebSAI, RAAI)
+O que será feito: Obtenção e estruturação dos Laboratórios
+Por que será feito: Melhoria no aprendizado e atendimento ao PPC dos cursos com aulas práticas em laboratórios
+<nome> Lígia C. P. Agasi/ Dilermando Piva Júnior/ Qde CH/sem: 02 Tipo: HA - Hora Atividade
+Responsável:
+Angelina V. S. Melaré
+<nome> Adriana / Laísa/ Mariana/Eliana Qde CH/sem: 02 Tipo: H - Hora <não
+Colaborador(a):
+tipificada>
+Colaborador(a): <nome> nn Qde CH/sem: nn Tipo: Escolher um item.
+Período de execução: Data inicial: 03/02/2025 Data final: 19/12/2025
+Etapas do processo: 01- Levantamento dos equipamentos, mobiliário e softwares 03/02 19/12
+02- Atualização de necessidades para licitação e compra 03/02 19/12
+03- Encaminhamento via SEI para UGAF para aquisição 03/02 19/12
+04- Recebimento equipamentos 03/02 19/12
+05- Instalação dos equipamentos e mobiliários 03/02 19/12
+06- Treinamento dos docentes e auxiliar docente 03/02 19/12
+07- nn dd/mm dd/mm
+08- nn dd/mm dd/mm
+Custo R$ (se houver): A ser definido Fonte(s) dos recursos: UGAF/Centro Paula Souza (Licitação)
+Situação problema: cat 0.1.04 - Infraestrutura laboratorial e ambientes de ensino
+(a ser resolvida/mitigada) cat 0.1.05 - Materiais, equipamentos e mobiliários
+X
+X
+
+AÇÃO/PROJETO (Tema) 203 - Escolher um item.
+Origem (prioridade): Escolher um item.
+O que será feito: nn
+Por que será feito: nn
+Responsável: <nome> nn Qde CH/sem: nn Tipo: Escolher um item.
+Colaborador(a): <nome> nn Qde CH/sem: nn Tipo: Escolher um item.
+Colaborador(a): <nome> nn Qde CH/sem: nn Tipo: Escolher um item.
+Período de execução: Data inicial: dd/mm/aaaa Data final: dd/mm/aaaa
+Etapas do processo: 01- nn dd/mm dd/mm
+02- nn dd/mm dd/mm
+03- nn dd/mm dd/mm
+04- nn dd/mm dd/mm
+05- nn dd/mm dd/mm
+06- nn dd/mm dd/mm
+07- nn dd/mm dd/mm
+08- nn dd/mm dd/mm
+Custo R$ (se houver): nn Fonte(s) dos recursos: nn
+Situação problema: Escolher um item.
+(a ser resolvida/mitigada) Escolher um item.
+X
+X
+AÇÃO/PROJETO (Tema) 204 - Escolher um item.
+Origem (prioridade): Escolher um item.
+O que será feito: nn
+Por que será feito: nn
+Responsável: <nome> nn Qde CH/sem: nn Tipo: Escolher um item.
+Colaborador(a): <nome> nn Qde CH/sem: nn Tipo: Escolher um item.
+Colaborador(a): <nome> nn Qde CH/sem: nn Tipo: Escolher um item.
+Período de execução: Data inicial: dd/mm/aaaa Data final: dd/mm/aaaa
+Etapas do processo: 01- nn dd/mm dd/mm
+02- nn dd/mm dd/mm
+03- nn dd/mm dd/mm
+04- nn dd/mm dd/mm
+05- nn dd/mm dd/mm
+06- nn dd/mm dd/mm
+07- nn dd/mm dd/mm
+08- nn dd/mm dd/mm
+Custo R$ (se houver): nn Fonte(s) dos recursos: nn
+Situação problema: Escolher um item.
+(a ser resolvida/mitigada) Escolher um item.
+X
+X
+<Copiar tabelas para mais ações>
+
+02 – Laboratórios: Copiar projetos de 2024
+AÇÃO/PROJETO (Tema) 201 - cat 2.01 - Laboratório físico - implantação/melhoramento com recursos PEDAGÓGICOS
+Origem (prioridade): 6-Outra
+(O que será feito: Laboratório Maker- Planejamento/ instalação de equipamentos / organização de projetos.
+Por que será feito: Para uso do Laboratório Maker para desenvolvimentos de projetos.
+Responsável: <nome> Angelina S. V. Milaré Qde CH/sem: nn Tipo: Escolher um item.
+<nome> André Almeida Qde CH/sem: 03 Tipo: HAE - Hora Atividade
+Colaborador(a):
+Específica
+Colaborador(a): <nome> nn Qde CH/sem: nn Tipo: Escolher um item.
+Período de execução: Data inicial: 02/02/2024 Data final: 31/12/2024
+Etapas do processo: 01- Organização do espaço do laboratório dd/mm dd/mm
+02- Compra de insumos dd/mm dd/mm
+03- Definição de projetos a serem executados pelos cursos dd/mm dd/mm
+04- Treinamento dos docentes e Auxiliar Docente dd/mm dd/mm
+05- Treinamento dos discentes dd/mm dd/mm
+06- Oferecimentos de curso a comunidade. dd/mm dd/mm
+07- nn dd/mm dd/mm
+08- nn dd/mm dd/mm
+Custo R$ (se houver): nn Fonte(s) dos recursos: nn
+Situação problema: cat 0.1.04 - Infraestrutura laboratorial e ambientes de ensino
+(a ser resolvida/mitigada) cat 0.1.04 - Infraestrutura laboratorial e ambientes de ensino
+AÇÃO/PROJETO (Tema) 202 - cat 2.01 - Laboratório físico - implantação/melhoramento com recursos PEDAGÓGICOS
+Origem (prioridade): 3-Gestão Tática - CPA (RADE, RCEE, RLAB, RWebSAI, RAAI)
+O que será feito: Obtenção e Estruturação dos Laboratórios
+Por que será feito: Melhoria no aprendizado e atendendo ao PCC do curso com aulas práticas
+Responsável: <nome> Angelina V. S. Milaré Qde CH/sem: 40 Tipo: HA - Hora Atividade
+Colaborador(a): <nome> Dilermando Piva Júnior Qde CH/sem: 40 Tipo: HA - Hora Atividade
+Colaborador(a): <nome> Lígia C. P. Agasi Qde CH/sem: 40 Tipo: HA - Hora Atividade
+Período de execução: Data inicial: 01/02/2024 Data final: 31/12/2024
+Etapas do processo: 01- Levantamento dos equipamentos, mobiliário e softwares 01/02 05/02
+02- Atualização dos Orçamentos para Licitação 01/02 05/02
+03- Encaminhamento a SEI e UGAF para aquisição 05/02 19/02
+04- Recebimento equipamentos 04/03 28/03
+05- Instalação dos equipamentos e mobiliários 04/03 28/03
+06- Treinamento dos docentes e Auxiliar docente 04/03 28/03
+07- Promover 50% das aulas técnica em laboratórios 01/04 31/12
+08- nn dd/mm dd/mm
+Custo R$ (se houver): nn Fonte(s) dos recursos: UGAF
+Situação problema: cat 0.1.04 - Infraestrutura laboratorial e ambientes de ensino
+(a ser resolvida/mitigada) cat 0.1.05 - Materiais, equipamentos e mobiliários
+AÇÃO/PROJETO (Tema) 20w - Escolher um item.
+Origem (prioridade): Escolher um item.
+(copiar restante da tabela, e colar com botão direito do mouse para manter a formatação)
+
+AÇÃO/PROJETO (Tema) 20z - Escolher um item.
+Origem (prioridade): Escolher um item.
+(copiar restante da tabela, e colar com botão direito do mouse para manter a formatação)
+
+03 – Pesquisa / Extensão e Equipamentos Associados
+Ações para melhoramento dos laboratórios que contemplam Pesquisa além do Ensino (Equipamentos):
+melhoramento dos espaços de pesquisa, que inclui especificação equipamentos e aquisição por fomento ou por
+projeto com empresa, e também prestação de serviços no campo tecnológico para instituições e empresas.
+AÇÃO/PROJETO (Tema) 301 - cat 3.02 - Desenvolvimento de Projetos de IC - MDITI
+Origem (prioridade): 6-Outra
+O que será feito: Pesquisa de Sistemas Multiplataformas para Cidades Inteligentes
+Promover a pesquisa entre professores e alunos da Fatec, visando o desenvolvimento de
+Por que será feito: conhecimentos em sistemas e tecnologias para criar soluções para as cidades e comunidades,
+formando profissionais conscientes de suas responsabilidades.
+Responsável: <nome> Angelina V. S. Melaré Qde CH/sem: 02 Tipo: Escolher um item.
+Colaborador(a): <nome> Dilermando Piva Júnior Qde CH/sem: 02 Tipo: Escolher um item.
+Colaborador(a): <nome> nn Qde CH/sem: nn Tipo: Escolher um item.
+Período de execução: Data inicial: 17/02/2025 Data final: 19/12/2025
+Etapas do processo: 01- Comunicação/conscientização do corpo discente e docente dos projetos 17/12 31/03
+02- Criação de equipes integradas dos cursos – docentes e discentes 17/12 31/03
+03- Definição dos temas de pesquisa de cada grupo 01/04 11/04
+04- Cronograma de pesquisa e Início de projetos de pesquisa 01/04 19/12
+05- nn dd/mm dd/mm
+06- nn dd/mm dd/mm
+07- nn dd/mm dd/mm
+08- nn dd/mm dd/mm
+Custo R$ (se houver): Não haverá custos Fonte(s) dos recursos: Não haverá custos
+Situação problema: cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão
+(a ser resolvida/mitigada) cat 0.1.08 - Participação da comunidade e sociedade
+X
+X
+AÇÃO/PROJETO (Tema) 302 - cat 3.02 - Desenvolvimento de Projetos de IC - MDITI
+Origem (prioridade): 6-Outra
+O que será feito: Pesquisa de Sistemas Multiplataformas para atender as ODS e ESG.
+Promover a pesquisa entre professores e alunos da Fatec, com o intuito de ampliar o
+Por que será feito: conhecimento em sistemas e tecnologias para desenvolver soluções voltadas para as cidades e
+comunidades, capacitando indivíduos conscientes de suas obrigações profissionais.
+Responsável: <nome> Angelina V. S. Melaré Qde CH/sem: 02 Tipo: HA - Hora Atividade
+Colaborador(a): <nome> nn Qde CH/sem: nn Tipo: Escolher um item.
+Colaborador(a): <nome> nn Qde CH/sem: nn Tipo: Escolher um item.
+Período de execução: Data inicial: 17/02/2025 Data final: 19/12/2025
+01- Comunicação/conscientização do corpo discente e docente dos 17/12 31/03
+Etapas do processo:
+projetos
+02- Criação de equipes integradas dos cursos – docentes e discentes 17/12 31/03
+03- Definição de pesquisas de cada grupo‐ com temas de projetos 01/04 11/04
+04- Início de projetos de pesquisa 01/04 19/12
+05- nn dd/mm dd/mm
+06- nn dd/mm dd/mm
+07- nn dd/mm dd/mm
+08- nn dd/mm dd/mm
+Custo R$ (se houver): Não haverá custos Fonte(s) dos recursos: Não haverá custos
+Situação problema: cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão
+(a ser resolvida/mitigada) Escolher um item.
+X
+X
+
+AÇÃO/PROJETO (Tema) 303 - cat 3.02 - Desenvolvimento de Projetos de IC - MDITI
+Origem (prioridade): 3-Gestão Tática - CPA (RADE, RCEE, RLAB, RWebSAI, RAAI)
+O que será feito: Monitoria de disciplinas e de Iniciação Científica
+Promover a pesquisa em conjunto com o corpo docente e discente da Fatec, visando ampliar o
+Por que será feito:
+conhecimento e formar cidadãos conscientes de suas responsabilidades profissionais.
+Responsável: <nome> Angelina V. S. Melaré Qde CH/sem: 02 Tipo: HA - Hora Atividade
+Colaborador(a): <nome> Dilermando Piva Júnior Qde CH/sem: 02 Tipo: HA - Hora Atividade
+Colaborador(a): <nome> Lígia C. P. Agasi Qde CH/sem: 02 Tipo: HA - Hora Atividade
+Período de execução: Data inicial: 17/02/2025 Data final: 19/12/2025
+01- Comunicação/conscientização do corpo discente e docente dos 17/02 19/12
+Etapas do processo:
+projetos
+02- Criação de equipes integradas dos cursos – docentes e discentes 17/02 19/12
+03- Definição de pesquisas de cada grupo‐ com temas de projetos 17/02 19/12
+04- Desenvolvimento de projetos de pesquisa 17/02 19/12
+05- nn dd/mm dd/mm
+06- nn dd/mm dd/mm
+07- nn dd/mm dd/mm
+08- nn dd/mm dd/mm
+Custo R$ (se houver): Não haverá custos Fonte(s) dos recursos: Não haverá custos
+Situação problema: cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão
+(a ser resolvida/mitigada) cat 0.1.08 - Participação da comunidade e sociedade
+X
+X
+AÇÃO/PROJETO (Tema) 304 - cat 3.01 - Cursos de Extensão
+Origem (prioridade): 3-Gestão Tática - CPA (RADE, RCEE, RLAB, RWebSAI, RAAI)
+O que será feito: Desenvolvimento de projeto de extensão para a comunidade
+Por que será feito: Promover cursos que auxiliem o crescimento da comunidade local
+Responsável: <nome> Angelina V. S. Melaré Qde CH/sem: 02 Tipo: HA - Hora Atividade
+Colaborador(a): <nome> Dilermando Piva Júnior Qde CH/sem: 02 Tipo: HA - Hora Atividade
+Colaborador(a): <nome> Lígia C.P. Agasi Qde CH/sem: 02 Tipo: HA - Hora Atividade
+Período de execução: Data inicial: 02/01/2025 Data final: 19/12/2025
+Etapas do processo: 01- Análise de necessidades de cursos de extensão 02/01 19/12
+02- Criação de formulário de inscrição 02/01 19/12
+03- Divulgação de cursos de extensão 02/01 19/12
+04- Organização do curso 02/01 19/12
+05- Aquisição de materiais e insumos necessários 02/01 19/12
+06- nn dd/mm dd/mm
+07- nn dd/mm dd/mm
+08- nn dd/mm dd/mm
+Custo R$ (se houver): A ser definido Fonte(s) dos recursos: DMPP, Centro Paula Souza (Licitação)
+Situação problema: cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão
+(a ser resolvida/mitigada) cat 0.1.08 - Participação da comunidade e sociedade
+X
+X
+AÇÃO/PROJETO (Tema) 305 - cat 3.01 - Cursos de Extensão
+Origem (prioridade): 6-Outra
+O que será feito: Aulas de AutoCAD
+Por que será feito: Oferecer uma formação de AutoCAD aos alunos
+Responsável: <nome> Lígia C. P. Agasi Qde CH/sem: 02 Tipo: HA - Hora Atividade
+<nome> Paulo Cesar Juliano Qde CH/sem: 03 Tipo: HAE - Hora Atividade
+Colaborador(a):
+Específica
+Colaborador(a): <nome> nn Qde CH/sem: nn Tipo: Escolher um item.
+Período de execução: Data inicial: 17/02/2025 Data final: 19/12/2025
+Etapas do processo: 01- Comunicação/ Conscientização do corpo discente 17/02 19/12
+02- Inscrições dos alunos e comunidade 17/02 19/12
+03- Início de Aulas 17/02 19/12
+04- Avaliação de aprendizagem 17/02 19/12
+05- nn dd/mm dd/mm
+06- nn dd/mm dd/mm
+
+07- nn dd/mm dd/mm
+08- nn dd/mm dd/mm
+Custo R$ (se houver): Não haverá custos Fonte(s) dos recursos: Não haverá custos
+Situação problema: cat 0.1.07 - Comunicação com a comunidade acadêmica
+(a ser resolvida/mitigada) cat 0.1.08 - Participação da comunidade e sociedade
+X
+X
+AÇÃO/PROJETO (Tema) 306 - cat 3.02 - Desenvolvimento de Projetos de IC - MDITI
+Origem (prioridade): 6-Outra
+O que será feito: Estudo, Pesquisa e extensão - SIMET & NEPA
+Por que será feito: Estação Meteorológica instalada na Fatec Votorantim
+<nome> José Carlos Ferreira Qde CH/sem: 05 Tipo: HAE - Hora Atividade
+Responsável:
+Específica
+Colaborador(a): <nome> Angelina Vitorino de Souza Melaré Qde CH/sem: 02 Tipo: HA - Hora Atividade
+<nome> Rodrigo de Paula Diver Qde CH/sem: 02 Tipo: HAE - Hora Atividade
+Colaborador(a):
+Específica
+Período de execução: Data inicial: 17/02/2025 Data final: 19/12/2025
+Etapas do processo: 01- Instalação e Manutenção da Estação Meteorológica 17/02 19/12
+02- Coleta de dados diário 17/02 19/12
+03- Tratamento de dados 17/02 19/12
+04- Pesquisa 17/02 19/12
+05- Estudos 17/02 19/12
+06- Produção de artigos em Publicações 17/02 19/12
+07- nn dd/mm dd/mm
+08- nn dd/mm dd/mm
+Custo R$ (se houver): Não haverá custos Fonte(s) dos recursos: Não haverá custos
+Situação problema: cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão
+(a ser resolvida/mitigada) cat 0.1.08 - Participação da comunidade e sociedade
+X
+X
+AÇÃO/PROJETO (Tema) 307 - cat 3.02 - Desenvolvimento de Projetos de IC - MDITI
+Origem (prioridade): 6-Outra
+O que será feito: Pesquisa sobre Visão Computacional.
+Estimular a pesquisa entre o corpo docente e discente da Fatec, proporcionando o conhecimento
+Por que será feito: de sistemas e tecnologias que possam criar soluções com a visão computacional. Os projetos de
+visão computacional incluí o controle de entrada e saída da Fatec Votorantim.
+Responsável: <nome> Dilermando Piva Junior Qde CH/sem: 02 Tipo: HA - Hora Atividade
+Colaborador(a): <nome> Angelina Vitorino de Souza Melaré Qde CH/sem: 02 Tipo: HA - Hora Atividade
+Colaborador(a): <nome> nn Qde CH/sem: nn Tipo: Escolher um item.
+Período de execução: Data inicial: 03/02/2025 Data final: 19/12/2025
+Etapas do processo: 01- Criação de equipes integradas dos cursos – docentes e discentes 03/02 31/03
+02- Definição de pesquisas de cada grupo‐ com temas de projetos 03/02 31/03
+03- Desenvolvimento de Projeto 01/04 19/12
+04- Aquisição de materiais e insumos necessários ao desenvolvimento do 01/04 19/12
+projeto
+05- nn dd/mm dd/mm
+06- nn dd/mm dd/mm
+07- nn dd/mm dd/mm
+08- nn dd/mm dd/mm
+Custo R$ (se houver): A ser definido Fonte(s) dos recursos: DMPP, Centro Paula Souza (Licitação)
+Situação problema: cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão
+(a ser resolvida/mitigada) cat 0.1.11 - Segurança pessoal e patrimonial
+X
+X
+AÇÃO/PROJETO (Tema) 307 - cat 3.02 - Desenvolvimento de Projetos de IC - MDITI
+Origem (prioridade): 6-Outra
+O que será feito: Pesquisa de Iniciação Científica e Tecnológica em Águas Profundas
+Incentivar os alunos do curso Controle de Obras em Pesquisa Científica e Tecnológica, conhecer
+Por que será feito:
+profundamente as questões sobre águas como recurso de sobrevivência da sociedade.
+Responsável: <nome> Lígia Conceição Pereira Agasi Qde CH/sem: 02 Tipo: HA - Hora Atividade
+
+Colaborador(a): <nome> nn Qde CH/sem: nn Tipo: Escolher um item.
+Colaborador(a): <nome> nn Qde CH/sem: nn Tipo: Escolher um item.
+Período de execução: Data inicial: 03/02/2025 Data final: 19/12/2025
+01- Solicitação, pelo Comitê de Bacias do Rio Sorocaba e médio Tietê, do 03/02 07/03
+Etapas do processo:
+objeto de pesquisa
+02- Aproximar os alunos com demandas futuras de águas potáveis 03/02 07/03
+03- Início da Orientação dos alunos 17/02 19/12
+04- Pesquisa em livros, sites e registros acadêmicos 17/02 17/04
+05- Coleta de dados e formatação da pesquisa 17/02 31/03
+06- Participação no evento “Semana da Água” com a Equipe de Aguas de 01/04 30/04
+Votorantim
+07- Conclusão da primeira etapa da pesquisa 17/02 19/12
+08- Escrita de Artigos e Publicação do mesmo em Congressos e Revistas 17/02 19/12
+acadêmicas
+Custo R$ (se houver): Bolsa Monitoria Fonte(s) dos recursos: CPS
+Situação problema: cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão
+(a ser resolvida/mitigada) cat 0.1.08 - Participação da comunidade e sociedade
+<Copiar tabelas para mais ações>
+
+03 – Pesquisa/Extensão: Copiar projetos de 2024
+AÇÃO/PROJETO (Tema) 301 - cat 3.02 - Desenvolvimento de Projetos de IC - MDITI
+Origem (prioridade): 6-Outra
+O que será feito: Pesquisa de Sistemas Multiplataformas para Cidades Inteligentes
+Estimular a pesquisa junto ao corpo docente e discente da Fatec e proporcionando o
+Por que será feito: conhecimento de sistemas e tecnologias que possam criar soluções para as cidades/comunidade,
+formando um cidadão consciente de suas responsabilidades profissionais
+Responsável: <nome> Angelina V. S. Melaré Qde CH/sem: 02 Tipo: Escolher um item.
+Colaborador(a): <nome> nn Qde CH/sem: nn Tipo: Escolher um item.
+Colaborador(a): <nome> nn Qde CH/sem: nn Tipo: Escolher um item.
+Período de execução: Data inicial: 01/02/2024 Data final: 31/12/2024
+01- Comunicação/ Conscientização do corpo discente e docente dos 01/02 30/03
+Etapas do processo:
+projetos
+02- Criação de equipes integradas dos cursos – docentes e discentes 01/02 30/03
+03- Definição dos temas de pesquisa de cada grupo 01/04 09/04
+04- Cronograma de pesquisa e Início de projetos de pesquisa 01/04 31/12
+05- nn dd/mm dd/mm
+06- nn dd/mm dd/mm
+07- nn dd/mm dd/mm
+08- nn dd/mm dd/mm
+Custo R$ (se houver): Não há Fonte(s) dos recursos: nn
+Situação problema: cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão
+(a ser resolvida/mitigada) cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão
+AÇÃO/PROJETO (Tema) 302 - cat 3.02 - Desenvolvimento de Projetos de IC - MDITI
+Origem (prioridade): 6-Outra
+O que será feito: - Pesquisa de Sistemas Multiplataformas para atender as ODS e ESG.
+Estimular a pesquisa junto ao corpo docente e discente da Fatec e proporcionar aos alunos o
+Por que será feito: conhecimento das ODS/ESG e tecnologias associadas, assim como torná‐lo um cidadão
+consciente de suas responsabilidades profissionais.
+Responsável: <nome> Angelina V. S. Melaré Qde CH/sem: 02 Tipo: HA - Hora Atividade
+Colaborador(a): <nome> nn Qde CH/sem: nn Tipo: Escolher um item.
+Colaborador(a): <nome> nn Qde CH/sem: nn Tipo: Escolher um item.
+Período de execução: Data inicial: 01/02/2024 Data final: 31/12/2024
+01- Comunicação/ Conscientização do corpo discente e docente dos 01/02 30/03
+Etapas do processo:
+projetos
+02- Criação de equipes integradas dos cursos – docentes e discentes 01/02 30/03
+03- Definição de pesquisas de cada grupo‐ com temas de projetos 01/04 09/04
+04- Início de projetos de pesquisa 01/04 31/12
+05- nn dd/mm dd/mm
+06- nn dd/mm dd/mm
+07- nn dd/mm dd/mm
+08- nn dd/mm dd/mm
+Custo R$ (se houver): nn Fonte(s) dos recursos: nn
+Situação problema: cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão
+(a ser resolvida/mitigada) cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão
+
+AÇÃO/PROJETO (Tema) 303 - cat. 3.99 - Outra
+Origem (prioridade): 3-Gestão Tática - CPA (RADE, RCEE, RLAB, RWebSAI, RAAI)
+O que será feito: Monitoria de Disciplinas e Iniciação Científica
+Estimular a pesquisa junto ao corpo docente e discente da Fatec e proporcionando o
+Por que será feito:
+conhecimento e formando um cidadão consciente de suas responsabilidades profissionais
+Angelina V. S. Milaré - Dilermando Piva Júnior - Lígia C. Qde CH/sem: nn Tipo: Escolher um item.
+Responsável:
+P. Agasi
+Colaborador(a): <nome> nn Qde CH/sem: nn Tipo: Escolher um item.
+Colaborador(a): <nome> nn Qde CH/sem: nn Tipo: Escolher um item.
+Período de execução: Data inicial: 02/01/2024 Data final: 30/12/2024
+Etapas do processo: Comunicação/ Conscientização do corpo discente e docente dos 02/02 20/12
+projetos 02/02 20/12
+Criação de equipes integradas dos cursos – docentes e discentes 02/02 20/12
+Definição de pesquisas de cada grupo‐ com temas de projetos 02/02 20/12
+Desenvolvimento de projetos de pesquisa 02/02 20/12
+Comunicação/ Conscientização do corpo discente e docente dos 02/02 20/12
+projetos 02/02 20/12
+Criação de equipes integradas dos cursos – docentes e discentes 02/02 20/12
+Custo R$ (se houver): nn Fonte(s) dos recursos: nn
+Situação problema: cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão
+(a ser resolvida/mitigada) cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão
+AÇÃO/PROJETO (Tema) 304 - cat 3.01 - Cursos de Extensão
+Origem (prioridade): 3-Gestão Tática - CPA (RADE, RCEE, RLAB, RWebSAI, RAAI)
+O que será feito: Desenvolvimento de Projeto de extensão para a comunidade
+Por que será feito: Promover cursos para auxiliar que auxiliem o crescimento da comunidade local
+Angelina V. S. Milaré - Dilermando Piva Júnior - Lígia C. Qde CH/sem: nn Tipo: Escolher um item.
+Responsável:
+P. Agasi
+Colaborador(a): <nome> nn Qde CH/sem: nn Tipo: Escolher um item.
+Colaborador(a): <nome> nn Qde CH/sem: nn Tipo: Escolher um item.
+Período de execução: Data inicial: 02/01/2024 Data final: 30/12/2024
+Comunicação/ Conscientização do corpo discente e docente dos dd/mm dd/mm
+Etapas do processo:
+projetos
+Criação de equipes ‐ discentes dd/mm dd/mm
+Definição das aulas dd/mm dd/mm
+Início das aulas dd/mm dd/mm
+dd/mm dd/mm
+dd/mm dd/mm
+dd/mm dd/mm
+dd/mm dd/mm
+Custo R$ (se houver): nn Fonte(s) dos recursos: nn
+Situação problema: cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão
+(a ser resolvida/mitigada) cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão
+
+04 – Atividades Formativas em Projetos (nível tático)
+Projetos institucionais formativos não especificados em PEs: Rede de tecnologia, Novotec, PCI, Projetos
+estudantis (Baja, Aerodesign, entre outros)
+AÇÃO/PROJETO (Tema) 401 - cat 4.04 - Projetos estudantis diversos
+Origem (prioridade): 6-Outra
+O que será feito: Promover Projetos Internacionais, exames TOIC, intercâmbios
+Fomentar o desenvolvimento de fluência em idiomas visando aumentar a empregabilidade dos
+Por que será feito:
+alunos.
+Responsável: <nome> Coordenadores / Direção Qde CH/sem: 02 Tipo: Escolher um item.
+Colaborador(a): <nome> Élide Garcia Silva Vivan Qde CH/sem: 02 Tipo: Escolher um item.
+Colaborador(a): <nome> nn Qde CH/sem: nn Tipo: Escolher um item.
+Período de execução: Data inicial: 17/02/2025 Data final: 19/12/2025
+Etapas do processo: 01- Divulgar processos de Intercâmbios Internacionais aos alunos 17/02 19/12
+02- Promover testes de proficiência 17/02 19/12
+03- Propor aulas mais dinâmicas 17/02 19/12
+04- Auxiliar demais docentes nos Projetos Pedagógicos Internacionais 17/02 19/12
+05- Aquisição de materiais e insumos necessários ao desenvolvimento do 17/02 19/12
+projeto
+06- nn dd/mm dd/mm
+07- nn dd/mm dd/mm
+08- nn dd/mm dd/mm
+Custo R$ (se houver): A ser definido Fonte(s) dos recursos: Centro Paula Souza
+Situação problema: cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão
+(a ser resolvida/mitigada) cat 0.1.99 - Outra
+X
+X
+AÇÃO/PROJETO (Tema) 402 - cat 4.04 - Projetos estudantis diversos
+Origem (prioridade): 6-Outra
+O que será feito: Desenvolver um Projeto Colaborativo Internacional com África do Sul
+Por que será feito: Alunos de Controle de Obras da Fatec em diálogo com alunos de Engenharia da África do Sul
+Responsável: <nome> Lígia Conceição Pereira Agasi Qde CH/sem: 02 Tipo: HA - Hora Atividade
+<nome> Fábio Blas Mazuelo Qde CH/sem: 02 Tipo: HAE - Hora Atividade
+Colaborador(a):
+Específica
+<nome> Élide Garcia Silva Vivan Qde CH/sem: 02 Tipo: HAE - Hora Atividade
+Colaborador(a):
+Específica
+Período de execução: Data inicial: 17/02/2025 Data final: 19/12/2025
+Etapas do processo: 01- Reunião com ARInter e com Coordenação e Professores da África do Sul 17/02 19/12
+02- Escolha de um tema comum de ambos os países, voltado ao eixo 17/02 19/12
+infraestrutura
+03- Divisão dos alunos em grupos e início de projeto 17/02 19/12
+04- Partilhar plano de trabalho conjunto em PadLet 17/02 19/12
+05- Marcar reuniões no Teams entre os Grupos em horário único nos 17/02 19/12
+países
+06- Aulas em conjunto 17/02 19/12
+07- Replanejamento das atividades 17/02 19/12
+08- Reunião no Teams para apresentação das atividades e encerramento 17/02 19/12
+Custo R$ (se houver): Não haverá custo Fonte(s) dos recursos: Não haverá custo
+Situação problema: cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão
+(a ser resolvida/mitigada) cat 0.1.08 - Participação da comunidade e sociedade
+X
+X
+
+AÇÃO/PROJETO (Tema) 403 - Escolher um item.
+Origem (prioridade): Escolher um item.
+O que será feito: nn
+Por que será feito: nn
+Responsável: <nome> nn Qde CH/sem: nn Tipo: Escolher um item.
+Colaborador(a): <nome> nn Qde CH/sem: nn Tipo: Escolher um item.
+Colaborador(a): <nome> nn Qde CH/sem: nn Tipo: Escolher um item.
+Período de execução: Data inicial: dd/mm/aaaa Data final: dd/mm/aaaa
+Etapas do processo: 01- nn dd/mm dd/mm
+02- nn dd/mm dd/mm
+03- nn dd/mm dd/mm
+04- nn dd/mm dd/mm
+05- nn dd/mm dd/mm
+06- nn dd/mm dd/mm
+07- nn dd/mm dd/mm
+08- nn dd/mm dd/mm
+Custo R$ (se houver): nn Fonte(s) dos recursos: nn
+Situação problema: Escolher um item.
+(a ser resolvida/mitigada) Escolher um item.
+X
+X
+AÇÃO/PROJETO (Tema) 404 - Escolher um item.
+Origem (prioridade): Escolher um item.
+O que será feito: nn
+Por que será feito: nn
+Responsável: <nome> nn Qde CH/sem: nn Tipo: Escolher um item.
+Colaborador(a): <nome> nn Qde CH/sem: nn Tipo: Escolher um item.
+Colaborador(a): <nome> nn Qde CH/sem: nn Tipo: Escolher um item.
+Período de execução: Data inicial: dd/mm/aaaa Data final: dd/mm/aaaa
+Etapas do processo: 01- nn dd/mm dd/mm
+02- nn dd/mm dd/mm
+03- nn dd/mm dd/mm
+04- nn dd/mm dd/mm
+05- nn dd/mm dd/mm
+06- nn dd/mm dd/mm
+07- nn dd/mm dd/mm
+08- nn dd/mm dd/mm
+Custo R$ (se houver): nn Fonte(s) dos recursos: nn
+Situação problema: Escolher um item.
+(a ser resolvida/mitigada) Escolher um item.
+X
+X
+<Copiar tabelas para mais ações>
+
+04 – Atividades Formativas em Projetos: Copiar projetos de 2024
+AÇÃO/PROJETO (Tema) 401 - cat. 4.99 - Outra
+Origem (prioridade): 6-Outra
+Identificação da unidade da Fatec Votorantim e seus cursos junto à comunidade e
+O que será feito:
+empresas
+Para que todos os projetos, cursos e a unidade tenham sua importância e reconhecimento junto
+Por que será feito:
+a cidade e região.
+Responsável: Todos Qde CH/sem: nn Tipo: Escolher um item.
+Colaborador(a): <nome> nn Qde CH/sem: nn Tipo: Escolher um item.
+Colaborador(a): <nome> nn Qde CH/sem: nn Tipo: Escolher um item.
+Período de execução: Data inicial: 02/01/2024 Data final: 30/12/2024
+Divulgação da unidade e de seus cursos junto aos meios de 02/01 30/12
+Etapas do processo:
+comunicação – jornais/rádios
+Participação de eventos locais e regionais do Sebrae como BeTheBoss 02/01 30/12
+Participação de eventos locais e regionais do Inova CPS, como a 02/01 30/12
+Escola de Inovadores
+Participação de eventos locais e regionais do Parque Tecnológico 02/01 30/12
+Visitação a escolas/Etecs da região 02/01 30/12
+Parcerias com as empresas 02/01 30/12
+Criação de Núcleo de Comunicação para divulgação de projetos/ações 02/01 30/12
+da instituição
+dd/mm dd/mm
+Custo R$ (se houver): nn Fonte(s) dos recursos: nn
+Situação problema: cat 0.1.99 - Outra
+(a ser resolvida/mitigada) cat 0.1.99 - Outra
+AÇÃO/PROJETO (Tema) 40y - Escolher um item.
+Origem (prioridade): Escolher um item.
+(copiar restante da tabela, e colar com botão direito do mouse para manter a formatação)
+AÇÃO/PROJETO (Tema) 40w - Escolher um item.
+Origem (prioridade): Escolher um item.
+(copiar restante da tabela, e colar com botão direito do mouse para manter a formatação)
+AÇÃO/PROJETO (Tema) 40z - Escolher um item.
+Origem (prioridade): Escolher um item.
+(copiar restante da tabela, e colar com botão direito do mouse para manter a formatação)
+
+05 – Infraestrutura (instalações prediais)
+Projetos de manutenção e melhoramento predial voltados à segurança (física e sanitária) e preservação do
+patrimônio: Reparação predial (civil, elétrica, dados), novas instalações prediais.
+AÇÃO/PROJETO (Tema) 501 - cat 5.03 - Material Infraestrutura/equipamentos
+Origem (prioridade): 6-Outra
+Adquirir, instalar e configurar os equipamentos necessários para fornecer acesso à rede Wi-Fi da
+Fatec Votorantim, garantindo também acesso à internet para funcionários administrativos,
+O que será feito:
+direção, coordenação, docentes e discentes. Além disso, oferecer orientação e treinamento para
+os funcionários da unidade sobre o uso adequado desses recursos.
+Visando viabilizar as atividades do setor administrativo, direção e coordenação, bem como as
+Por que será feito:
+aulas práticas de laboratório de TI conforme estabelecido no PPC dos cursos.
+Responsável: <nome> Coordenadores CDN; CO; DSM Qde CH/sem: 05 Tipo: HA - Hora Atividade
+<nome> Adriana Cristina de Barros Qde CH/sem: 05 Tipo: H - Hora <não
+Colaborador(a):
+tipificada>
+<nome> Laísa Gamito Qde CH/sem: 05 Tipo: H - Hora <não
+Colaborador(a):
+tipificada>
+Período de execução: Data inicial: 02/01/2025 Data final: 19/12/2025
+Etapas do processo: 01- Especificação dos equipamentos e Mobiliários 02/01 19/12
+02- Solicitação de Compras (inserção no SIAF) 22/04 19/12
+03- Adequação do pedido de compras de acordo com a orientação do GPR 22/04 19/12
+04- Averiguação do processo de licitação/compra 22/04 19/12
+05- Aguardando entrega de material da CESU 22/04 19/12
+06- Implantação do projeto 22/04 19/12
+07- Testes e verificações 22/04 19/12
+08- Treinamento de Docentes e Auxiliares Docentes 22/04 19/12
+Custo R$ (se houver): A ser definido Fonte(s) dos recursos: DMPP, Centro Paula Souza (Licitação)
+Situação problema: cat 0.1.03 - Infraestrutura predial (espaços, sistemas)
+(a ser resolvida/mitigada) cat 0.1.05 - Materiais, equipamentos e mobiliários
+X
+X
+AÇÃO/PROJETO (Tema) 502 - cat 5.03 - Material Infraestrutura/equipamentos
+Origem (prioridade): 3-Gestão Tática - CPA (RADE, RCEE, RLAB, RWebSAI, RAAI)
+O que será feito: Laboratórios dos Cursos – instalação e organização
+Por que será feito: Para possibilitar aulas práticas definidas no PPC dos cursos
+Responsável: <nome> Angelina V. S. Melaré Qde CH/sem: 02 Tipo: Escolher um item.
+Colaborador(a): <nome> Dilermando Piva Jr Qde CH/sem: 02 Tipo: Escolher um item.
+Colaborador(a): <nome> Ligia C. P. Agasi Qde CH/sem: 02 Tipo: Escolher um item.
+Período de execução: Data inicial: 02/01/2025 Data final: 19/12/2025
+Etapas do processo: 01- Especificação dos equipamentos e Mobiliários 02/01 19/12
+02- Solicitação de Compras ( inserção no SIAF) 22/04 19/12
+03- Adequação do pedido de compras de acordo com a orientação do GPR 22/04 19/12
+04- Averiguação do processo de licitação/compra 22/04 19/12
+05- Início da instalação física dos equipamentos 22/04 19/12
+06- Adequação do prédio para as instalações físicas dos equipamentos 22/04 19/12
+07- Correções/adequações da solicitação de compra 22/04 19/12
+08- nn 22/04 19/12
+Custo R$ (se houver): A ser definido Fonte(s) dos recursos: DMPP, Centro Paula Souza (Licitação)
+Situação problema: cat 0.1.03 - Infraestrutura predial (espaços, sistemas)
+(a ser resolvida/mitigada) cat 0.1.05 - Materiais, equipamentos e mobiliários
+X
+X
+
+AÇÃO/PROJETO (Tema) 503 - cat 5.04 - Implantação de áreas comuns
+Origem (prioridade): 6-Outra
+O que será feito: Promover espaços de convívio e de estudo
+Oferecer espaços adequados para a socialização e estudo dos docentes, discentes e funcionários
+Por que será feito:
+técnico‐administrativos.
+<nome> Direção Qde CH/sem: 02 Tipo: H - Hora <não
+Responsável:
+tipificada>
+<nome> Eliana Teodoro dos Santos Qde CH/sem: 02 Tipo: H - Hora <não
+Colaborador(a):
+tipificada>
+Colaborador(a): <nome> nn Qde CH/sem: nn Tipo: Escolher um item.
+Período de execução: Data inicial: 02/01/2025 Data final: 19/12/2025
+Etapas do processo: 01- Definição do layout do espaço de convívio dos discentes 02/01 19/12
+02- Definição do layout do espaço de convívio dos docentes 02/01 19/12
+03- Definição do layout do espaço de convívio do administrativo 02/01 19/12
+04- Definição de novas compras de mobiliários para as áreas de convívio 02/01 19/12
+05- Averiguação do processo de licitação/compra 02/01 19/12
+06- Instalação dos mobiliários já adquiridos 02/01 19/12
+07- Instalação de novos mobiliários comprados 02/01 19/12
+08- Instalação do Wi‐Fi e acesso à Internet nos locais de convívio 02/01 19/12
+Custo R$ (se houver): A ser definido Fonte(s) dos recursos: DMPP, Centro Paula Souza (Licitação)
+Situação problema: cat 0.1.03 - Infraestrutura predial (espaços, sistemas)
+(a ser resolvida/mitigada) cat 0.1.05 - Materiais, equipamentos e mobiliários
+X
+X
+AÇÃO/PROJETO (Tema) 504 - Escolher um item.
+Origem (prioridade): Escolher um item.
+O que será feito: nn
+Por que será feito: nn
+Responsável: <nome> nn Qde CH/sem: nn Tipo: Escolher um item.
+Colaborador(a): <nome> nn Qde CH/sem: nn Tipo: Escolher um item.
+Colaborador(a): <nome> nn Qde CH/sem: nn Tipo: Escolher um item.
+Período de execução: Data inicial: dd/mm/aaaa Data final: dd/mm/aaaa
+Etapas do processo: 01- nn dd/mm dd/mm
+02- nn dd/mm dd/mm
+03- nn dd/mm dd/mm
+04- nn dd/mm dd/mm
+05- nn dd/mm dd/mm
+06- nn dd/mm dd/mm
+07- nn dd/mm dd/mm
+08- nn dd/mm dd/mm
+Custo R$ (se houver): nn Fonte(s) dos recursos: nn
+Situação problema: Escolher um item.
+(a ser resolvida/mitigada) Escolher um item.
+X
+X
+<Copiar tabelas para mais ações>
+
+05 – Infraestrutura: Copiar projetos de 2024
+AÇÃO/PROJETO (Tema) 501 - cat. 5.99 - Outra
+Origem (prioridade): 3-Gestão Tática - CPA (RADE, RCEE, RLAB, RWebSAI, RAAI)
+Compra/ instalação/ configuração/ de equipamentos necessários para dar acesso à rede Wi‐Fi da
+O que será feito: Fatec Votorantim e acesso à Internet para funcionários administrativos, direção, coordenação,
+docentes e discentes. Assim, como orientação/treinamento para os funcionários da unidade.
+Para permitir o trabalho do setor administrativo, direção e coordenação, assim, como aulas
+Por que será feito:
+práticas de laboratório de TI definidos no PPC dos cursos.
+Responsável: <nome> nn Qde CH/sem: nn Tipo: Escolher um item.
+Colaborador(a): <nome> nn Qde CH/sem: nn Tipo: Escolher um item.
+Colaborador(a): <nome> nn Qde CH/sem: nn Tipo: Escolher um item.
+Período de execução: Data inicial: 02/01/2024 Data final: 30/12/2024
+Etapas do processo: 01-Aguardando entrega de material da CESU 01/01 31/12
+02-Implantação do projeto 01/01 31/12
+03-Testes e verificações 01/01 31/12
+04- nn dd/mm dd/mm
+05- nn dd/mm dd/mm
+06- nn dd/mm dd/mm
+07- nn dd/mm dd/mm
+08- nn dd/mm dd/mm
+Custo R$ (se houver): nn Fonte(s) dos recursos: nn
+Situação problema: cat 0.1.03 - Infraestrutura predial (espaços, sistemas)
+(a ser resolvida/mitigada) cat 0.1.03 - Infraestrutura predial (espaços, sistemas)
+AÇÃO/PROJETO (Tema) 502 - cat 5.02 - Melhoria de Laboratório
+Origem (prioridade): 3-Gestão Tática - CPA (RADE, RCEE, RLAB, RWebSAI, RAAI)
+O que será feito: Laboratórios dos Cursos - organização
+Por que será feito: Para possibilitar aulas práticas definidas no PPC dos cursos
+<nome> Angelina V. S. Melar, Dilermando Piva Jr. e Ligia Qde CH/sem: nn Tipo: Escolher um item.
+Responsável:
+C. P. Agasi
+Colaborador(a): <nome> nn Qde CH/sem: nn Tipo: Escolher um item.
+Colaborador(a): <nome> nn Qde CH/sem: nn Tipo: Escolher um item.
+Período de execução: Data inicial: 02/01/2024 Data final: 30/12/2024
+Etapas do processo: Correções/adequações da solicitação de compra 01/01 31/12
+Averiguação do processo de licitação/compra 01/01 31/12
+Início da instalação física dos equipamentos 01/01 31/12
+Adequação do prédio para as instalações físicas dos equipamentos 01/01 31/12
+Correções/adequações da solicitação de compra 01/01 31/12
+06- nn dd/mm dd/mm
+07- nn dd/mm dd/mm
+08- nn dd/mm dd/mm
+Custo R$ (se houver): nn Fonte(s) dos recursos: nn
+Situação problema: cat 0.1.03 - Infraestrutura predial (espaços, sistemas)
+(a ser resolvida/mitigada) cat 0.1.03 - Infraestrutura predial (espaços, sistemas)
+AÇÃO/PROJETO (Tema) 503 - cat 5.04 - Implantação de áreas comuns
+Origem (prioridade): 6-Outra
+O que será feito: Promover espaços de convívio e de estudo
+Oferecer espaços adequados para a socialização e estudo dos docentes, discentes e funcionários
+Por que será feito: técnico‐
+administrativos
+Responsável: <nome> Diretor Mauro Tomazela Qde CH/sem: nn Tipo: Escolher um item.
+
+Colaborador(a): <nome> nn Qde CH/sem: nn Tipo: Escolher um item.
+Colaborador(a): <nome> nn Qde CH/sem: nn Tipo: Escolher um item.
+Período de execução: Data inicial: 02/01/2024 Data final: 30/12/2024
+Etapas do processo: Definição do layout do espaço de convívio dos discentes 01/01 31/12
+Definição do layout do espaço de convívio dos docentes 01/01 31/12
+Definição do layout do espaço de convívio do administrativo 01/01 31/12
+Definição de novas compras de mobiliários para as áreas de convívio 01/01 31/12
+Averiguação do processo de licitação/compra 01/01 31/12
+Instalação dos mobiliários já adquiridos 01/01 31/12
+Instalação de novos mobiliários comprados 01/01 31/12
+Instalação do Wi‐Fi e acesso à Internet nos locais de convívio 01/01 31/12
+Custo R$ (se houver): nn Fonte(s) dos recursos: nn
+Situação problema: cat 0.1.03 - Infraestrutura predial (espaços, sistemas)
+(a ser resolvida/mitigada) cat 0.1.03 - Infraestrutura predial (espaços, sistemas)
+AÇÃO/PROJETO (Tema) 50z - Escolher um item.
+Origem (prioridade): Escolher um item.
+(copiar restante da tabela, e colar com botão direito do mouse para manter a formatação)
+
+06 - Desenvolvimento de pessoas (docentes e servidores)
+Formação continuada de docentes e servidores, associadas às competências gerais e específicas de suas
+atividades: Metodologias de ensino, Tecnologias educacionais, Sistemas (processos, procedimentos, plataformas
+computacionais) acadêmicos e pedagógicos.
+AÇÃO/PROJETO (Tema) 601 - cat 6.01 - Curso/Oficina/Capacitação/ Treinamento/ Palestra/Reunião/Encontro
+Origem (prioridade): 3-Gestão Tática - CPA (RADE, RCEE, RLAB, RWebSAI, RAAI)
+Treinamento dos coordenadores, profissionais administrativos e docentes em ferramentas,
+O que será feito:
+softwares e ambientes necessários para a execução de suas atividades profissionais.
+Por que será feito: Para que os funcionários consigam exercer suas funções profissionais.
+Responsável: <nome> Direção / Coordenação Qde CH/sem: 05 Tipo: HA - Hora Atividade
+Colaborador(a): <nome> Juliana Tonon Oliveira Qde CH/sem: 05 Tipo: HA - Hora Atividade
+Colaborador(a): <nome> nn Qde CH/sem: nn Tipo: Escolher um item.
+Período de execução: Data inicial: 02/01/2025 Data final: 20/12/2025
+Etapas do processo: 01- Capacitação dos sistemas acadêmica e administrativa 02/01 20/12
+02- Capacitação pedagógica dos professores no SIGA, no TEAMS 02/01 20/12
+03- Capacitação dos funcionários e docentes sobre a Missão, Visão e 02/01 20/12
+Valores da unidade
+04- Dialogo e debates com os funcionários e docentes sobre o Regimento 02/01 20/12
+Unificado das Fatecs
+05- Apresentação dos resultados da CPA 2023 aos docentes e funcionários 02/01 20/12
+06- nn dd/mm dd/mm
+07- nn dd/mm dd/mm
+08- nn dd/mm dd/mm
+Custo R$ (se houver): Não haverá custos Fonte(s) dos recursos: Não haverá custos
+Situação problema: cat 0.1.10 - Gestão da unidade de ensino e dos cursos (indicadores)
+(a ser resolvida/mitigada) cat 0.1.06 - Quantidade de professores/funcionários
+X
+X
+AÇÃO/PROJETO (Tema) 602 - cat. 6.99 - Outra
+Origem (prioridade): 3-Gestão Tática - CPA (RADE, RCEE, RLAB, RWebSAI, RAAI)
+O que será feito: Ações propostas pela CPA
+Por que será feito: Recomendações importantes solicitadas pela Comissão de Avaliação Própria
+<nome> Diego Aparecido carvalho Albuquerque Qde CH/sem: 11 Tipo: HAE - Hora Atividade
+Responsável:
+Específica
+<nome> Membros da CPA Qde CH/sem: 05 Tipo: H - Hora <não
+Colaborador(a):
+tipificada>
+Colaborador(a): <nome> nn Qde CH/sem: nn Tipo: Escolher um item.
+Período de execução: Data inicial: 02/01/2025 Data final: 20/12/2025
+01- Manter as estratégias institucionais da unidade buscando a excelência, 02/01 20/12
+Etapas do processo: reforçando a visão, missão e valores, dando mais publicidade interna e
+externa
+02- Rever a forma e frequência de divulgação do uso dos indicadores do 02/01 20/12
+WEBSAI no Planejamento Institucional
+03- Capacitação dos funcionários e docentes sobre a Missão, Visão e 02/01 20/12
+Valores da unidade
+04- Rever a forma e frequência de divulgação do uso dos indicadores do 02/01 20/12
+WEBSAI no Planejamento Institucional
+05- Consolidar um programa de sensibilização e de divulgação dos 02/01 20/12
+resultados de nossas avaliações institucionais (CPA)
+06- nn dd/mm dd/mm
+07- nn dd/mm dd/mm
+08- nn dd/mm dd/mm
+Custo R$ (se houver): Não haverá custos Fonte(s) dos recursos: Não haverá custos
+Situação problema: cat 0.1.10 - Gestão da unidade de ensino e dos cursos (indicadores)
+(a ser resolvida/mitigada) cat 0.1.99 - Outra
+X
+
+X
+
+AÇÃO/PROJETO (Tema) 603 - Escolher um item.
+Origem (prioridade): Escolher um item.
+O que será feito: nn
+Por que será feito: nn
+Responsável: <nome> nn Qde CH/sem: nn Tipo: Escolher um item.
+Colaborador(a): <nome> nn Qde CH/sem: nn Tipo: Escolher um item.
+Colaborador(a): <nome> nn Qde CH/sem: nn Tipo: Escolher um item.
+Período de execução: Data inicial: dd/mm/aaaa Data final: dd/mm/aaaa
+Etapas do processo: 01- nn dd/mm dd/mm
+02- nn dd/mm dd/mm
+03- nn dd/mm dd/mm
+04- nn dd/mm dd/mm
+05- nn dd/mm dd/mm
+06- nn dd/mm dd/mm
+07- nn dd/mm dd/mm
+08- nn dd/mm dd/mm
+Custo R$ (se houver): nn Fonte(s) dos recursos: nn
+Situação problema: Escolher um item.
+(a ser resolvida/mitigada) Escolher um item.
+X
+X
+AÇÃO/PROJETO (Tema) 604 - Escolher um item.
+Origem (prioridade): Escolher um item.
+O que será feito: nn
+Por que será feito: nn
+Responsável: <nome> nn Qde CH/sem: nn Tipo: Escolher um item.
+Colaborador(a): <nome> nn Qde CH/sem: nn Tipo: Escolher um item.
+Colaborador(a): <nome> nn Qde CH/sem: nn Tipo: Escolher um item.
+Período de execução: Data inicial: dd/mm/aaaa Data final: dd/mm/aaaa
+Etapas do processo: 01- nn dd/mm dd/mm
+02- nn dd/mm dd/mm
+03- nn dd/mm dd/mm
+04- nn dd/mm dd/mm
+05- nn dd/mm dd/mm
+06- nn dd/mm dd/mm
+07- nn dd/mm dd/mm
+08- nn dd/mm dd/mm
+Custo R$ (se houver): nn Fonte(s) dos recursos: nn
+Situação problema: Escolher um item.
+(a ser resolvida/mitigada) Escolher um item.
+X
+X
+<Copiar tabelas para mais ações>
+
+06 – Desenvolvimento de Pessoas: Copiar projetos de 2024
+AÇÃO/PROJETO (Tema) 601 - cat 6.01 - Curso/Oficina/Capacitação/ Treinamento/ Palestra/Reunião/Encontro
+Origem (prioridade): 3-Gestão Tática - CPA (RADE, RCEE, RLAB, RWebSAI, RAAI)
+Capacitação dos coordenadores, administrativo e docentes em
+O que será feito:
+ferramentas/softwares/ambientes que permitam execução de suas atividades profissionais
+Por que será feito: Para que o funcionário consiga exercer suas funções profissionais.
+Direção: Mauro Tomazela, coordenação pedagógica da Qde CH/sem: nn Tipo: Escolher um item.
+Responsável:
+regional 11: Juliana Tonon Oliveira
+Colaborador(a): <nome> nn Qde CH/sem: nn Tipo: Escolher um item.
+Colaborador(a): <nome> nn Qde CH/sem: nn Tipo: Escolher um item.
+Período de execução: Data inicial: 02/01/2024 Data final: 30/12/2024
+Etapas do processo: 01- Capacitação dos sistemas acadêmica e administrativa 01/01 30/12
+02- Capacitação pedagógica dos professores no SIGA, no TEAMS 01/01 30/12
+03- Capacitação dos funcionários e docentes sobre a Missão, Visão e 01/01 30/12
+Valores da unidade.
+04- Dialogo e debates com os funcionários e docentes sobre o Regimento 01/01 30/12
+Unificado das Fatecs
+05- Apresentação dos resultados da CPA 2023 aos docentes e funcionários 01/01 30/12
+06- nn dd/mm dd/mm
+07- nn dd/mm dd/mm
+08- nn dd/mm dd/mm
+Custo R$ (se houver): nn Fonte(s) dos recursos: nn
+Situação problema: cat 0.1.10 - Gestão da unidade de ensino e dos cursos (indicadores)
+(a ser resolvida/mitigada) cat 0.1.10 - Gestão da unidade de ensino e dos cursos (indicadores)
+AÇÃO/PROJETO (Tema) 602 - cat. 6.99 - Outra
+Origem (prioridade): 3-Gestão Tática - CPA (RADE, RCEE, RLAB, RWebSAI, RAAI)
+O que será feito: Ações proposta pela C.P. A
+Por que será feito: Recomendações importantes solicitadas pela Comissão de Avaliação Própria
+<nome> C.P. A Qde CH/sem: 02 Tipo: HA - Hora
+Responsável:
+Atividade
+<nome> Mariana e Laisa Qde CH/sem: 02 Tipo: HA - Hora
+Colaborador(a):
+Atividade
+Colaborador(a): <nome> nn Qde CH/sem: nn Tipo: Escolher um item.
+Período de execução: Data inicial: 02/02/2024 Data final: 31/12/2024
+01- Manter as estratégias institucionais da unidade buscando a excelência, 02/02 31/12
+reforçando a visão, missão e valores, dando mais publicidade interna e
+Etapas do processo:
+externa
+02- Disponibilizar o Regimento das Fatec na integra em nosso site 02/02 31/12
+03- Rever a forma e frequência de divulgação do uso dos indicadores do 02/02 31/12
+WEBSAI no Planejamento Institucional
+04- Consolidar um programa de sensibilização e de divulgação dos 02/02 31/12
+resultados de nossas avaliações institucionais (CPA)
+05- nn 02/02 31/12
+06- nn 02/02 31/12
+07- nn 02/02 31/12
+08- nn 02/02 31/12
+Custo R$ (se houver): nn Fonte(s) dos recursos: nn
+Situação problema: Escolher um item.
+(a ser resolvida/mitigada) Escolher um item.
+
+AÇÃO/PROJETO (Tema) 60w - Escolher um item.
+Origem (prioridade): Escolher um item.
+(copiar restante da tabela, e colar com botão direito do mouse para manter a formatação)
+AÇÃO/PROJETO (Tema) 60z - Escolher um item.
+Origem (prioridade): Escolher um item.
+(copiar restante da tabela, e colar com botão direito do mouse para manter a formatação)
+
+07 – Convênios e Parcerias Institucionais
+Formalização do relacionamento da Unidade com o Ecossistema de Tecnologia: Convênio de uso de prédio,
+estágios, projetos com empresas. Aqui cabe apenas novos convênios e parcerias, e cada proposta deve estar
+relacionada a uma Ação/Projeto de melhoria em algum dos itens anteriores do PGA (1, 2, 3, 4, 5 ou 6).
+AÇÃO/PROJETO (Tema) 701 - cat 7.03 - Projetos com empresas e/ou demais parceiros
+Origem (prioridade): 6-Outra
+Referente ao(s) projeto(s): nn
+Contato com pelo menos duas organizações para criação de parceria e divulgação de cursos para a
+O que será feito:
+comunidade.
+Para inserir os alunos do curso no mercado de trabalho e para divulgar o curso junto à
+Por que será feito:
+comunidade
+Responsável: <nome> Angelina V. S. Melaré Qde CH/sem: 02 Tipo: HA - Hora Atividade
+Colaborador(a): <nome> Dilermando Piva Jr / Ligia C. P. Agasi Qde CH/sem: 02 Tipo: HA - Hora Atividade
+Colaborador(a): <nome> Laísa Gamito Qde CH/sem: 02 Tipo: H - Hora <não
+tipificada>
+Período de execução: Data inicial: 02/01/2025 Data final: 20/12/2025
+Etapas do processo: 01- Verificar professor responsável para contatos 02/01 20/12
+02- Entrar em contato para descobrir responsáveis pelo setor de 02/01 20/12
+recrutamento e seleção
+03- Marcar visita / reuniões remotas com as empresas 02/01 20/12
+04- Firmar parcerias 02/01 20/12
+05- Verificar professor responsável para contatos 02/01 20/12
+06- Entrar em contato para descobrir responsáveis pelo setor de 02/01 20/12
+recrutamento e seleção
+07- Marcar visita / reuniões remotas com as empresas 02/01 20/12
+08- Fortalecimento da parceria com a Prefeitura Municipal de Votorantim 02/01 20/12
+Custo R$ (se houver): Não haverá custos Fonte(s) dos recursos: Não haverá custos
+Situação problema: cat 0.1.08 - Participação da comunidade e sociedade
+(a ser resolvida/mitigada) cat 0.1.99 - Outra
+X
+X
+AÇÃO/PROJETO (Tema) 702 - Escolher um item.
+Origem (prioridade): Escolher um item.
+Referente ao(s) projeto(s): nn
+O que será feito: nn
+Por que será feito: nn
+Responsável: <nome> nn Qde CH/sem: nn Tipo: Escolher um item.
+Colaborador(a): <nome> nn Qde CH/sem: nn Tipo: Escolher um item.
+Colaborador(a): <nome> nn Qde CH/sem: nn Tipo: Escolher um item.
+Período de execução: Data inicial: dd/mm/aaaa Data final: dd/mm/aaaa
+Etapas do processo: 01- nn dd/mm dd/mm
+02- nn dd/mm dd/mm
+03- nn dd/mm dd/mm
+04- nn dd/mm dd/mm
+05- nn dd/mm dd/mm
+06- nn dd/mm dd/mm
+07- nn dd/mm dd/mm
+08- nn dd/mm dd/mm
+Custo R$ (se houver): nn Fonte(s) dos recursos: nn
+Situação problema: Escolher um item.
+(a ser resolvida/mitigada) Escolher um item.
+X
+X
+<Copiar tabelas para mais ações>
+
+07 – Convênios e Parcerias: Copiar projetos de 2024
+AÇÃO/PROJETO (Tema) 701 - cat. 7.99 - Outra
+Origem (prioridade): 6-Outra
+Referente ao(s) projeto(s): nn
+Contato com pelo menos duas organizações para criação de parceria e divulgação de cursos para
+O que será feito:
+a comunidade.
+Para inserir os alunos do curso no mercado de
+Por que será feito:
+trabalho e para divulgar o curso junto à comunidade
+Angelina V. S. Melar, Dilermando Piva Jr. e Ligia C. P. Agasi de curso Qde CH/sem: 04 Tipo: HA - Hora
+Responsável:
+Atividade
+<nome> Maria José Cardozo Qde CH/sem: 04 Tipo: HAE - Hora
+Colaborador(a): Atividade
+Específica
+Colaborador(a): <nome> nn Qde CH/sem: nn Tipo: Escolher um item.
+Período de execução: Data inicial: 02/01/2024 Data final: 30/12/2024
+Etapas do processo: Verificar professor responsável para contatos 02/01 31/12
+Entrar em contato para descobrir responsáveis pelo setor de 02/01 31/12
+recrutamento e seleção
+Marcar visita / reuniões remotas com as empresas 02/01 31/12
+Firmar parcerias 02/01 31/12
+Verificar professor responsável para contatos 02/01 31/12
+Entrar em contato para descobrir responsáveis pelo setor de 02/01 31/12
+recrutamento e seleção
+Marcar visita / reuniões remotas com as empresas 02/01 31/12
+Fortalecimento da parceria com a Prefeitura Municipal de Votorantim 02/01 31/12
+Custo R$ (se houver): nn Fonte(s) dos recursos: nn
+Situação problema: cat 0.1.08 - Participação da comunidade e sociedade
+(a ser resolvida/mitigada) cat 0.1.08 - Participação da comunidade e sociedade
+AÇÃO/PROJETO (Tema) 70y - Escolher um item.
+Origem (prioridade): Escolher um item.
+Referente ao(s) projeto(s): nn
+(copiar restante da tabela, e colar com botão direito do mouse para manter a formatação)
+
+Anexo 1 – Lista de aquisições necessárias aos projetos
+(equipamentos, softwares, mobiliários)
+Item Projeto Denominação ou especificação do equipamento Quant. Preço total
+(XYY) estimado
+(R$)
+01 202- 501- Acess Point - Interface de Rede (1) RJ-45 Gigabit Ethernet Interfaces 8 R$ 13.016,96
+502 de Gerência Ethernet Bluetooth Método de Alimentação PoE Fonte de
+Alimentação Switch PoE UniFi
+Injetor PoE 48V, 0.5A (Não Incluído) Voltagem Suportada 44 a 57 V
+DC Consumo Máximo de Energia 13W Potência Máxima TX 2.4 GHz 5
+GHz 22 dBm 26 dBm MIMO 2.4 GHz 5 GHz 2 x 2 (UL MU-MIMO) 4 x 4
+(DL/UL MU-MIMO) Taxa de Transmissão 2.4 GHz
+5 GHz 573.5 Mbps 4.8 Gbps Ganho de Antena 2.4 GHz 5 GHz 4 dBi 6
+dBi LED Branco/Azul
+Botão Reset de Fábrica Montagem Parede/Teto (Incluído)
+Temperatura de Operação -30 a 60° C Umidade de Operação 5 a
+95% Sem Condensação Certificações Anatel, CE, FCC, IC
+Software Padrões Wi-Fi 802.11a/b/g WiFi 4/WiFi 5/WiFi 6 Segurança
+Sem Fio WPA-PSK, WPA-Enterprise (WPA/WPA2/WPA3) BSSID
+8 por Rádio VLAN 802.1Q QoS Avançado Restrição de Banda por
+Usuário Isolamento do Tráfego de Visitantes Suportado
+Clientes Simultâneos 300+ DFS Sem Espera Sim* *Suportado nas
+próximas versões de firmware. Taxas de Dados Suportadas (Mbps)
+802.11a 6, 9, 12, 18, 24, 36, 48, 54 Mbps
+802.11b 1, 2, 5.5, 11 Mbps 802.11g 6, 9, 12, 18, 24, 36, 48, 54 Mbps
+802.11n (WiFi 4) 6.5 Mbps a 600 Mbps (MCS0 - MCS31, HT 20/40)
+802.11ac (WiFi 5) 6.5 Mbps a 3.4 Gbps (MCS0 - MCS9 NSS1/2/3/4, VHT
+20/40/80/160) 802.11ax (WiFi 6) 7.3 Mbps a 4.8 Gbps (MCS0 - MCS11
+NSS1/2/3/4, HE 20/40/80/160)
+02 202- 501- Projetor Multimídia Portátil, 8.000 Lumens, LED, com auto-correção 9 R$ 24.741,00
+502 trapezóide , voltagem bivolt, contraste 10.000:1, abertura até 200
+polegadas, diagonal da tela 16:9, resulução da tela 1280x720.
+03 202- 501- Televisão a cores, FULL HD 4K; conversor: digital integrado; tela: LED, 8 R$ 28.792,00
+502 plana; de 65 polegadas; bivolt.
+04 202- 501- Tela de projeção 2,00x2,00 - retrátil 9 R$ 8.691,39
+502
+05 202- 501- Caixa de som amplificada, Bivolt, 250W RMS, Entradas: Microfone, 5 R$ 1.675,00
+502 Auxiliar e Pendrive, conexão Bluetooth, com Certificação ANATEL.
+06 202- 501- Notebook Plus Educacional 288 R$
+502 1.486.386,00
+07 202- 501- Notebook Educacional para processamento de Inteligência Artificial. O 72 R$ 371.592,00
+502 notebook deve possuir um processador com arquitetura x86 de 64 bits.
+Núcleos e Threads: O processador deve ter no mínimo 8 núcleos físicos
+com suporte a Hyper-Threading e 16 threads para atender aos
+requisitos mínimos de desempenho. Tecnologia de Fabricação: O
+processador deve ser fabricado com tecnologia de 10 nanômetros ou
+menor para garantir eficiência energética e desempenho. Data de
+Lançamento: O processador deve estar em linha de produção pelo
+fabricante e ter sido lançado a partir de janeiro de 2024, não sendo
+aceitos processadores descontinuados. Recursos de Otimização de
+Consumo: O processador deve possuir recursos para otimizar o
+consumo de bateria, como controle de frequência dinâmico e
+gerenciamento de energia. Mecanismos de Redução de Energia: Deve
+implementar mecanismos automáticos para reduzir o consumo de
+energia e evitar superaquecimento. MEMÓRIA RAM: Capacidade: Cada
+notebook deve ser fornecido com no mínimo 32 GB de memória RAM.
+Tipo de Memória: A memória deve ser do padrão DDR4, com
+
+frequência mínima de 3200 MHz. Conector: O padrão do conector deve
+ser SODIMM ou superior para garantir compatibilidade. CHIPSET: O
+chipset deverá suportar e operar no mínimo memória RAM do tipo
+DDR4 com freqüência igual ou superior a 3200MHz; Deverá possui no
+mínimo 01 canal de comunicação padrão SATA III ou M.2; Deverá
+implementar mecanismos de redução de consumo de energia. BIOS E
+SEGURANÇA: O BIOS deverá ser do tipo Flash Memory, utilizando
+memória não volátil e eletricamente reprogramável; A inicialização do
+notebook deverá ser realizada na seqüência definida pelo usuário, via
+dispositivos pela porta USB e/ou CDROM e/ou disco rígido, bem como
+pela placa de rede através do recurso WOL (Wake on LAN) compatível
+com o padrão PXE (Pré-boot Execution Enviroment); Deverá possuir
+recursos de controle de permissão através de senhas, uma para
+inicializar o notebook e outra para acesso e alterações das
+configurações do BIOS; Deverá possuir integrado ao hardware do
+notebook, subsistema de segurança TPM (Trusted Plataform Module);
+Deverá possuir recurso de identificação biométrica “fingerprint”
+integrado ao hardware para autenticação do usuário; A BIOS deve estar
+em conformidade com a normativa NIST 800-147 ou ISO/IEC 19678; A
+BIOS deverá ser desenvolvida pelo fabricante do equipamento ou esse
+deverá possuir direitos (copyright) sobre a BIOS. Serão aceitas soluções
+em regime de OEM. As atualizações, quando necessárias, deverão ser
+disponibilizadas no sítio do fabricante do equipamento; O equipamento
+deverá dispor de gerenciamento remoto através das tecnologias,
+dispondo de componentes (processador, placa-mãe, BIOS, placa de
+rede, etc.) que implementem essa funcionalidade, sendo AMD PRO ou
+Intel Vpro; k) Deverá estar aderente às especificações do DASH 1.2 ou
+WS-Man, definidas pelo DMTF (Desktop Management Task Force);
+Capacidade de acesso à BIOS através de outro computador conectado
+na rede no momento da inicialização do POST; Capacidade de
+redirecionamento do boot do computador pela rede através do uso de
+CD-ROM, ou arquivo de imagem no formato ISO (CD e DVD ROM)
+localizados em outro computador, com acesso a interface
+remotamente; Capacidade de permitir o acesso remoto ao
+computador, formatação de disco, mesmo com este desligado ou com
+o Sistema Operacional travado ou inacessível; A placa-mãe deverá
+possuir memória não volátil, para gravação de informações de
+inventário de hardware (placa mãe, processador, memória e disco),
+que sejam acessíveis remotamente pela rede independente do estado
+do sistema operacional. PORTAS DE COMUNICAÇÃO: 01 porta USB 2.0
+ou superior, 02 portas USB versão 3.1 ou superior, 02 porta USB tipo-C,
+sendo uma Thunderbird, e outra para carga rápida; 01 porta para
+monitor de vídeo padrão DB15 VGA, caso o equipamento não possua
+porta de vídeo DB15 VGA nativa, deverá fornecer 01 adaptador HDMI
+ou mHDMI para VGA ou Display Port ou MiniDP para VGA ou USB Tipo-
+C para VGA; 01 porta de vídeo digital HDMI, caso a porta de vídeo
+digital nativa do equipamento seja Display Port ou Mini DP deverá
+fornecer 01 adaptador para HDMI; 01 porta da interface de rede
+padrão RJ45; 01 kit de áudio composto por 01 (uma) saída de áudio e
+01 (uma) entrada para microfone ou combo de áudio (microfone/fone
+de ouvido em uma única saída); 01 conector DC-in para adaptador AC
+ou USB Tipo-C; 01 porta para Dock Station (Slot de expansão), própria
+para este fim sendo aceito solução por intermédio de porta USB tipo-C.
+INTERFACE DE REDE: No mínimo 01 (uma) interface de rede por
+notebook; Padrão de barramento PCI ou superior, on-board integrado
+ao gabinete; Interface de rede padrão Gigabit Ethernet; Deverá operar
+automaticamente nas velocidades de comunicação de 10Mbps ou
+100Mbps, ou 1000Mbps bem como no modo full-duplex; INTERFACE
+WIRELESS LAN: No mínimo 01 (uma) interface Wireless LAN por
+notebook; A interface Wireless LAN deverá estar integrada ao gabinete
+do notebook sem a utilização de slots PC Card ou Express Card;
+Compatibilidade funcional e operacional com os padrões IEEE 802.11
+
+AC (Dual Band). INTERFACE BLUETOOTH: Deverá possuir interface para
+comunicação wireless padrão Bluetooth 5.0 integrado; A interface
+deverá estar integrada ao gabinete do Notebook. CONTROLADORA DE
+VÍDEO (GPU): O notebook deve possuir 01 (uma) controladora de vídeo
+com suporte à plataforma CUDA com no mínimo 3072 núcleos de
+processamento, compatível com as aplicações de inteligência artificial e
+machine learning. Memória de Vídeo: A controladora deve ter no
+mínimo 8 GB de memória dedicada para suportar cargas de trabalho
+intensas de IA. Barramento: O padrão do barramento da controladora
+deve ser PCI Express ou superior para garantir alta largura de banda.
+Suporte de Resoluções: A controladora deve suportar uma resolução
+gráfica mínima para a tela de 1366 x 768 pixels, com 32 bits de cor ou
+superior. Para monitores externos, a controladora deve suportar
+resolução gráfica mínima de 1280 x 1024 pixels com 64 bits de cor ou
+superior. Tecnologias de Renderização: A controladora de vídeo deve
+ser compatível com as principais APIs de gráficos (como OpenGL e
+DirectX), além de ser otimizada para tarefas de aprendizado de
+máquina e IA. CONTROLADORA DE DISCO RÍGIDO: 01 (uma)
+controladora de disco rígido com no mínimo 01 (um) canal, integrada à
+placa mãe; Controladora padrão SATA III ou M.2. UNIDADE DE
+ARMAZENAMENTO INTERNO: Deverá ser fornecido com no mínimo 01
+(uma) unidade de armazenamento; Tipo interno ao gabinete; Padrão
+SSD Sata ou NVMe; Capacidade mínima de armazenamento de 512 GB,
+com velocidade de leitura de no mínimo 2.000 MB/s e escrita de no
+mínimo de 1.000 MB/s. KIT DE ÁUDIO: Deverá ser fornecido 01 (um)
+Kit de Áudio composto por no mínimo 01 Controladora de som, 02
+Alto-falantes e 01 Microfone por notebook; A controladora de som
+deverá ser onboard, contendo 01 (uma) saída amplificada para canais
+estéreos e 01 (uma) entrada para microfone ou combo de áudio
+(microfone/fone de ouvido em uma única saída); Os Alto falantes
+deverão estar integrados ao gabinete do notebook com amplificador de
+sinal; O Microfone deverá estar integrado ao gabinete do notebook.
+WEBCAM: Deverá ser fornecido 01 (uma) Webcam integrada ao
+gabinete do notebook; Resolução mínima 2.07 Megapixel (1080p).
+TECLADO: Deverá ser fornecido 01 (um) teclado integrado ao gabinete
+do notebook; Compatibilidade com o padrão ABNT Variant 2; Teclado
+retro-iluminado, alfanumérico com 12 teclas de função e teclas.
+08 202- 501- Extensão elétrica 20 metros 10a cabo Pp2x1,0 reforçada 16 R$ 1.583,84
+502
+09 202- 501- Filtro de linha 10 tomadas 1,2 metros 10a 16 R$ 1.183,84
+502
+10 202- 501- Carrinho estante para armazenamento e carregamento de notebooks - 8 R$ 48.000,00
+502 rack
+11 202- 501- Mesa para computador sem teclado retrátil, medindo (900x700x740) 280 R$ 294.560,00
+502 mm, em madeira
+12 202- 501- Cadeira para laboratório de informática 280 R$ 256.200,00
+502
+13 202- 501- Quadro não magnético branco, 4,00x1,20 8 R$ 11.384,00
+502
+14 202- 501- Quadro de aviso, madeira, revestido em fórmica 0,80x1,00cm 8 R$ 1.592,00
+502
+15 202- 501- Armário de aço c/ 02 portas de abrir 8 R$ 20.500,00
+502
+16 202- 501- Conjunto de mesa e cadeira para professor 8 R$ 7.560,00
+502
+17 202- 501- Cabo Y, 1 HDMI macho, 2 HDMI fêmea 8 R$ 190,00
+502
+18 202- 501- Mini rack de parede 8 R$ 3.248,96
+502
+19 202- 501- Conjunto didático; para uso em laboratório de eletrônica; tipo kit 36 R$ 10.796,40
+502 Arduino; contendo 01 Arduino Uno R3 (microcontrolador Atmega328,
+tensão de operação 5v); tensão de entrada: 7-12v, portas digitais: 14 (6
+
+podem ser usadas como pwm), portas analógicas: 6; corrente pinos I/o:
+40ma, corrente pinos 3,3v: 50ma, memória flash: 32 kb (0,5kb usado no
+bootloader); sram: 2kb, eeprom: 1kb, velocidade do clock: 16mhz), 01
+cabo usb 2.0 a-b compatível c/ saída Arduino; 01 placa protoboard c/
+830 furos; 10 leds; 10 resistores 220 ohms; 10 resistor 1k ohms; 10
+resistor 10k ohms; 01 potenciômetro de 10 k ohms; 01 buzzer ativo; 01
+buzzer passivo; 03 botões; 01 display digital 7 segmentos; 01 display
+digital 4x7 segmentos; 01 display 10 segmentos bargraph vermelho; 01
+sensor de luminosidade (photoresistor);
+20 202- 501- Placa microprocessada; modulo esp32 wifi e bluetooth esp-wroom-32; 36 R$ 5.036,40
+502 através de pinos; taxa de transferência: 110-460800 bps; dimensões:
+25,5 x 18,0 x 3,1 mm; IoT; 3.3v.
+21 202- 501- Componentes para circuito integrado; módulo bluetooth Arduino ble- 36 R$ 1.616,40
+502 low energy; tipo hc-10; alimentação 3.6 a 6v, cobertura de sinal até 10
+m ou superior, frequência 2.4 ghz.
+22 202- 501- Componentes para circuito integrado, sensor umidade temperatura, 36 R$ 536,40
+502 modelo DHT 11; faixa de medição de umidade: 20 a 90% ur; faixa de
+medição de temperatura: 0º a 50ºc; alimentação: 3-5vdc (5,5vdc
+máximo); corrente: 200ua a 500ma, em stand by de 100ua a 150 ua;
+precisão de umidade de medição: ± 5,0% ur; precisão de medição de
+temperatura: ± 2.0 ºC; tempo de resposta: 2s; dimensões: 23 x 12 x
+5mm (incluindo terminais).
+23 202- 501- Sensor de luminosidade tsl2561; sensor eletrônico; sensor de 36 R$ 608,40
+502 luminosidade; 3 - 5 v; tsl2561; I2c; 19 x 16 mm; faixa de medição 0,1 -
+40.000 Lux; compatível com placas Arduino.
+24 202- 501- Sensor eletrônico de temperatura sensor eletrônico; temperatura 36 R$ 716,40
+502 lm35; 4 a 30v; linear 10mv/°C.
+25 202- 501- Componentes para circuito integrado; sensor de distância ultrassônico 36 R$ 464,40
+502 hc-sr04; tensão de operação: 5 vdc, saída: analógica (0-4.5v);
+compatível com placas Arduino; medindo 45x20x15mm.
+26 202- 501- Medidor de umidade do solo, módulo sensor detector de umidade; 36 R$ 392,40
+502 ajustável via potenciômetro; led indicador para tensão (vermelho) e led
+indicador para saída digital (verde); comprimento do cabo 210 mm;
+comparador lm393; saídas digital e analógica; alimentação 3,3-5v.
+27 202- 501- Sensor eletrônico de chuva; lm393 (módulo); 3,3 a 5v; saída digital e 36 R$ 356,40
+502 analógica; lm393; compatível com Arduino e outros
+microcontroladores; capacidade de condução do sensor: 100ma.
+28 202- 501- Display, Lcd, 20 Caracteres, 2 Linhas Item BEC. 36 R$ 4.062,96
+502
+29 202- 501- Componentes para circuito integrado; módulo adaptador I2c para 36 R$ 356,40
+502 display lcd; compatível com display lcd de 16x2 e 20x4, tensão de 5v,
+controle utilizando 2 pinos; medindo (55x23x14) mm.
+30 202- 501- Relê; tipo eletromecânico; modulo relê sla-05vdc-sl-c; alimentação da 36 R$ 1.184,40
+502 bobina de 5 vcc; contatos 1 contato reversível; capacidade de
+comutação 30a/250vca; tempo de operação instantâneo.
+31 202- 501- Teclado matricial de membrana com 16 teclas e conector de 8 vias; 36 R$ 383,40
+502 conector: 8 pinos (2,54mm); montagem: autoadesivo; limites de
+operação: 35Vvdc, 100ma; isolação: 100mq, 100v; tempo de contato:
+5ms; durabilidade: 1 milhão de ciclos por tecla; temperatura de
+funcionamento: 0-70°C; tamanho: 69 x 77 x 0,8mm; comprimento
+cabo: 86mm; peso: 10g.
+32 202- 501- Kit leitor rfid + tags (chaveiro e cartão) componentes para circuito 36 R$ 680,40
+502 integrado; compatível com Arduino; leitor rfid, para controle de acesso;
+tensão de 3,3 v; frequência de operação 13.56 mhz; cartão medindo 86
+x 54 x 1 mm (cxlxe) e módulo 60 x 40 mm (cxl); com conjunto de pino
+de 90 e 180c.
+33 202- 501- Kit robótica, sensor de gás kit robótica; sensor de gás mq-135, detecção 36 R$ 1.328,40
+502 de gases tóxicos, fumaça e álcool, placa montada; 5vdc, cilm393, saída
+analógico digital.
+34 202- 501- Componentes para circuito integrado; micro servo motor; componente 36 R$ 1.256,40
+502 para Arduino; tipo Tower Pro Sg 90; voltagem: 4.8 a 6v; torque
+
+1,8kg/cm (4.8v); velocidade: 0,1 S/60graus; alcance 180 graus, peso 9g;
+dimensões 32 x 30 x 12 mm.
+35 202- 501- Componentes para circuito integrado; motor de passo e driver; 36 R$ 716,40
+502 componentes para circuito integrado; motor de passo 28byj-48 + driver
+uln2003; angulo do passo: 5,625, redução: 1/64; unipolar, tensão de
+alimentação 5vcc;motor: 28 mm diâmetro, aproximadamente.
+36 202- 501- Componentes para circuito integrado, motor dc-3, 6v; componentes 36 R$ 176,40
+502 para circuito integrado; motor dc3-6v com caixa de redução e eixo
+duplo, tensão de operação: 3-6v; redução: 1:48; peso: 30g; corrente
+sem carga: = 200ma (6v) e =150ma (3v); velocidade sem carga: 200rpm
+(6v) e 90rpm (3v).
+37 202- 501- kit placa microprocessada raspberry pi 4 model b; cpu broadcom 21 R$ 11.739,00
+502 bcm2711, quad core cortex-a72, 64-bit; 4gb lpddr4-2400 sdram; wifi
+2.4 ghz Ieee 802.11ac, bluetooth 5.0, ble; ethernet gigabit; 2 usb 3.0; 2
+usb 2.0; standard 40 pin; 2 × micro-hdmi ports; display port 2-lane mipi
+dsi câmera port 2-lane; 4-pole stereo audio and composite video port;
+storage microsd card; misc h.265 (4kp60 decode); h264 (1080p60
+decode, 1080p30 encode); opengl es 3.0 graphics, 3 dissipadores
+alumínio com fita dupla face, 01 fonte 5v 3a tipo com chave
+liga/desliga, 1 case preto com saída para câmera; 01 cooler, 01 cabo
+microhdmi x hdmi 1 metro 4k.
+38 202- 501- placa microprocessada módulo câmera raspberry, cabo flat; placa 21 R$ 1.047,90
+502 microprocessada; módulo câmera raspberry compatível com pi4/pi3/
+b+/a+ b/a; cabo flat, conector csi do raspberry pi; cabo flat; fotos de
+8mp e vídeos 1080p hd com 30 fps; 20mm x 25mm x 9mm; tensão de
+alimentação 3.3v / 5v.
+39 202- 501- flat cable gpio para raspberry pi3, pi3b, pi4, com placa; kit cabo flat 21 R$ 1.049,79
+502 para pinos gpio + adaptador para protoboard; compatível com
+raspberry pi4, pi3, pi2 e b+; cabo flat com 40 entradas fêmea x fêmea
+em cada extremidades; adaptador para protoboard com entrada gpio.
+40 202- 501- Fonte de alimentação digital 15v 2a bivolt 21 R$ 10.196,00
+502 Especificação Técnica: Fonte de Alimentacao; Estrutura Da Carcaca e
+Tampa Traseira Em Metal, Painel Frontal Em Plastico; de Bancada;
+Corrente de Saida Ajustavel Ate 2a; Tensao de Saida Dc, Ajustavel Entre
+0 e 15 Volts; Ajustavel Por Knobs; Tensao de Entrada Ac 110v; Cabo de
+Alimentacao; Garantia Minima de 90 Dias; Conforme Normas Nbr/abnt
+e Legislacao Vigentes;
+41 202- 501- Placa de Ensaio Protoboard, Base Metal, Tablete Abs,1660 21 R$ 1.309,56
+502 Especificação Técnica: Placa de Ensaio; Protoboard, Base Metal, Tablete
+Abs; Total de 1660 Furos; 1260 Pontos de Conexao Terminal; 400
+Pontos de Distribuicao; Bitola do Fio: 0,3 0,8mm; Bornes de
+Alimentacao: 3 - Va, Vb e Zero; Corrente: 1,5 7a; Tablete:
+16,5x11,1x8,5cm; Placa: 21,5x3,0x1,5 Cm;
+42 202- 501- Dispositivo de Armazenamento; Cartao de Memoria Micro Sdxc; Classe 21 R$ 2.974,02
+502 de Velocidade 10: 100 Mb/seg; Capacidade de Armazenamento de 256
+Gb;
+43 202- 501- Combo Teclado e Mouse Com Fio 1,30 m Item BEC 21 R$ 2.015,79
+502 Especificação Técnica: Teclado para Microcomputador; Combo Teclado
+e Mouse Wired, Com Fio; Teclas de Funcao Na Posicao Teclas de
+Funcao Na Posicao Horizontal; Disposicao Das Teclas Padrao Abnt2 104
+Teclas; Com Conector Usb, Mouse Com Scroll, Optico Resolução (1000)
+Dpi, Com Fio, Com 3 Botoes; Garantia de 12 Meses; Norma Abnt-2; Na
+Cor Preta; Com Comprimento do Cabo de Aproximadamente 1,30 M;
+44 202- 501- Estação de solda Estação de Solda Digital 110v 80w 2 R$ 6.668,66
+502 Especificação Técnica: Estacao de Solda; Digital; Tensao de 110v;
+Temperatura Ajustavel Ate 480 Graus; Gabinete Esd (antiestatico),
+Ponta Substituivel; Potencia de 80w; Acompanha Suporte para Ferro de
+Solda, Esponja para Limpeza; Manual de Instrucoes, Acondicionamento
+Embalagem Original do Fabricante, Garantia Minima de 12 Meses;
+45 202- 501- Ferro de solda soldador; cabo em termoplástico, corpo em aço 2 R$ 65,98
+502 inoxidável; tipo ferro de solda; funcionamento por resistência elétrica;
+sem regulador; potência de 42w; voltagem 110/127 vca.
+
+46 202- 501- Alicate de corte pequeno- Alicate P/uso Geral,cortador Manual,corte 2 R$ 33,98
+502 de Fios/cabos Cobre Aluminio Item BEC
+Especificação Técnica: Alicate para Uso Geral; Tipo Cortador Manual
+Tesoura, para Corte de Fios e Cabos de Cobre e Aluminio Secao Ate
+150mm²; Medindo 20"; Empunhadura Ergonomica Em Borracha;
+Cabeca Em Aco Especial;
+47 202- 501- Alicate de bico pequeno 2 R$ 38,64
+502 Alicate Bico Fino. Tipo Universal. 6 Pol, Diagonal Item BEC
+Especificação Técnica: Alicate; Tipo Universal Bico Fino, Bico 1/2 Cana
+6; Aco Inox; Diagonal; Cabo Simples; Aprox 15 Cm de Comprimento;
+48 202- 501- Kit de Ferramentas Manuais, Alicate, Aco Vanadio 1 R$ 111,55
+502 Especificação Técnica: Kit de Ferramentas Manuais; Alicates Vde;
+Isolado 1000 V; Em Aco Vanadio; Empunhadura Em Polimero;
+Composto Por 3 Pecas: 1 Alicate Universal, 1 Alicate de Corte e 1
+Alicate de Bico;
+49 202- 501- Kit de Ferramentas Manuais, Chave de Fenda e Philips, 15 Pecas 1 R$ 63,82
+502 Especificação Técnica: Kit de Ferramentas Manuais; Jogo de Chave
+Fenda e Philips,em Aco Especial Temperado; Cabos Injetados Com
+Material de Alta Resistencia; Chave Fenda 1/4x4, Chave Fenda 1/4x6,
+Chave Fenda1/8x4, Chave Fenda 1/8x6; Chave Fenda 3/16x3, Chave
+Fenda 3/16x4, Chave Fenda 3/16x6, Chave Fenda 3/16x1.1/2 Toco;
+Chave Philips 1/4x4, Chave Philips 1/4x6, Chave Philips 1/8x4, Chave
+Philips 1/8x6; Chave Philips 3/16x1 Toco, Chave Philips 3/16x5, Chave
+Philips 3/16x6; Kit Com 15 Pecas;
+50 202- 501- Kit de Ferramentas para Informatica Item BEC 2 R$ 291,80
+502 Especificação Técnica: Kit de Ferramentas para Informatica; para
+Conserto/manutencao de Equipamentos de Informatica; Composto de
+Composto de Alicate de Corte 4"; Alicate de Bico 4"; Alicate
+Crimpaddor; Ferramenta para Conectorizacao de Cabos Tipo Pushdown
+(trunker) para Cabos Rj-45; Testador de Cabo de Rede (test Cable) para
+Categorias 3, 4, 5, 5e e 6; Chave Allen (jogo Com 14 Pecas) 1,5; 2,0; 2,5;
+3,0; 4,0; 5,0; 6,0 Mm; 1/16"; 5/64"; 3/32"; 1/8"; 5/32"; 3/16" e 1/4";
+Chave de Precisao Fenda (jogo Com 5 Pecas) 3/16 X4"; 1/8 x 3"; 1/4 x
+5"; 5/16 x 6" e 1/4 x 6"; Chave de Precisao Phillips ( Jogo Com 3 Pecas)
+3/16
+51 202- 501- Alicate crimpador; confeccionado em aço oxidado preto de alta 2 R$ 279,80
+502 resistência e com isolamento em pvc; múltiplo para conectores de
+compressão tipo f, bnc, rca, rg59, 58,6; com trava limitadora de
+operação, matrizes fixas no corpo.
+52 202- 501- Testador de cabo de rede. Testador de Cabo de Rede; para 2 R$ 86,84
+502 Identificacao de Problemas de Conectividade e Disponibilidade de
+Dados Voz e Video; Padrao Dos Cabos Cat 5, Cat 5e, Cat 6; Compativel
+Com As Velocidades 10/100/1000; 568a e 568b; Testes Efetuados
+Comp do Cabo, Pinagem, Id de Cabo, Distancia Ate Afalha, Wiremap,
+Fios Invertidos, Detecta Poe.; Manual Tecnico Em Portugues; Garantia
+de 12 Meses; Painel Lcd Retroilumidado, Com Identificacao do
+Equipamento Na Extremidade Remota; Interface Rj45, Rj11 e Coaxial;
+Com Estojo de Transporte, 2 Pilhas Alcalinas Aa, Cd de Instalacao e
+Adaptador Wiremap
+53 202- 501- Multímetro; caixa em plástico resistente (abs) - portátil - digital - 3 R$ 1.010,70
+502 display lcd 3 1/2 (2000 contagens); indicação polaridade, sobrefaixa e
+bateria fraca - medição 2 vezes p/ seg. operação 0º a 560ºc, rh <; 70% -
+tensão dc faixa:2v,20v,200v,1000v – precisão +/- (0.5% + 1d) resolução
+1mv,10mv,100mv,1v; tensão ac faixas:200v, 750v - precisão +/- (1.5%
++4d) resolução: 100mv,1v - proteção de sobrecarga; dc= 1000 v/ ac=
+750 v rms - corrente dc faixas: 2ma,20ma,200ma,20a - resistência faixa:
+2koahms; 20koahms,200koahms, 2moahms, 20moahms - teste de hfe
+faixa: 0 ~ 1000 - diodo faixa: diodo - faixa; buzina de continuidade -
+alimentação a bateria 9vde 200h - acompanha acessórios ar de pontas
+de; prova bateria e manual de instruções - acondicionado de forma
+apropriada.
+
+54 202- 501- Multimetro Digital, de Bancada, 750vac, Alimentacao 110/220v 3 R$ 2.318,97
+502 Especificação Técnica: Multimetro; Em Caixa Plastica Resistente; Tipo
+Digital de Bancada, Funcoes: Dcv, Acv, Dci, Aci, Resistencia 2 e 4 Fios;
+Capacitancia, Frequencia, Diodo, Teste de Continuidade, Temperatura e
+Razao Dcv; Tela 6 1/2 Digitos, Capacidade de 1.000 Leituras/s; 1000 Vdc
+/ 750vac 20% de Sobrefaixa Em Todas As Faixas de Medicao (exceto a
+Ultima); 10a Dc / 10a Ac; Faixa Resistencia 10 Ohm~100 Mohm; Testes
+Continuidade 1000 Ohm - 0.001a Corrente Teste; Faixa Capacitancia
+1nf a 10mf; Tensao de Alimentacao 110/220v, 50/60hz - Consumomax
+30va;
+55 202- 501- Dispositivo de Armazenamento; Pen Drive, Usb 2.0, Na Cor Preta; Com 10 R$ 198,90
+502 Capacidade de 16 Gb;
+56 202- 501- Pendrive Usb 3.0 64gb Item BEC Item com Negociação 10 R$ 289,00
+502 Especificação Técnica: Dispositivo de Armazenamento; Pendrive Usb
+3.0; Velocidade de Leitura Até 130 Mb/s, Interface Usb 3.0, Compatível
+Com Usb 2.0; Capacidade 64gb, Com Software de Criptografia, Garantia
+12 Meses;
+57 202- 501- Disco Rigido; Padrao Usb 3.0, Externo; de 02 Tb, Tamanho de 2.5"; 5 R$ 2.385,00
+502 Garantia de 12 Meses; Com Cabo Usb 3.0 de 46 Cm;
+58 202- 501- Impressora Laser; Monocromatica Duplex, Processador de No Minimo 2 R$ 3.010,30
+502 400mhz, Volume Mensal de Impressao 50.000 Paginas; Velocidade
+Minima Na Cor Preta de 35ppm; Resolucao Minima Na Cor Preta 1200 x
+1200 Dpi; Memoria Minima de 128 Mb; Interface Usb 2.0 e Ethernet
+10/100base T; Papeis Suportados A4, A5, Carta e Oficio; Capacidade
+Minima Da Bandeja de Entrada de 250 Folhas; Saida de 150 Folhas;
+Suportando 1 Bandeja; Emulacao Pcl 6 e Post Script 3; Sistema
+Operacional Suportado Windows 2000 e Xp Professional; Com Drivers
+de Instalacao; Com Garantia de 12 Meses; On-site; Com Manual
+Tecnico; Com Toner Incluso e Toner Adicional de 6.500 Paginas; Com
+Cabo de Forca e Usb, Tensao 115v;
+59 202- 501- Mesa para impressora 2 R$ 1.090,00
+502
+60 202- 501- Microfone; Tipo Microfone de Mao Com Fio; Padrao Cardioide 2 R$ 698,00
+502 Dinamico; Resposta de Frequencia Resposta de Freq 50 - 15000 Hz Ou
+Range Maior; Resolucao Impedancia: de 300 ? a 350 ?;; Conexao
+Conector: Xlr; Chave de Liga/desliga; Sensibilidade: a 1 Khz; Tensao de
+Circuito Aberto, 1,85 Mv a 3 Mv; Manual do Usuario, Case de
+Armazenamento, Cabo Com Conectores Xlr Macho/xlr Femea de 7,5
+Metros; Ate 3501 Gramas;
+61 202- 501- Fone C/microfone, Headset Monoauricular, Encaixe Tipo c Ou Gancho 40 R$ 2.799,60
+502 Flex Item BEC
+Especificação Técnica: Fone Com Microfone; Headset Monoauricular
+Com Cancelamento de Ruidos para Ligacoes Telefonicas e Reunioes No
+Computador; Monoaural C/ Fio, Fixacao Na Orelha Por Encaixe Tipo c
+Ou Gancho Flexivel (earhook), Uso Ambidestro; Tubo de Voz Com
+Microfone Dinamico e Eliminador de Ruido; Com Regulagem para Uso
+Ambidestro; Cancelamento de Ruido e Fone Almofadado (pad) de
+Acoplamento No Ouvido Por Sobreposicao Na Orelha; Pino P3;
+62 202- 501- Servidor: Um processador de alto desempenho com pelo menos 16 1 R$ 17.800,00
+502 núcleos e 32 threads, capaz de operar em frequências altas e com
+cache grande para suporte eficiente ao processamento de modelos de
+IA (frequência base mínima de 4.5 GHz - Frequência turbo: igual ou
+superior 5.7 GHz - Mínimo de Memória Cache de 64 MB.)Placa de
+Vídeo (GPU): Uma placa de vídeo com no mínimo 24GB de memória
+GDDR6X, com milhares de núcleos CUDA (mínimo de 16384 núcleos
+CUDA) para processamento gráfico de alta performance, necessário
+para tarefas de aprendizado de máquina.Memória RAM: Pelo menos
+128GB de memória DDR5, com frequência de no mínimo 4800MHz
+para lidar com grandes cargas de trabalho e simultaneidade de tarefas.
+Armazenamento: Mínimo de três unidades de armazenamento,
+conforme descritas a seguir: (1)M.2 PCIe 5.0 NVMe SSD: Um SSD de
+2TB com velocidades de leitura e gravação extremamente altas (pelo
+
+menos 10000 MB/s) para processamento de dados em tempo real e
+desempenho otimizado. (2) M.2 PCIe 4.0 NVMe SSD: Um SSD adicional
+de 4TB com velocidades de leitura e gravação rápidas para
+armazenamento adicional de dados.(3) HDD SATA III: Um HDD de 16TB
+com alta capacidade e confiabilidade para armazenamento de grande
+volume de dados de forma econômica. Chipset: Um chipset de alto
+desempenho, capaz de suportar o processador e outros componentes
+de hardware avançados do servidor. Fonte de Alimentação: Uma fonte
+de alimentação com capacidade de pelo menos 1200W, certificação 80
+Plus, PFC ativo, e compatível com uma ampla faixa de voltagens (90 a
+240V) para fornecer energia estável e segura para o servidor. Sistema
+Operacional: Um sistema operacional confiável para servidores, capaz
+de oferecer suporte às tarefas de processamento de dados,
+aprendizado de máquina e deploy de modelos, com funcionalidades de
+segurança avançadas. Refrigeração: Refrigeração líquida eficiente para
+manter o servidor resfriado durante operações intensas. Acessórios:
+Mouse e teclado com fio de alta qualidade para interação com o
+servidor. Monitor: Um monitor de alta resolução com tamanho mínimo
+de 34 polegadas, com múltiplas entradas (HDMI, DisplayPort) para
+conectar a outros dispositivos. Garantia e Suporte: Pacote com pelo
+menos 24 meses de suporte e garantia on-site, com mão de obra
+vitalícia para o hardware.
+63 202- 501- Agitador de Peneiras, Eletromecanico de Bancada, 8 Peneiras de 8" x 6 R$ 53.865,00
+502 2"Agitador de Peneiras; Eletromecanico de Bancada; para Peneiras de
+Diametro 8" e Altura 2"; Com Capacidade para 8 Peneiras; Potencia
+Minima De300w; Com Tampa e Fundo Planos; Com Controlador de
+Tempo Eletronico para Ate 99 Minutos; Alimentacao Eletrica 110/220v -
+50/60 Hz; Garantia Minima de 12 Meses; Assistencia Tecnica Permanente,
+do Fabricante Ou Representante Autorizado;
+64 202- 501- Balanca Eletronica Digital de Piso P/ Ate 200kg Balanca; Tipo Eletronica 2 R$ 4.957,80
+502 Digital de Piso; Visor C/ Visor Fixado Sobre Coluna, Com Impressora; Com
+Capacidade para P/ 200kg, Resolucao 50 G, Estrutura Em Aco Carbono
+Com Tratamento Antiferruginoso; Medindo 80 x 80 Cm (plataforma); 110
+/ 220v - 60hz;
+65 202- 501- Balanca Eletronica Digital P/ 30 Kg e Divisao de 1 GramaBalanca; Tipo 2 R$ 1.964,00
+502 Eletronica Digital; Visor Display Retro Iluminado Em Lcd Com Digitos de 20
+Mm de Altura e 07 Seguimentos; Com Capacidade para Ate 30 Kg e
+Divisao de 1 Grama; Medindo 400 x 300 x 94 (prato de Pesagem) Podendo
+Variar Em Até 5%; 220 V; Pesagem Imediata Dispensando Pre-
+aquecimento;
+66 202- 501- Balanca Precisao Eletronica Digital para Ate 10.000gBalanca; Tipo Precisao 4 R$ 2.978,62
+502 Eletronica Digital; Visor Em Cristal Liquido, Com Mostrador Digital,
+Sensibilidade de 0,1g; Com Capacidade para Ate 10.000g
+Microprocessador e Tara Subtrativa e Mostrador Led Calibracao Externa;
+Medindo Cxlxa (mm) 320x310x120; Bivolt; Pesagem de Drogas/contem
+Selo Inmetro e Selo de Verificacao Inicial do Ipem Garantia 02 Anos,
+Manual;
+67 202- 501- Equipamentos para Fins Didaticos; Medidor de Umidade Tipo Speedy para 4 R$ 21.248,11
+502 Solos, Aparelho Medidor de (umidimetro) Tipo Speedy; Utilizado para
+Determinacao Da Umidade (ate 44%) Em Solos; para Uso Laboratorial e
+Em Campo; Modelo Portatil; Faixa de Trabalho 0 a 3 Kgf Cm-²; Dimensões
+do Estojo 40 x 30 x 20 Cm; Capsula de Aluminio ø 40×20 Mm, 25 Ml;
+Embalagem: Acondicionado Em Maleta para Transporte; Manuel de
+Instrucao Em Portugues; Garantia Minima12 Meses;
+68 202- 501- Densimetro para Massa Especifica Com Escala 0, 995 a 1, 050g/cm³ 4 R$ 140,40
+502 Densimetro para Massa Especifica; Utilizado para Sedimentacao de Solos;
+Com Escala 0,995 a 1,050g/cm³ (escala Astm/aahsto 151h); Divisao
+0,001g/cm³; Medindo 30cm de Comprimento; Usado Em Temperatura de
+25ºc;
+69 202- 501- Estufa 180 l Ate 200 Graus Celsius 220v 1900wEstufa; Com Estrutura 4 R$ 21.677,04
+502 Externa Em Chapa de Aco Revestido Em Epoxi Eletrostatico e Dupla
+Camada Interna; Capacidade: 180 L; Temperatura de Trabalho: de 15
+
+Graus Acima Da Ambiente Ate 200 Graus Celsius; Controle de
+Temperatura Digital Microprocessado Com As Funcoes de Set Point: Auto
+Sintonia e Pid; Camara Em Aco Inox; Porta Com Vedacao de Silicone;
+Resolucao de Mais Ou Menos 01 Grau; Homogeneidade de Mais Ou
+Menos 2.5 Graus Em Um Ponto; Dimensoes Internas: 600 x 500 x 600 Mm
+e Externas: 780 x 650 x 920 Mm (l x p x A); Alimentacao 220 V; Potencia de
+1900w; Sistema Manual para Selecionar o Tipo de Circulacao de Ar; Motor
+para Circulacao Forcada de Ar Com Sistema de Circulacao e Renovacao de
+Ar; Camara Interna Com 3 Trilhos; Acompanha 3 Prateleiras; Garantia
+Minima de 1 Ano; Timer de 1 a 999 Min; Com Alarme Sonoro; Assistencia
+Tecnica No Estado de Sao Paulo; Com Certificado de Calibracao do
+Termometro Digital Com Selo Rbc; Manual de Instrucoes;
+70 202- 501- Paquimetro, Em Aco Inoxidavel, Universal, Analogico, Resolucao 8", 6 R$ 4.212,36
+502 Cap200mmPaquimetro; Fabricado Em Aco Inoxidavel; Universal; Modelo
+Analogico; Resolucao de 8"; Capacidade 200mm; Profundidade Dos Bicos
+1,0003; Acondicionado Em Material Apropriado Que Garanta a
+Integridade do Produto;
+71 202- 501- Termometro Digital, -50 a 150°c, Resol 0, 1°c, Precisao 0, 3°cTermometro 12 R$ 2.350,80
+502 Digital; Faixa de -50 a 150 G°c Ou Mais Ampla, Resolucao de 0,1°c Ou
+Melhor e Precisao de 0,3°c Ou Melhor; de Com Visor de Cristal Liquido,
+Botao Liga/desliga, Cabo de Silicone Flexivel (compr. Min. 1,0m); Com
+Sensor de Aco Inox a Prova de Agua; Alimentacao 1,5vcc Por Pilha
+Tamanho Aaa (inclusa); Com Sistema para Checagem Rapida Da
+Calibracao Por Simulacao do Ponto 0°c C/ Resolucao de +/-0,3°c; Fixacao
+Em Superficies Metalicas Atraves de Imas Na Parte Traseira do
+Termometro; Com Manual de Instrucoes;
+72 202- 501- Peneira Granulometrica Redonda Astm 3, 5-tyler/mesh 3, 5 6 R$ 2.949,90
+502 Peneira Granulometrica; Em Aco Inoxidavel; Redonda: 8" x 2"; Compativel
+Com Astm 3,5-tyler/mesh 3,5; Embalagem Que Garanta Integridade do
+Prod,rotulo C/lote, Proced, Dt Fabric,garantia Contra Def. Fab.;
+73 202- 501- Peneira Granulometrica Redonda Astm 4-tyler/mesh 4 6 R$ 2.949,90
+502 Peneira Granulometrica; Em Aco Inoxidavel; Redonda: 8" x 2"; Compativel
+Com Astm 4-tyler/mesh 4; Embalagem Que Garanta Integridade do
+Prod,rotulo C/lote, Proced, Dt Fabric,garantia Contra Def. Fab.;
+74 202- 501- Peneira Granulometrica Redonda Astm 10-tyler/mesh 9Peneira 6 R$ 2.949,90
+502 Granulometrica; Em Aco Inoxidavel; Redonda: 8"x 2"; Compativel Com
+Astm 10-tyler/mesh 9; Embalagem Que Garanta Integridade do
+Prod,rotulo C/lote, Proced, Dt Fabric,garantia Contra Def. Fab.;
+75 202- 501- Peneira Granulometrica Redonda Astm 20-tyler/mesh 20 6 R$ 2.949,90
+502 Peneira Granulometrica; Em Aco Inoxidavel; Redonda: 8" x 2"; Compativel
+Com Astm 20-tyler/mesh 20; Embalagem Que Garanta Integridade do
+Prod,rotulo C/lote, Proced, Dt Fabric,garantia Contra Def. Fab.;
+76 202- 501- Peneira Granulometrica Redonda Astm 40-tyler/mesh 35 6 R$ 2.949,90
+502 Peneira Granulometrica; Em Aco Inoxidavel; Redonda: 8" x 2"; Compativel
+Com Astm 40-tyler/mesh 35; Embalagem Que Garanta Integridade do
+Prod,rotulo C/lote, Proced, Dt Fabric,garantia Contra Def. Fab.;
+77 202- 501- Peneira Granulometrica Redonda Astm 60-tyler/mesh 60 6 R$ 2.949,90
+502 Peneira Granulometrica; Em Aco Inoxidavel; Redonda: 8" x 2"; Compativel
+Com Astm 60-tyler/mesh 60; Embalagem Que Garanta Integridade do
+Prod,rotulo C/lote, Proced, Dt Fabric,garantia Contra Def. Fab.;
+78 202- 501- Peneira Granulometrica Redonda Astm 100-tyler/mesh 100 6 R$ 2.949,90
+502 Peneira Granulometrica; Em Aco Inoxidavel; Redonda: 8" x 2"; Compativel
+Com Astm 100-tyler/mesh 100; Embalagem Que Garanta Integridade do
+Prod,rotulo C/lote, Proced, Dt Fabric,garantia Contra Def. Fab.;
+79 202- 501- Peneira Granulometrica; Tampa, Em Aco Inoxidavel; Redonda: 8" x 2"; 6 R$ 1.404,00
+502 Compativel Com Nbr 248:2003; Embalagem Que Garanta Integridade do
+Prod,rotulo C/lote, Proced, Dt Fabric,garantia Contra Def. Fab.;
+80 202- 501- Peneira Granulometrica; Fundo, Em Aco Inoxidavel; Redonda: 8" x 2"; 6 R$ 1.404,00
+502 Compativel Com Nbr 248:2003; Embalagem Que Garanta Integridade do
+Prod,rotulo C/lote, Proced, Dt Fabric,garantia Contra Def. Fab.;
+81 202- 501- Aparelho Casagrande Manual, Com Cortador de GolpesAparelho 4 R$ 8.418,00
+502 Casagrande; Manual, Com Cortador de Golpes, Utilizado para
+
+Determinacao do Limite de Liquidez Dos Solos; Com Um Cinzel Chato e
+Um Cinzel Curvo, Almagamador Deborracha de 300ml; Calibrador de
+Altura de Queda Da Concha e Da Basede Ebonite Com Esfera; Espatula de
+Aco Inox 10x2cm, Capsula de Porcelanaede Aluminio, Com Certificado de
+Calibracao;
+82 202- 501- Pecas, Ferramentas, Acessorios para Fins Didaticos; Kit de Ensaios de 2 R$ 735,16
+502 Limite de Contracao de Liquidez(ll) e de Plasticidade (lp); Composto Por 01
+(uma) Placa Com 3 Pinos; 01 (uma)proveta de Plastico de 25ml Graduada;
+01 (uma) Capsula de Contracao de Aco Inoxidavel Deø4x1cm; 01 (uma)
+Cuba de Vidro de Ø5×2,5cm; 01 (uma) Pera de Borracha N. 10; 01 (uma)
+Capsula de Porcelana de Ø12cm, Cap. 250ml;
+83 202- 501- Cronometro; para Controle de Tempo Em Aula Pratica de Uso Em 4 R$ 392,60
+502 Laboratorio; Tipo Digital; Com Bateria de Litio (cr2025) 3 Volts; Duracao
+Aproximada de 2 Anos; Com Horario Normal, Horas, Minutos e Segundos;
+Formato de 12 Ou 24 Horas a Criterio do Usuario; Com Calendario
+Informando Ano, Dia do Mes e Dia de Semana; Memoria para 8 Tempos;
+Cronografo; Unidade de Medida 1/100 Segundos; Capacidade Maxima de
+Medicao 99 x 59 x 59(h x m x S); Com Despertador/alarme de Horario
+Normal e 2 Alarmes (a1 e A2); Bip de Horas; Timer; Com Garantia Minima
+de 12 Meses; Com Unidade de Medida de 1 Segundo Contagem
+Regressiva Ate 23 Horas, 59 Minutos e 59 Segundos;
+84 202- 501- Paquimetro, Eletronico, 0-650mmPaquimetro; Pinca Em Liga de Zinco e 2 R$ 19.253,96
+502 Aluminio; Digital e Eletronico; Modelo Com Bluetooth; Visor Com Display
+Lcd (128 x 64)pixels; Resolucao +/- 1 Mm; Faixa de Medicao de 0-650 Mm;
+Classe de Comunicacao Bluetooth: 2 (10m) Spp; Temperatura de
+Operacao -20°c a +40°c; Alimentacao: 2 Pilhas Aa 1,5v;
+85 202- 501- Paquimetro, Eletronico, Modelo Digital, Mostrador Lcd, Res. 0, 01 4 R$ 9.960,00
+502 Mm/0005"Paquimetro; Em Aco Inoxidavel; Tipo Eletronico; Modelo
+Digital; Mostrador Lcd; Escala Milimetros/polegadas; Resolucao 0,01
+Mm/0005"; Capacidade 300mm / 12pol; Bicos Externos 64mm/internos
+22mm; Com Botao de Ajuste de Zero; Manual, Certificado de Calibracao e
+Garantia Minima 180 Dias; Com Estojo para Transporte;
+86 202- 501- Trado Holandes P/ Coleta de Amostra de Solo, Acion. Manual, Prof 40cm 2 R$ 2.970,00
+502 Trado; Trado Holandes; para Coleta de Amostra de Solo; Acionamento
+Manual; Profundidade 40 Cm; Cacambas: 01 Com 10cm e 1pol de
+Diametro e 01 Com20cm e 3pol de Diametro; Cacamba 50mm Largura x
+200mm Altura; Com Haste De, No Minimo, 80 Cm; Garantia Minima de 12
+Meses Da Data de Entrega; Confeccionado Em Aco Inox;
+87 202- 501- Bussola Bruton Portatil Com Variacao de 1 - 90 Graus 8 R$ 4.902,00
+502
+88 202- 501- Estacao Total Eletronica; para Medir Angulos e Distancias Horizontais e 4 R$ 192.200,00
+502 Verticais; Grau de Protecao Padrao Minimo de Ip66; Leitura Angular de 1";
+Duplo Compensador Automatico Nos Eixos Horizontal e Vertical; Precisao
+Angular de 2 "; Precisao Linear de 2 Mm + 2 Ppm No Modo Prisma e 3 Mm
++ 2 Ppm para Leituras Sem Prisma; Com Alcance Linear de No Minimo
+3500 m Com 01 Prisma; Dotado de Prumo Otico Ou Laser; Alcance Da
+Luneta de Aumento de 30x; Ponteiro Laser Visivel para Locaisescuros;
+Diametro Da Objetiva: 40 Mm Ou Superior; Com Capacidade Minima de
+50.000 Pontos C/todos Os Atributos; Porta Serial Rs-232 e Usb; Bluetooth
+Integrado; Com Software para Medir a Altura de Pontos Inacessiveis;
+Calcular: Cota Da Estacao; Visor de Cristal Liquido de No Minimo 128x64
+Pixels, Com Menus Em Portugues; Teclado Alfanumerico Expandido Com
+No Minimo 20 Teclas; Acompanha: 2 Bastoes Telescopicos de 2,5 M; 1
+Tripe de Aluminio; 2 Prismas Com Suporte; 1 Kit Carregador Duplo
+Simultaneo; 2 Baterias Li-ion; 1 Cabo para Transferencia de Dados; Midia
+(link) para Instalacao de Software; Certificado de Calibracao; Manuel Em
+Portugues; Estojo para Transporte; Garantia Minima de 12 Meses;
+89 202- 501- Trena Eletronica Laser, 0, 05 a 80m, 360°, Com Bateria e Carregador;Trena 8 R$ 5.380,08
+502 Eletronica; a Laser, Portatil, Com Bateria Integrada e Carregador; Com
+Indicacao de Raio Laser Visivel; Sensor de Inclinacao de 360 Graus
+Integrado; Medicao de Distancia de 0,05 Ate 80 M, Precisao de 1,5 Mm
+Ou Melhor; Medicao Indireta de Altura/comprimento; Resolucao Em
+
+0,001 Metro; Leitura Em Metros e Centimetros; Com Bateria de Ion de
+Litio Integrada 3,7 v / 1250 Mah Recarregavel; Carregador Bivolt; Utilizada
+para Medir Distancias; Com Manual de Instrucoes, Estojo de Transporte,
+Garantia Minima de 12 Meses;
+90 202- 501- Trena Em Fibra de Vidro Revestida Vinil, Tipo Estojo, Larg.fita 8 R$ 786,80
+502 13.0mmTrena; Em Fibra de Vidro Revestida Em Vinil, Resistente Asolvente
+e Atritos Com o Solo; Tipo Estojo Em Plastico Abs Com Alca e Ponteirapara
+Posicionamento Da Fita; Largura Da Fita 13.0 Mm, Comprimento 50
+Metros,; Gravacoes Em Duas Cores, Sendo: Milimetro e Centimetro Em
+Preto e Dos Metros Em Vermelho;
+91 202- 501- Notebooks para serem utilizados em sala de aula pelos professores 1 R$ 5.161,00
+502
+92 202- 501- Notebooks para serem utilizados no laboratório de informática do CST em 35 R$ 180.635,00
+502 Controle de Obras
+93 202- 501- Caixa de som amplificadora 1 R$ 389,00
+502
+94 202- 501- TVs 65" 10 R$ 36.550,00
+502
+95 202- 501- Plataforma de carregamento de Notebook 1 R$ 6.000,00
+502
+96 202- 501- Suporte para TV 1 R$ 1.178,00
+502
+97 202- 501- Banco de Madeira Para Mesa de Desenho 61cm 40 R$ 18.118,40
+502
+98 202- 501- Conjunto de mesa e cadeira para professor 1 R$ 1.109,00
+502
+99 202- 501- Quadro não magnético branco, 4,00x1,20 m – Padrão CPS 1 R$ 1.423,00
+502
+100 202- 501- Quadro de aviso, madeira, revestido em fórmica 0,80x1,00 cm – Padrão 1 R$ 139,40
+502 CPS
+101 202- 501- Armário de aço c/ 02 portas de abrir – Padrão CPS 3 R$ 2.547,00
+502
+102 202- 501- Cabo Y, 1 HDMI macho, 2 HDMI fêmea – Padrão CPS 2 R$ 105,30
+502
+103 202- 501- Filtro de linha - 10 tomadas - 10A 1 R$ 89,78
+502
+104 202- 501- Cavalete para Desenho; Com Tampo; Confeccionado Em Madeira, 40 R$ 46.320,00
+502 Acabamento Em Laminado Melamínico; Medindo Aproximadamente
+(1200 x 900) mm = (l x A); Cavalete Confeccionado Em Aco Tubular; Com
+Altura de No Mínimo 720mm; Na Cor Cinza; Modelo Dobrável; Com
+Regulagem; Por Roldanas e Cordoamento, Com Abracadeiras Em
+Poliamida para Travamento; Com Inclinação de Até 45 Graus; Bandeja Sob
+o Tampo para Acomodação de Material E régua Paralela Acoplada Ao
+Tampo; Com Garantia de No Mínimo 12 Meses;
+105 202- 501- Medidor de Ph de Bancada; Com Compensacao de Temperatura Medidor 5 R$ 7.557,40
+502 de Ph; de Bancada; Com Compensacao de Temperatura; para Amostras
+de 1 Tampao de Calibraçao Ph4; Ph7; Ph10; Medindo Ph Com Faixa de
+Escala de 0.00-14.00; Medindo Potencial Na Escala de -1999 a 1999mv;
+Com Compensacao Automatica de Temperatura; Com Calibracao 0.01 Ph;
+1mv; 0.1 Grau C; Com Mostrador Tipo Diisplay Ampla Em Lcd;
+Acompanha: 1 Braco Articulado Com Eletrodo de Plastico; Dimensoes:
+Alimentacao: Ac 110 V/60 Hz; Dimensoes: 290 x 210 x 95mm (cxlxa);
+Inclui: Garantia Minima de 1 Ano. Assistencia Tecnica No Brasil;
+106 202- 501- Agitador Magnetico Conjunto Constituido de 6 Agitadores Magneticos 5 R$ 7.055,00
+502 Agitador Magnetico; Fabricado Em Aco e a Pintura Externa Em Epoxi;
+Agitacao Ate Seis Litros de Agua Em Cada Agitador, Conjunto Constituido
+de 6 Agitadores Magneticos; Velocidade de Agitacao de 100 a 1800 Rpm
+Com Lampada Piloto; Plataforma Com Diametro Da Placa de 14 Cm;
+Motor de Tensao 115 Ou 230 Volts - 50 a 60hz; Resistencia Com Potencia
+de 180 W; Dimensoes: 101 x 22 x 10cm; Alimentacao: 115v Ou 230v - 50-
+60hz; Inclui: 6 Barras Magneticas 9x25mm - 6 Pincas Individuais- 8 Mufas -
+
+2 Colunas e 1 Suporte Horizontal; Inclui: Manual Tecnico; Garantia Minima
+de 12 Meses. Assistencia Tecnica Permanente No Brasil;
+107 202- 501- Balanca Semianalitica, Com Software de Calibracao, 300 a 320 Gramas 1 R$ 3.784,00
+502 Balanca de Precisao; Semianalitica, Com Software de Calibracao
+Automatica; Utilizado para Realizacao de Pesagens Rapidas e Precisas de
+Preparos Laboratoriais; Gabinete Construida Em Polimero Ou Aluminio de
+Alta Resistencia Quimica e Mecanica; Capacidade de Pesagem Entre 0,2 a
+300 Ou 320 G; Pesagem Em Grama, Resolucao 0,001g, Tara Subtrativa Em
+Toda a Escala, Peso Minimo 0,02 G; Visor Com Display Digital de Cristal
+Liquido C/ 8 Digitos de 7 Segmentos e Indicador de Estabilidade; Modulo
+de Comando Display Com Tela Sensivel a Toque e Interacao Grafica para
+Ligar/desligar, Zerar e Tarar; Linearidade: 0,002 G; Repetibilidade 0,001 G;
+Tempo de Estabilidade: Ate 3 Segundos; Ajuste Automatico Com Peso
+Interno Motorizado; Temperatura de Operacao Ajuste Automatico
+Quando Da Variacao Da Temperatura Ou Por Tempo; Interface Mini Usb
+Ou Serial Rs232, Configuravel para Conexao Com Pc e Dados Direta para
+Impressora; Voltagem: 100 - 240 v 50/60 Hz; Dimensoes Largura Maxima
+380 Mm, Profundidade Maxima 230 Mme Altura Maxima Com Capela 350
+Mm; Com Certificado de Calibracao Rbc; Equipamento Comhomologacao
+do Inmetro; Transferência de Dados Direta para Planilhas Excel Ou Texto,
+e Dados Sbi e Xbpi; Modelo Aprovado Pelo Inmetro Conforme Portaria
+Inmetro/dimel 184/2015; Nivel Tipo Bolha Posicionado Na Frente Da
+Balancapara Facilitar Seu Nivelamento; Idiomas: Portugues, Ingles,
+Alemao, Frances, Espanhol e Italiano; Programas Com Aplicacoes Em
+Laboratorio; Funcoes: Pesagem, Densidade, Porcentagem, Controle de
+Peso, Peso Maximo, Contagem e Pesagem; Prato Em Aco Inox Com 120 a
+150 Mm Com Capela Em Vidro Antiestatica Altura Util Minimo de 200
+Mm; Incluso Manual de Operacao Em Lingua Portuguesa; Assistencia
+Tecnica No Brasil; Garantia Minima de 12 Meses;
+108 202- 501- Barra Imantada Magnetica 15x8mm (cxd) Barra Imantada; Magnetica; 20 R$ 240,00
+502 Revestida Em Teflon; Lisa Sem Anel; Comprimento de 15mm; Diametro de
+8mm; para Homogenizacao de Solucao; Acondicionado Em Embalagem
+Apropriada Que Garanta a Integridade Doproduto;
+109 202- 501- Bico de Bunsen, Com Regulagem de Ar e Gas, Medida Aprox. 15 x 1 Cm 8 R$ 853,60
+502 Materiais Auxiliares; Bico de Bunsen; Com Base Pesada Em Ferro; Entrada
+para Alimentacao a Gas; Regulador de Entrada de Ar e Controlador de
+Chama(registro para Gas); Dimensao Aproximada de 15 x 1 Cm; Rotulo
+Com Numero de Lote, Data de Fabricacao e Procedencia. Conforme
+Legislacao Vigente; Acondicionado Em Embalagem Reforcada e
+Apropriadaque Garanta a Integridade do Produto;
+110 202- 501- Chapa de Cobre, (1200x600)mm, 3, 17mm; Chapa de Cobre; Medindo 15 R$ 7.800,00
+502 (1200x600)mm; Com Espessura de 3,17mm, Peso Aproximado Por Chapa
+de 20,6kg; Chapa Plana, Acabamento Liso; Cobre Eletrolitico Conforme
+Norma Astm C11000;
+111 202- 501- Maquina Universal de Ensaios de Compressao, Extensao e Flexao, 1 R$ 190.100,00
+502 Eletromecanica; Laboratorio de Fisica, Controlador Digital
+Microprocessador Eletronico de Malha Fechada; Capaci. 100kn
+(10000kgf), Tipo Dupla Coluna de Piso, Acionamento Atraves de Fusos de
+Esferas; Circulantes Precarregados Com Sistema de Clunas Guias
+Cilindricas; Sistema de Acionamento Digital; Travessa Movel C/ Controle
+Total Da Variacao Da Veloc.; Faixa: Veloc. de Ensaios: 0,005 a 500mm/min;
+Veloc. de Retorno Da Trevessa Movel: 600mm/min; Controle Digital Tipo
+Closed Loop Integrado; Aquisicao Eletronica de Dados; Instr. Eletr. de
+Controle de Dados Interna a Estrt. Da Maquina; Comum. de Dados, Digital
+de Porta Ethernet Tcp-ip;analis. de Dados e Controle de Ensaio; Atraves de
+Software; Console (intrerruptor) Com Funcoes de Mov. Da Travessa Movel
+P/a Ajustes; Na Montagem de Acessorios; Medicao de Forca Atraves de
+Celulas de Carga Intercambiaveis; Percisao de Med. de Forca: Satisfaz Ou
+Excede a Classe 1, Segundo a Norma Nm Iso7500-1; Celula de Carga C/
+Capacid. de 100kn (10000kgf), Resol. de Leitura de 10 (ikgf);
+Recomendada P/ Ensaios Na Faixa de 2 a 100kn, Tracao/ Compressao
+Estatica; Par de Prato, Sendo Superior Oscilante, Com Diamentro 160mm
+
+P/ Ensai de Compressao; Software P/ Controle de Diferentes Tipos de
+Ensaios e P/ Diferentes Materiais; Instalacao e Calib. No Local; Com
+Microcomputadorp/ Aquisicao e Analise de Dados; Garantia de No
+Minimo 12 Meses; Manoel Em Portugues;
+112 202- 501- Parafusadeira; Em Plastico Rigido; Tipo Parafusadeira/furadeira; 1 R$ 343,90
+502 Alimentacao Por Fio; Linha Profissional; Torque Maximo 42n.m, Com Anel
+Seletor de Torque; Mandril de Aperto Rapido de 10mm; 127v; Rotacao
+Aproximada: Alta 0 - 1400 Rpm; Baixa 0 - 400 Rpm; Velocidade Variavel e
+Reversivel,capacidade de Perfuracao: Metal 13mm, Concreto 13mm,
+Madeira 36mm; Pesando No Maximo 1,5kg; Com Garantia Minima de 12
+Meses e Manual de Intrucoes Em Lingua Portuguesa; Acompanha Maleta;
+113 202- 501- Jogo de Chave: jogo de Chave; Tipo Phillips (chave Cruzada); Haste Em Aco 4 R$ 234,40
+502 Cromo Vanadio Temperado; Ponta Fosfatizada e Magnetizada,
+Acabamento Cromado, Cabo Injetado; 3x75 (1/8x3), 5x100 (3/16x4),
+6x100 (1/4x4), 6x150(1/4x6), 8x150 (5/16x6); 5 Pecas; Din Iso 8764;
+114 202- 501- Ferramentas Manuais; para Montagem e Desmontagem; Composto Por 2 R$ 475,70
+502 19 Pecas; Fenda e Philips Em Cromo Vanadio Com Cabo Em Polipropileno;
+Fenda 1/8x4";3/16x6";1/4x8";1/4x1/2";philips 1/4x1.1/2; 3/16x3; 1/4x5;
+1/4x8; Martelo Tipo Pena, 200g, Em Aco Forjado e Temperado, Com Cabo
+de Madeira Envernizado; Martelo de Poliuretano,modelo
+Americancano,cabo Em Madeira Autofixavel; Alicate Universal 8"em Aco
+Cromo Vanadio Escurecido e Cabo Em Pvc Curvo Antideslizante; Alicate de
+Bico Meia Cana Reto 6"com Cabo Em Pvc Curvo Antideslizante; Saca Pino
+Paralelo,aco Cromo Vanadio Fosfotizado,recartilhado:
+1.5;2.0,3.0,4.0,5.0,6.0,8.0 Mm; Acondicionadas Em Caixa para
+Ferramentas Tipo Maleta Em Resina de Polipropileno Preta;
+115 202- 501- Jogo de Ferramenta; Alicates Profissionais para Eletricista; Em Aco, Com 2 R$ 257,80
+502 Cabo Em Material Isolado e Antideslizante; Contendo 5 Pecas;
+Composição: 1 Alicate Universal 200mm (8"), 1 Alicate de Corte Diagonal
+165mm (6,5"); 1 Alicate de Bico Meia Cana 165mm (6,5"), 1 Alicate
+Desencapador de Fios e 1 Mosquetinho;
+116 202- 501- Pecas, Ferramentas, Acessorios para Fins Didaticos; Kit de Fisica Composto 8 R$ 28.800,00
+502 Por Resitores Iguais a 1 Metro, Fixos Em Uma Placa Isolante Com
+Condicoes De; Efetuar Medidas de Diferenca de Potencial, Resistencia
+Eletrica e Intensidade de Corrente Elétrica; Em Comprimentos de 25cm.
+Composicao: 01 Placa de Metal 60x30cm Com Pes Niveladores 25 Bornes
+De; Ligacao; 01 Fio de Niquel-cromo Ø0,720mm x 1m; 01fio de Niquel-
+cromo Ø0, 510mm x 1m;; 01 Fio de Niquel-cromo Ø0,360mm x 1m; 01 Fio
+de Ferro Ø0,510mm x 1m;01 Fio de Cobre Ø0,510mm x 1m;; 01 Fonte de
+Alimentacao Dc, de 0 a 30v Dc, Ajustede Tensao,com Corrente Maxima de
+3a; Proteçao Eletronica Contra Curto Circuito, Entrada127/220v Ac; 05
+Cabos de Ligacao: 02 Pretos; 02 Vermelhos e 01 Azul; 02 Multimetros.;
+117 202- 501- Pecas, Ferramentas, Acessorios para Fins Didaticos; Conjunto de 8 R$ 14.824,00
+502 Eletromagnetismo 01 Placa para Ensaiosde Experimentos de
+Eletromagnetismo, Com; Fonte Dc Variavel 6v/2a, Solenoide de 3 Bobinas,
+Bobina para Experimento Da Lei de Lenz,; Bornes para Montagem Dos
+Experimentos de Forca Magnetica e Chaves de Liga/desliga Inversora
+Para; Cada Experimento;01 Fonte de 6v/2a; 01 Ima Em U;01rotor de Fio
+de Cobre para Experimento de Motor; Eletrico; 02 Torres de Arame de
+Metal para Balancocom Pinos de Pressao para Ecaixe Na Placa; 01 Balanco
+de Arame de Metal; 01 Arame Em u Com Pinos de Pressao para Encaixe
+Na Placa; 01 Ima de Neodimio Com Suporte Plastico; 01 Bussola Ø43mm;
+01 Frasco de Ferro Em Po Com 25g; 01 Galvanometro 50ua Com Zero
+Central; 01 Par Cabode Ligacao Banana/jacare 1m (preto/vermelho);
+118 202- 501- Pecas, Ferramentas, Acessorios para Fins Didaticos; Kit Fisica Composto 8 R$ 58.400,00
+502 Por Matriz de Contatos Eletricos, Componentes Eletronicos; Eletronicos
+(resistores, Capacitores, Diodos, Indutores e Etc) Em Suportes Com Pino
+Banana; Fonte de Alimentacao Dc, Fonte de Alimentacao Alternada;
+Bobinas para Transformador Desmontavel, , Nucle para Transformador,
+Cabos de Ligacao;
+119 202- 501- Conjunto didatico: de cinematica e dinamica, modular desmontavel para o 8 R$ 11.696,00
+502 estudo de plano inclinado, atrito, mru e mruv, caixa em formato de fundo
+
+e tampa em papel ondulado kraft, 01 base metalica, 01 painel com 2
+roldanas fixadas, 01 porta dinamometro e eixo para roldana dupla, 01
+dinamometro tubular de mola 200gf 2n,acessorios: 01 roldaoa movel
+simples; roldana fixadupla, 01 gancho em sit, 01 porta massas aferidas;
+massas aferidas 50g, 01 carretel de cordao, garantia de no minimo 12
+meses, manual de experimentos;
+120 202- 501- Conjunto didatico: Cinematica e dinamica, trilho de ar com baixo 8 R$ 51.872,00
+502 coeficiente de atrito materia prima em aluminio, 01 trilho de aluminio
+com 1200mm com canaletas para fixacao, regua milimetrada de ac, 02
+carros de metal com rodas rolamentadas de baixoatrito e locais para
+fixacao de acessorios, acessorio: 01 cronometro digital azb-30; 01 cabo de
+ligacao para eletroima, 02 sensores pgs-d10 com cabos e suportes; 01
+roldana raiada rolamentada de baixo atrito, 01 eletroima com suporte
+multiuso; 04 imas de neodimio, 02 barreiras para choque; 01 mola
+helicoidal, 01 pinos para carrinho com gancho, pitao e agulha;01 massas
+aferidas, manipulos, porcas e pafausos,, carretel de linha, elasticos; 01
+pinos para carrinho com massa aderente, fixador para eletroima, e pino
+roscado para massas aferidas, manual de experimentos, garantia no
+minimo 12 meses;
+121 202- 501- Conjunto didatico: Laboratorio de fisica, de bancada, em aco rigido, tripe 8 R$ 6.000,00
+502 tipo estrela 1kg de ferro fundido com manipulo e sapatas niveladoras,
+acessorios: 01 haste ø12,7x400mm; 01 fixador metalico com haste para
+pendurar travessao, 06 massas aferidas de 50g com gancho para
+acoplamento rapido, 01 travessao de metal com 15 furacoes e escala
+20cm - 0 - 20cm, manual de experimentos, garatnia minima 12 meses;
+122 202- 501- Conjunto didatico: Laboratorio de energia renovaveis, bancada de turbina 8 R$ 46.400,00
+502 geracao de energia, materia prima em plastico, acessorios: 01 turbina em
+miniatura que funcionatal como em escala real, 01 painel solar
+fotovoltaico, 01 eletrolisador, 01 celula a combustivel de tecnologia pem,
+01 sistema de armazenamento de hidrogenio, 01 motor eletrico e leds,
+manual de experimentos, garantia mnima 12 meses;
+123 202- 501- Especificação Técnica: Conjunto Didatico; para Aulas de Fisica; Conjunto 8 R$ 18.528,00
+502 P/estudo do Modulo de Elasticidade (modulo de Young); Modulo de
+Elasticidade Em Barras; Composto Por; 01 Painel de Aco Com Escala
+Milimetrada para Ajuste Da Distancia Entre Apoios; 01 Tripe para Haste de
+Diametro 12,7mm Com Manipulo e Sapatas; 02 Suportes para Pendurar
+Massas Aferidas; 01 Gancho 12,7mm para Suporte de Massas Aferidas; 01
+Gancho 20mm para Suporte de Massas Aferidas; 01 Gancho 30mm para
+Suporte de Massas Aferidas; 02 Suportes Moveis para Apoio Das Barras;
+01 Relogio Comparador Com Precisao de 0,01mm Ajuste de Zero; 07
+Corpos de Prova Metalicos Em Formato de Barras(aço, Aluminio e Latao);
+10 Massas Aferidas de 10g; 10 Massas Aferidas de 20g; 10 Massas
+Aferidas de 50g; 01 Haste de Aco Diametro 12,7 x 400mm; 02 Manipulo
+M5x15; 01 Porca de Plastico M5; 01 Arruela 3/16"; Acondicionado Em
+Material Apropriado Que Garanta Aintegridade do Produto;
+124 202- 501- Especificação Técnica: Conjunto Didatico; para Aulas de Fisica; 8 R$ 42.400,00
+502 Experimento de Queda Livre: Determinar Aceleracaoda Gravidade e
+Conservacao Da Energia Mecanica; Composto Por Tripe Grande Com
+Sapatas Niveladoras; Cronometro Digital Multifuncoes; Fonte Chaveada
+Dc 12v/2a; Perfil Metalico para Fixacao Dos Sensores e Acessorios;
+Eletroima, Esferas de Aco Com Diametros de 20 e 25mm; Prumo
+Magnetico, Sensores Fotoeletricos e Cabos Deligacao; Regua Metalica
+Com 10 Aberturas de 10mm e Com Haste Metalica;
+125 202- 501- Especificação Técnica: Equipamentos para Fins Didaticos; Modulo Didatico 8 R$ 120.000,00
+502 para Estatica Dos Fluidos; Modulo Destinado a Visualizacao Dos
+Fenomenos Da Estatica Dos Fluidos, Entre Eles; Pressao Manometrica;
+Pascal; Hidrostatica; Determinacao de Densidade e Na Medicao de
+Pressao;; Pressao Diferencial de Dois Pontos; Principio de Arquimedes;
+126 202- 501- Luximetro; Com Escala de 0 a 400.000 Lux; Portatil; Indicacao : Display Lcd 8 R$ 9.174,00
+502 Com Indicacao Digital; Saida Digital; Desligamento Automatico;
+Memorizador de Valor Maximo, Minimo e Medio, Indicacao de Bateria
+Fraca; Com Espectro e Sensor Fotodiodo Com Filtro Leitura Espectro de
+
+Luz Led Branca e Todas As Luzes Visiveis; Alimentado Por Bateria de 9
+Volts; Com Estojo para Transporte; Garantia Minima de 12 Meses;
+127 202- 501- Conjunto Didatico; para Experimentos de Eletricidade; Kit de Eletricidade 8 R$ 11.200,00
+502 Basico; Composto Por; Fonte de Tensão 6v Dc, Bivolt; Multimetro Digital;
+Conjunto de Resistores; Fios para Ligações Com 10 e 20cm; Lâmpadas de
+6v / 1,5w, 6v / 2w, 6v / 3w; Capacitores Eletrolíticos de 100µf e 220µf;
+Diodos; Leds Verdes e Vermelhos; Garras de Jacaré Mini (pretas e
+Vermelhas); Placa para Ensaios (205x117)mm Contendo: 01 Fontevariável
+de Tensão de 6v/2a; 01 Chave Liga-desliga; Soquetes para Lâmpada Com
+Rosca; Conexão para a Fonte de Tensão; Pontos para Conexões Elétricas
+para Montagem Dos Circuitos Elétricos;
+128 202- 501- Osciloscopio; Digital, 4 Canais de Entrada Analogicos; Freq Minima 70 8 R$ 40.720,00
+502 Mhz, Display Touch, Minimo 10 Pol; Conversor Digital Analogico 10 Bits;
+Taxa de Amostragem Igual Ou Maior Que 1gsample/s Por Canal para Os 4
+Canais Operando Simultaneamente; Memoria de Forma de Onda Igual Ou
+Maior Que 10mpontos Por Canal 4 Canais Operando Simultaneamente;
+Taxa de Atualizacao de Tela Igual Ou Superior a 50.000 Formas de Onda
+Por Segundo; Operacoes Matematicas: Soma, Subtracao, Multiplicacao,
+Fft Com Numero de Pontos Igual Ou Maior 128k; Gerador de Sinais,
+Capacidade de Graficos de Bode; Capacidade Acesso Remoto Por Pc Via
+Ethernet, para Operacao Aquisicao Das Formas de Onda Na Tela;
+Acompanha 4 Pontas de Prova; Garantia Minima 12 Meses;
+129 202- 501- Furadeira, Parafusadeira, Mandril 3/8 Polegadas; Furadeira; Em Plastico 1 R$ 599,80
+502 Rigido; Tipo Furadeira/parafusadeira Uso Profissional; Com Mandril de 3/8
+Polegadas (10 Mm); e Potencia 320 W; Rotacao 1500 Rpm; Na Voltagem
+127 V, Alimentacao Eletrica Com Fio; Pesando Aproximadamente 1,2 Kg;
+Com Capacidade para Impacto Torque 40 Nm; Na Cor Azul; Acondicionado
+Em Material Apropriado Que Garanta Aintegridade do Produto;
+130 202- 501- Balanca de Precisao; Eletronica; Utilizado para Para Realizacao de 1 R$ 2.508,21
+502 Pesagens Rapidas e Precisas; Gabinete Com Protecao Contra Corrente de
+Ar e Prato de Pesagem Em Aco Inoxidavel; Capacidade de Pesagem de 500
+Gramas Ou Superior, Com Sensibilidade de 0,001g; Leitura Em Gramas;
+Visor de Cristal Liquido Com 6 Digitos Com Indicador Deestabilidade de
+Leitura, Resolucao de 0,001g; Modulo de Comando Com Teclas para Ligar,
+Desligar, Tarar, Zerar e Entrada No Menu; Repetibilidade de 0,001g;
+Temperatura de Operacao Ambiente; Fonte de Alimentacao Eletrica
+Automatica Bivolt Em 110/220v, 50/60hz; Com Aprovacao Inmetro e
+Ipem; Com Manual de Instrucoes Em Portugues; Garantia Minima de 12
+Meses;
+131 202- 501- Termometro Laboratorial; Quimico; Escala de -10 a +110 Graus Celsius; 1 R$ 64,44
+502 Divisao Em 1 Grau; Protecao Em Vidro Opalino, Fundo Claro; Enchimento
+Com Liquido Vermelho; Imersao Total; Rotulo Com Numero de Lote; Data
+de Fabricacao e Procedencia;
+132 202- 501- Balanca Determinadora de Umidade; Determinador de Umidade; Balanca 1 R$ 4.484,00
+502 Determinadora de Umidade; Capacidade 110 G; Sensiilidade de 0.2% para
+Amostra de 3g; 0.05% para Amostra de 10g; Aquecimento Por Lampada
+de Halogenio Com Rampa Devoltagem; Tempp. de 50 c a 160 Graus c Em
+Incrementos de 5 Graus C; Temperatura Operacional 5 a 40 Graus C;
+Desligamento Temporizado (1 a 99min); Manual Ou Automatico (perda de
+Peso Pre Definido/tempo); Tara Capacidade Total Subtracao; Medicao
+Gramas; Resultados Umidade % Ou Solidos % Ou Peso e Temp.; Interface
+Bidirectional Rs-232; Display Lcd Com Iluminacao; Tampa Durante o Uso;
+Medindo: 17x13x28 Cm (lxaxp), Diametro do Prato 90 Mm; Alimentacao
+Bivolt 110/220; 50/60 Hz; Acompanha Manual Em Portugues. Minimo 12
+Meses de Garantia.assistencia Tecnica No Brasil;
+133 202- 501- Estufa de Laboratorios de Solos e Materiais Betuminosos; Estufa; de 1 R$ 4.861,82
+502 Laboratorios de Solos e Materiais Betuminosos; Secagem e Esterilizacao;
+Faixa de Trabalho de 50ºc a 200ºc; Sistema de Aquecimento Resistencia
+Tubular Blindada e Aletada; Gabinete Em Chapa de Aco Carbono,
+Tratamento Anticorrosivo e Pintura Eletrostatica, Cor Branca; Isolacao
+Termica Em La de Vidro; Camara Dupla, Que Proporciona a Circulacao de
+Ar Garantindo a Homogeneidade Da Temperatura; Camara Interna Em
+
+Aco Inox 430; Com 3 Prateleiras Em Aco Inox 430 Vazado; Porta Frontal,
+de Chapa de Aco Inox 430, Tratado Com Pintura Eletrostatica, Na Cor
+Branca; Circulacao de Ar Por Intermedio de Motor Ventuinha, Com
+Entrada e Saida de Ar; Sistema de Controle de Temperatura Digital
+Microprocessado, de 4 Digitos; Estabilidade e Precisao de +/-1,0ºc; Com
+Sensor Pt100; Medindo Aprox.:(l600xp600xa600)mm(150litros)interno, e
+(l1000xp800xa1500) Mm Externo; Alimentacao Eletrica 220 Volts, 50/60
+Hz, Potencia de No Minimo 2000wtts; Com Certificado de Calibracao Rbc;
+Porta Frontal: Com Isolamento Termico de La de Vidro; Guarnicao de
+Silicone; Puxador Injetado e Trinco; Dispositivo Automatico para Desligar a
+Circulacaode Ar Ao Abrir a Porta; Abertura Lateral Com Tampao
+Removivel C/ Diametrointerno Mendindo Aprox. 50 Mm; Com Garantia
+Minima de 12 Meses, a Partir Da Instalacao do Equipamento; Assistencia
+Tecnica Permanente No Brasil, Direto do Fabricante, Com Manual Em
+Portugues;
+134 202- 501- Martelete Perfurador Rompedor, Potencia 850w, 0-4000rpm; Martelete; 1 R$ 1.596,00
+502 Corpo Em Metal e Plastico; Perfurador Rompedor,sistema de Encaixe Sds
+Plus; Minima de 850 Wats, 0 - 4000rpm; Energia de Impacto 3,2 Joules;
+220 Volts; Aproximado de 2,8 Kg; Completo Com Todos Os Acessorios
+para Uso e Empunhadura Lateral; Manual Em Portugues e Certificado de
+Garantia Minima 12 Meses; Maleta para Transporte;
+135 202- 501- Argamassadeira, Alum.fund.e Aco, Capac.5l, 2 Velocidades, 220v-trifasico; 1 R$ 18.920,00
+502 Argamassadeira; Estrutura Em Aluminio Fundido; Cuba Em Aco Inoxidavel
+(removivel); Com Capacidade para 5 Litros; Pa Em Aco Inoxidavel
+(removivel); Motor Com 2 Velocidades; Tensao de Alimentacao 220v -
+Trifasico; Garantia Minima de 1 Ano; e Suas Condicoes Deverao Estar de
+Acordo Com a Nbr 7215;
+136 202- 501- Carro Transporte Manual Ferro, Assoalho Chapa de Aco, 1 R$ 1.590,00
+502 (1000x600x1000)mm; Carro de Transporte Manual; de Ferro, Com
+Assoalho Em Chapa de Aco; Zincagem Eletrostatica Ecologica Com
+Selante; para Transporte de Materiais Diversos, Multiuso; Tipo
+Plataforma; Aberto; Formato Retangular; Sem Bordas; Com Puxador de
+Deslocamento; Medindo No Minimo (1000 x 600 x 1000)mm; Capacidade
+Minima de 300 Kg; Com Rodas/ Rodizios. Dianteiro: Roda 6" Raiada;
+Traseiro: Roda 6" Raiada e Garfo Giratorio 6"; Total de 04 Rodas;
+137 202- 501- Equipamentos para Fins Didaticos, Esclerometro; Equipamentos para Fins 1 R$ 2.598,00
+502 Didaticos; Estimativa Nao Destrutiva Das Propriedades de Resistencia do
+Concreto, Asfalto, Argamassa e Rocha; para Praticas Laboratoriais;
+Esclerometro, Tipo L, Com Baixa Energia de Impacto (0,735nm),
+Independente do Angulo de Impacto; Maximo de 99 Impactos Por Serie,
+Com Display Grafico de 17x71 Pixels; Bateria Com Duracao Minima de
+5000 Impactos Entrerecargas, Classificacao Ip54; Medindo
+(55x55x250)mm, Peso de 570g; Com Carregador, Cabo, Dvd Com
+Software, Alca e Bolsa para Transporte; Pedra Esmeril e Documentacao;
+Garantia Mínima de 12 Meses;
+138 202- 501- Frasco de Chapman; Composto de Dois Bulbos Com Um Traco Que 2 R$ 439,66
+502 Corresponde a 200 Cm3; Gargalo Graduado; Na Capacidade de 450 Ml;
+Intervalo de Graduacao do Tubo de 375 Cm3 a 450 Cm3; Gravacao Com
+Graduacao Em Tinta Ceramica de Alta Durabilidade Na Cor Branca;
+Autoclavacao De: 121 Graus C; Alta Resistencia a Ataques Quimicos e a
+Esterilizacao; Dimensoes: Diametro: 70 Mm x Altura: 455 Mm;
+Obedecendo a Norma: Nbr 9776;
+139 202- 501- Frasco Le Chatelier Em Vidro Borossilicato Com Rolha de Vidro, 250ml; 2 R$ 360,00
+502 Frasco para Gravidade Especifica; Frasco Le Chatelier Em Vidro
+Borossilicato Com Rolha de Vidro; Capacidade 250ml; de Acordo Com Nbr
+Nm 23 Dner-me 085;
+140 202- 501- Pecas, Ferramentas, Acessorios para Fins Didaticos Penetrometro;Pecas, 2 R$ 11.574,00
+502 Ferramentas, Acessorios para Fins Didaticos; Penetrometro Portatil; para
+Medicao de Inicio de Pega Em Concreto; Escala de 0 a 700 Psi;
+141 202- 501- Termostato Digital de Controle, 10a, 220v; Termostato Digital de Controle; 2 R$ 149,26
+502 -50 a + 100 Digital Saida a Rele 10a /220v Potencia 2va Tensão 110/220v
+Med. 77x37x66mm Sensor Ntc;
+
+142 202- 501- Bequer de Vidro de 250ml, Com Bico, Graduado e Forma Baixa; Bequer de 5 R$ 77,85
+502 Vidro; de 250ml Com Bico e Graduado; Vidro Borossilicato Com
+Certificado do Fabricante; Forma Baixa; Incolor e Transparente; Altura
+Aproximada de 88mm; Diametro Externo Aproximado de 68,3mm;
+Espessura Da Parede Lateral de No Minimo 1,8mm; Espessura Da Parede
+do Fundo (base) de No Minimo 1,75mm; a Borda (orla) e o Bico Devem
+Ser Reforcados e Piropolidos (flambados); Peso Aproximado de 78,9
+Gramas; Escala de Graduacao de 50 a 200ml; Inscricoes de
+Capacidade/volume Nominal, Marca do Fabricante, Tipo de Vidro; Com
+Tarja Branca Fosca para Identificacao e Codigo do Produto (fabricante); As
+Inscricoes Devem Ser Permanentes e Legiveis, Resistente a Corrosivos e
+Abrasivos; o Produto Deve Ser Homogeneo Sem Impurezas Visiveis, Isento
+de Bolhas, Lascas Ou Trincas;
+143 202- 501- Bequer de Vidro de 500ml, Com Bico, Graduado e Forma Alta;Bequer de 5 R$ 88,20
+502 Vidro; de 500ml Com Bico e Graduado; Vidro Borossilicato Com
+Certificado do Fabricante; Forma Alta; Incolor e Transparente; Altura
+Aproximada de 136mm; Diametro Externo Aproximado de 71mm;
+Espessura Da Parede Lateral de No Minimo 1,8mm; Espessura Da Parede
+do Fundo (base) de No Minimo 2,25mm; a Borda (orla) e o Bico Devem
+Ser Reforcados e Piropolidos (flambados); Peso Aproximado de 138
+Gramas; Escala de Graduacao de 50 a 450ml; Inscricoes de
+Capacidade/volume Nominal, Marca do Fabricante, Tipo de Vidro; Com
+Tarja Branca Fosca para Identificacao e Codigo do Produto (fabricante); As
+Inscricoes Devem Ser Permanentes e Legiveis, Resistente a Corrosivos e
+Abrasivos; o Produto Deve Ser Homogeneo Sem Impurezas Visiveis, Isento
+de Bolhas, Lascas Ou Trincas;
+144 202- 501- Erlenmeyer de Vidro; de 1000 Ml, Graduado; Vidro Borossilicato Com 5 R$ 196,20
+502 Certificado do Fabricante; Boca Larga; Vidro Incolor e Transparente; Altura
+de 220 ±4,0 Mm; Diametro Maximo Externo de 128 ±3,0 Mm; Diametro
+Externo do Colo de 47 ±2,0 Mm; Espessura Minima Da Parede do
+Diametro Maximo Externo de 1,25 Mm; Espessura Minima Da Parede Da
+Base de 1,90 Mm; Reforco Da Borda (orla) de 3 ±1,0 Mm; Isento de
+Tampa; Peso Aproximado de 255 Gramas; Escala de Graduacao de 400,0 a
+1000,0 Ml; Inscricoes Conforme Nbr 10655/1989; Vidro Homogeneo, Sem
+Impurezas Visiveis, Isento de Bolhas, Lascas Ou Trincas; Estabilidade, Colo
+e Base Conforme Nbr 10655/1989;
+145 202- 501- Funil Analitico Em Vidro; Corpo Raiado, Diametro Da Boca de 100mm 5 R$ 170,00
+502 (aproximadente), Angulacao de 60°; Espessura Da Parede do Corpo de
+5,0mm (minimo); Haste Longa, Comprimento Aproximado de 150mm,
+Diametro Externo de 9,5mm (aproximadamente); Espessura Da Parede Da
+Haste de 1,4mm (minimo); Comprimento Total do Funil de 241mm
+(aproximadamente); Vidro Em Borossilicato Com Certificado do
+Fabricante; Vidro Incolor e Transparente; Com Aspecto Homogeneo,
+Isento de Bolhas, Dobras, Lascas Ou Trincas, Sem Impurezas Visiveis; Com
+a Borda do Corpo e a Saida Da Haste Piropolidas (flambadas);
+146 202- 501- Proveta de Vidro; Com Volume de 100 Ml; Classe A, Tc, Graduada, Com 5 R$ 157,00
+502 Bico e Base Hexagonal; Vidro Borossilicato Com Certificado do Fabricante;
+Incolor e Transparente; Com Bico Reforcado e Piropolido (flambado), Sem
+Tampa; Altura Aproximada de 250 Mm; Diametro Externo Aproximado de
+30 Mm; Base Hexagonal Em Vidro, Com o Diametro Aproximado de 70
+Mm; Espessura Da Parede do Corpo de No Minimo 1,40 Mm; Espessura
+Da Parede do Fundo de No Minimo 4,00 Mm; a Borda (orla), o Bico e a
+Base Hexagonal Devem Ser Reforcados e Piropolidos (flambados); Escala
+de Graduacao de 10,0 a 100,0 Ml, Com Intervalo Da Graduacao de 1,0 Ml;
+Inscricoes Devem Ser Permanentes e Legiveis; Deve Conter a Marca do
+Fabricante, Temperatura de Afericao, Letra a (classe de Precisao); Conter
+Tambem a Abreviatura Tc, Indica Que Foi Ajustada para Conter a Sua
+Capacidade, Simbolo Ml; o Produto Deve Ser Homogeneo, Sem Impurezas
+Visiveis, Isento de Bolhas, Lascas Ou Trincas; a Proveta Deve Permanecer
+Verticalmente Sem Balancar Ou Girar, Quando Colocada Em Superficie
+Plana; a Verticalidade do Cilindro Da Proveta Devera Formar Com Uma
+Superficie Horizontal, Um Angulo de 90°; Tolerancia Volumetrica
+
+Permitida de ±0,50 Ml; Distancia Limite do Final Da Graduacao Ate o Topo
+do Cilindro Entre 30,0 a 60,0 Mm;
+147 202- 501- Proveta de Vidro; Com Volume de 10 Ml; Classe A, Tc, Graduada, Com 5 R$ 125,00
+502 Bico e Base Hexagonal; Vidro Borossilicato Com Certificado do Fabricante;
+Incolor e Transparente; Com Bico Reforcado e Piropolido (flambado), Sem
+Tampa; Altura Aproximada de 135 Mm; Diametro Externo Aproximado de
+14 Mm; Base Hexagonal Em Vidro, Com o Diametro Aproximado de 44
+Mm; Espessura Da Parede do Corpo de No Minimo 1,15 Mm; Espessura
+Da Parede do Fundo de No Minimo 3,80 Mm; a Borda (orla), o Bico e a
+Base Hexagonal Devem Ser Reforcados e Piropolidos (flambados); Escala
+de Graduacao de 1,0 a 10,0 Ml, Com Intervalo Da Graduacao de 0,1 Ml;
+Inscricoes Devem Ser Permanentes e Legiveis; Deve Conter a Marca do
+Fabricante, Temperatura de Afericao, Letra a (classe de Precisao); Conter
+Tambem a Abreviatura Tc, Indica Que Foi Ajustada para Conter a Sua
+Capacidade, Simbolo Ml; o Produto Deve Ser Homogeneo, Sem Impurezas
+Visiveis, Isento de Bolhas, Lascas Ou Trincas; a Proveta Deve Permanecer
+Verticalmente Sem Balancar Ou Girar, Quando Colocada Em Superficie
+Plana; a Verticalidade do Cilindro Da Proveta Devera Formar Com Uma
+Superficie Horizontal, Um Angulo de 90º; Tolerancia Volumetrica
+Permitida de ±0,10 Ml; Distancia Limite do Final Da Graduacao Ate o Topo
+do Cilindro Entre 20,0 a 40,0 Mm;
+148 202- 501- Proveta de Vidro; Com Volume de 1000 Ml; Classe A, Tc, Graduada, Com 5 R$ 725,00
+502 Bico e Base Hexagonal; Vidro Borossilicato Com Certificado do Fabricante;
+Incolor e Transparente; Com Bico Reforcado e Piropolido (flambado), Sem
+Tampa; Altura Aproximada de 465 Mm; Diametro Externo Aproximado de
+65 Mm; Base Hexagonal Em Vidro, Com o Diametro Aproximado de 138
+Mm; Espessura Da Parede do Corpo de No Minimo 2,00 Mm; Espessura
+Da Parede do Fundo de No Minimo 4,00 Mm; a Borda (orla), o Bico e a
+Base Hexagonal Devem Ser Reforcados e Piropolidos (flambados); Escala
+de Graduacao de 100,0 a 1000,0 Ml, Com Intervalo Da Graduacao de 10,0
+Ml; Inscricoes Devem Ser Permanentes e Legiveis; Deve Conter a Marca
+do Fabricante, Temperatura de Afericao, Letra a (classe de Precisao);
+Conter Tambem a Abreviatura Tc, Indica Que Foi Ajustada para Conter a
+Sua Capacidade, Simbolo Ml; o Produto Deve Ser Homogeneo, Sem
+Impurezas Visiveis, Isento de Bolhas, Lascas Ou Trincas; a Proveta Deve
+Permanecer Verticalmente Sem Balancar Ou Girar, Quando Colocada Em
+Superficie Plana; a Verticalidade do Cilindro Da Proveta Devera Formar
+Com Uma Superficie Horizontal, Um Angulo de 90°; Tolerancia
+Volumetrica Permitida de ±3,0 Ml; Distancia Limite do Final Da Graduacao
+Ate o Topo do Cilindro Entre 50,0 a 100,0 Mm;
+149 202- 501- Proveta de Vidro; Com Volume de 500 Ml; Classe A, Tc, Graduada, Com 5 R$ 575,00
+502 Bico e Base Hexagonal; Vidro Borossilicato Com Certificado do Fabricante;
+Incolor e Transparente; Com Bico Reforcado e Piropolido (flambado), Sem
+Tampa; Altura Aproximada de 380 Mm; Diametro Externo Aproximado de
+50,5 Mm; Base Hexagonal Em Vidro, Com o Diametro Aproximado de 110
+Mm; Espessura Da Parede do Corpo de No Minimo 1,80 Mm; Espessura
+Da Parede do Fundo de No Minimo 4,30 Mm; a Borda (orla), o Bico e a
+Base Hexagonal Devem Ser Reforcados e Piropolidos (flambados); Escala
+de Graduacao de 50,0 a 500,0 Ml, Com Intervalo Da Graduacao de 5,0 Ml;
+Inscricoes Devem Ser Permanentes e Legiveis; Deve Conter a Marca do
+Fabricante, Temperatura de Afericao, Letra a (classe de Precisao); Conter
+Tambem a Abreviatura Tc, Indica Que Foi Ajustada para Conter a Sua
+Capacidade, Simbolo Ml; o Produto Deve Ser Homogeneo, Sem Impurezas
+Visiveis, Isento de Bolhas, Lascas Ou Trincas; a Proveta Deve Permanecer
+Verticalmente Sem Balancar Ou Girar, Quando Colocada Em Superficie
+Plana; a Verticalidade do Cilindro Da Proveta Devera Formar Com Uma
+Superficie Horizontal, Um Angulo de 90°; Tolerancia Volumetrica
+Permitida de ±2,00 Ml; Distancia Limite do Final Da Graduacao Ate o Topo
+do Cilindro Entre 50,0 a 100,0 Mm;
+150 202- 501- Aparelho de Vicat, com agulhas para inicio e fim de pega do cimento. 5 R$ 10.962,90
+502 Acompanha placa de vidro, sonda Tetmajer e e molde de 80x70x40mm.
+Conforme NBR NM 65, 43 NBR 12128, 11581, 11580, 10906.
+
+151 202- 501- Conjunto de Slump teste completo, Slump test (Forma Tronco Conica / 5 R$ 3.027,25
+502 Funil / Chapa de Base / Haste Socadora / Concha / Regua 30 cm)
+Conforme NBR 10342, 7223 NBR NM 67.
+152 202- 501- Forma para concreto. Conjunto de forma prismática para ensaios de 2 R$ 1.712,96
+502 tração na flexão, compressão e retração e expansibilidade em
+argamassas. Cada conjunto deve possibilitar a produção de 3 (três) corpos
+de prova simultâneos. Fabricada em aço cromado. Dimensões: 4x4x16 cm
+(tripla). Conforme normas EN 196 e ABNT NBR 13279. Deve ser estanque.
+Garantia mínima de 1 (um) ano.
+153 202- 501- Kit de serviços: Colher de Pedreiro 9"canto reto, pá metálica , Prumo de 5 R$ 595,00
+502 Parede Hobby 410g, Marreta Cabo e Cunha 0,500kg, Linha de Pedreiro
+Trançada 100% Polietileno 50m, Talhadeira 5/8 x 10 e Desempenadeira.
+154 202- 501- Formas em aluminio ou zinco para agregados. 10 R$ 789,90
+502
+155 202- 501- Betoneira; Em Aco; Capacidade do Tambor: 150 Litros; Producao Horaria 1 R$ 2.853,09
+502 Aproximada: 1,5m3; Capacidade de Mistura: 70 Litros; No
+Aproximadamente de Ciclos/hora: 13; Rotacao do Tambor: 34 Rpm; 4
+Polos; Dimensoes: 1208 x 675 x 1292mm(c x l x A); Tensao Monofasica:
+110/220v; Frequencia: 60hz; Transmissao Direta: Engrenagem de Nylon;
+Potencia do Motor: 0,33 Cv;
+156 202- 501- Paquimetro; Aco Inoxidavel Temperado de Alta Resistencia; Digital; Saida 10 R$ 29.804,40
+502 de Dados Pode Ser Integrado Ao Controle Estatist de Processo Ou C/ Sist
+de Controle de Medicao; Lcd; Mm e Polegadas; Resolucao:0,01 Mm e
+Exatidao de +/- 0.02; Capacidade: 0 Mm a 200 Mm; Profundidade Aprox.
+Externa 50 Mm e Interna 20mm; Funcionamento a Bateria; Sistema de
+Inducao Eletromagnetica Permite o Uso Em Condicoes de Chao de
+Fabrica.apos Ser Ligado; As Medicoes Podem Ser Iniciadas Sem
+Necessidade de Zeramento Caso a Origem Esteja Previamente Setada;
+Medicao Incremental: o Mostrador Pode Ser Zerado Em Qualquer Posicao
+para Medicoes Em Comparacao; Alerta de Bateria Fraca; Acondicionado
+Em Estojo;
+157 202- 501- Paquimetro; Em Aco Inoxidavel Temperado de Alta Resistencia, Faces de 10 R$ 21.099,00
+502 Medicao Temperadas e Lapidadas; Tipo Mecanico; Universal; Escala
+Graduada Em Milimetro e Polegada; 0.05mm x 1/128; Capacidade de
+Medicao De: 0-600mm; Profundidade Dos Bicos: Externo 90mm/interno
+47mm; Funcionamento Mecanico; Com Parafuso de Fixacao Dacorredica
+Localizado Na Parte Superior; Acompanha Certificado de Garantia e
+Manual de Instrucoes; Acondicionado Em Estojo;
+158 202- 501- Micrometro; Arco Esmaltado; Tambor e Bainha Com Acabamento Emaco 10 R$ 3.464,90
+502 Cromado; Externo; Leitura 0,01mm; Capacidade 0-25mm; Exatidao Mais
+Ou Menos 0,002; Tambor Com Diametro de 18mm; Fuso: Diametro
+6,5mm; Passo de Rosca de 0,5mm Com Trava; Faces de Medicao: Metal
+Duro, Micro-lapidadas; Forca de Medicao: 5-10 n (acima de 100 Mm: 5-15
+N); Acondicionado Em Embalagem Apropriada Que Garantaa Integridade
+do Material;
+159 202- 501- Pecas, Ferramentas, Acessorios para Fins Didaticos; Conjunto para 8 R$ 8.496,00
+502 Experimentos de Eletrostatica, Composto Por Eletroscopio de Ponteiro;
+Bastoes para Eletrizacao, Canudos Plasticos, Suportes de Metal;
+160 202- 501- Balanca; Tipo Digital Eletronica; Visor Com Display Lcd Iluminado; Com 1 R$ 1.762,25
+502 Capacidade para 6 a 15 Kg, Resolucao 0,1g; Homologada e Com Selo do
+Inmetro; Medindo Com Prato de Pesagen Em Aco Inox Medindo, No
+Minimo, 205mmx175mm; Bivolt 110/220; Acompanha Uma Bateria de
+Litio; C/garantia Min de 12 Meses; Assist. Tec. No Brasil; Nas Fiscalizacoes
+Externas de Produtos Pre Medidos; Acond.material Aprop. Que Garanta
+Int.produto;
+161 202- 501- Medidor de Ph para Sol Aquosas de 0 a 14 Un Ph Calibracao 3 Pts Config 5 R$ 5.935,15
+502 Medidor de Ph; Portatil; para Amostras de Solucoes Aquosas; Medindo Ph
+Com Faixa de Escala de 0.00 Ate 14.00 Unidade de Ph; Medindo Potencial
+Na Escala de +- 2000mv; Apresentando Medida de Temperatura Na Faixa
+de Medicao Aproximandamente -5 a +50 Graus Celsius; Com Calibracao
+de Ate 3 Pontos Configuraveis; Com Mostrador Tipo Display de Lcd Digital;
+
+Dimensoes: 4 Baterias de 1.5v E/ou Cabo de Alimentacao; Inclui: Garantia.
+Assistencia Tecnica No Brasil;
+162 202- 501- Tubo de Ensaio; Em Vidro Neutro; Sem Orla; Termo Resistente; Com 40 R$ 29,20
+502 Fundo Redondo; Na Dimensao de 13 x 100mm; Uso Laboratorial;
+Acondicionado Em Embalagem Apropriada para o Produto - Rotulo Com
+Nr. de Lote, Data de Fabricacao e Procedencia;
+163 202- 501- Agitador Magnetico Conjunto Constituido de 6 Agitadores Magneticos 5 R$ 32.815,00
+502 Agitador Magnetico; Fabricado Em Aco e a Pintura Externa Em Epoxi;
+Agitacao Ate Seis Litros de Agua Em Cada Agitador, Conjunto Constituido
+de 6 Agitadores Magneticos; Velocidade de Agitacao de 100 a 1800 Rpm
+Com Lampada Piloto; Plataforma Com Diametro Da Placa de 14 Cm;
+Motor de Tensao 115 Ou 230 Volts - 50 a 60hz; Resistencia Com Potencia
+de 180 W; Dimensoes: 101 x 22 x 10cm; Alimentacao: 115v Ou 230v - 50-
+60hz; Inclui: 6 Barras Magneticas 9x25mm - 6 Pincas Individuais- 8 Mufas -
+2 Colunas e 1 Suporte Horizontal; Inclui: Manual Tecnico; Garantia Minima
+de 12 Meses. Assistencia Tecnica Permanente No Brasil;
+164 202- 501- Barra Magnetica Revestida de Teflon 10 Mm x 3, 0 Mm Materiais 20 R$ 413,60
+502 Auxiliares Polimericos; Barra Magnetica Revestida de Teflon Medindo 10
+Mmde Comprimento x 3,0 Mm de Diâmetro; Com Superficie Lisa e
+Arredondada;
+165 202- 501- Balanca Semianalitica, Com Software de Calibracao, 300 a 320 Gramas 1 R$ 11.767,87
+502 Balanca de Precisao; Semianalitica, Com Software de Calibracao
+Automatica; Utilizado para Realizacao de Pesagens Rapidas e Precisas de
+Preparos Laboratoriais; Gabinete Construida Em Polimero Ou Aluminio de
+Alta Resistencia Quimica e Mecanica; Capacidade de Pesagem Entre 0,2 a
+300 Ou 320 G; Pesagem Em Grama, Resolucao 0,001g, Tara Subtrativa Em
+Toda a Escala, Peso Minimo 0,02 G; Visor Com Display Digital de Cristal
+Liquido C/ 8 Digitos de 7 Segmentos e Indicador de Estabilidade; Modulo
+de Comando Display Com Tela Sensivel a Toque e Interacao Grafica para
+Ligar/desligar, Zerar e Tarar; Linearidade: 0,002 G; Repetibilidade 0,001 G;
+Tempo de Estabilidade: Ate 3 Segundos; Ajuste Automatico Com Peso
+Interno Motorizado; Temperatura de Operacao Ajuste Automatico
+Quando Da Variacao Da Temperatura Ou Por Tempo; Interface Mini Usb
+Ou Serial Rs232, Configuravel para Conexao Com Pc e Dados Direta para
+Impressora; Voltagem: 100 - 240 v 50/60 Hz; Dimensoes Largura Maxima
+380 Mm, Profundidade Maxima 230 Mme Altura Maxima Com Capela 350
+Mm; Com Certificado de Calibracao Rbc; Equipamento Comhomologacao
+do Inmetro; Transferência de Dados Direta para Planilhas Excel Ou Texto,
+e Dados Sbi e Xbpi; Modelo Aprovado Pelo Inmetro Conforme Portaria
+Inmetro/dimel 184/2015; Nivel Tipo Bolha Posicionado Na Frente Da
+Balancapara Facilitar Seu Nivelamento; Idiomas: Portugues, Ingles,
+Alemao, Frances, Espanhol e Italiano; Programas Com Aplicacoes Em
+Laboratorio; Funcoes: Pesagem, Densidade, Porcentagem, Controle de
+Peso, Peso Maximo, Contagem e Pesagem; Prato Em Aco Inox Com 120 a
+150 Mm Com Capela Em Vidro Antiestatica Altura Util Minimo de 200
+Mm; Incluso Manual de Operacao Em Lingua Portuguesa; Assistencia
+Tecnica No Brasil; Garantia Minima de 12 Meses;
+166 202- 501- Espatula de Metal e Titanio, Dupla C/ 1 Ponta Ward, Autoclavavel Espatula 20 R$ 764,40
+502 para Odontologia; de Metal e Ponta Em Titanio, Anti Aderente, Dupla Com
+1 Ponta Ward; para Manipulacao de Resina Composta, Autoclavavel;
+Embalada Individualmente; Constando Externamente Marca Comercial e
+Procedencia de Fabricacao;
+167 202- 501- Proveta de Vidro 100 Ml Proveta de Vidro; Proveta de 100 Ml; Que 20 R$ 313,00
+502 Atenda a Portaria Inmetro 91 de 19/02/2021; Vidro Fabricada Em Vidro de
+Borossilicato Transparente, Boca Esmerilhada Em Ângulo Reto Com o
+Eixo; Graduada Em Subdivisões de 1 Ml Marcadas Na Cor Branca; Ter
+Estabilidade Quando Colocadas Em Superfície Plana, Não Apresentar
+Defeitos Visíveis E; Tensões Internas Que Possam Prejudicar o Seu
+Desempenho; a Tampa Esmerilhada Com Junta 24/29 e a Base Hexagonal
+Da Proveta Também Devem Ser; Fabricadas Em Vidro de Borossilicato. Os
+Traços Da Graduação Devem Ser Nítidos, Permanentes; Escala de
+Graduacao de Espessura Uniforme, Perpendiculares Ao Eixo e Seguir a
+
+Especif.: Linhas Longas a Cada Dez Linhas; Inscricoes Uma Linha Média a
+Meia Distância Entre Duas Linhas Longas Consecutivas e Quatro Linhas
+Curtas; Entre Linhas Longas e Médias Consecutivas. a Proveta Deve Ser
+Calibrada Nos Pontos 50 Ml, 60 Ml; 62 Ml e 100 Ml, Possuir Erro Máximo
+Admissível De±0,20 Ml; Desvio Padrão Das Diferenças Menor Ou Igual a
+0,15 Ml; Apresentar As Seguintes Inscrições: Nome Ou Marcado
+Fabricante, Nº de Série de Fabricação Unívoco E; Ano de Fabricação, o
+Símbolo Cm3 Ou Ml; País de Origem, Além de Indicações Que Satisfaçam
+a Temperatura Ambiente; de (20 ± 2) °c e Umidade Relativa de (50 ± 10)
+%;
+168 202- 501- Bequer de Vidro Forma Baixa 100 Ml Graduado Parede 2,5 Mm Bequer de 20 R$ 130,00
+502 Vidro Forma Baixa; Graduado; Em Vidro Borossilicato Termorresistente;
+Forma Baixa; Capacidade: 100 Ml; Incolor, Transparente; Aspecto
+Homogeneo; Paredes Uniformes, Isento de Impurezas, Bolhas, Lascas,
+Trincas Ou Dobras; Dimensoes Aproximadas: Diametro Externo de 50
+Mm, Altura de 61 Mm; Espessura: 2,5 Mm; Escala de Graduacao: 20/80
+Ml, Intervalo de Graduacao: 10 Ml; Marca Impressa Na Vidraria, Com
+Certificado de Procedencia; Acondicionado Em Material Apropriado Que
+Garanta a Integridade do Produto;
+169 202- 501- Bico de Bunsen, Com Regulagem de Ar e Gas, Medida Aprox. 15 x 1 Cm 8 R$ 767,12
+502 Materiais Auxiliares; Bico de Bunsen; Com Base Pesada Em Ferro; Entrada
+para Alimentacao a Gas; Regulador de Entrada de Ar e Controlador de
+Chama(registro para Gas); Dimensao Aproximada de 15 x 1 Cm; Rotulo
+Com Numero de Lote, Data de Fabricacao e Procedencia. Conforme
+Legislacao Vigente; Acondicionado Em Embalagem Reforcada e
+Apropriadaque Garanta a Integridade do Produto;
+170 202- 501- Insumos Uso Laboratorial Bequer Forma Baixa 150 Ml; Insumos Uso 20 R$ 141,60
+502 Laboratorial; Bequer; Forma Baixa; Capacidade 150 Ml; Em Polipropileno;
+Graduado; Gravacao Permanente; Parede de Espessura Uniforme;
+Acondicionado Em Embalagem Reforcada e Apropriada; Que Garanta a
+Integridade do Produto; Rotulo Contendo Numero de Lote; Data de
+Fabricacao/validade/prazo; Procedencia;
+171 202- 501- Chapa de Cobre, (1200x600)mm, 3, 17mm; Chapa de Cobre; Medindo 15 R$ 2.998,35
+502 (1200x600)mm; Com Espessura de 3,17mm, Peso Aproximado Por Chapa
+de 20,6kg; Chapa Plana, Acabamento Liso; Cobre Eletrolitico Conforme
+Norma Astm C11000;
+172 202- 501- Telas de amianto para Bico de Bunsen 8 R$ 247,20
+502
+173 202- 501- Pano de Limpeza; Composto de 100% Algodao, Absorvente; Medindo 10 R$ 28,90
+502 (30x50)cm, Tipo Alvejado; Com Variacao de +/- 5% Nas Medidas;
+Acabamento Das Bordas Tipo Zig-zag; Na Cor Branca; Acondicionado Em
+Embalagem Apropriada; Complemento Gramatura 160 G/m2 Com
+Tolerancia de +/- 5%;
+174 202- 501- Fio de Cobre Esmaltado; Flexivel; Sem Capa Isolante; Com Diametro de 5 R$ 537,00
+502 0,5mm; Bitola 24 Awg; Classe Termica: 180 °c; Medidas Aprox.: Diam.
+Externo de 200mm, Diam. Interno de 125mme Altura de 200mm;
+Acondicionado Em Carretel Cilindrico; Conforme Nbr Vigentes;
+175 202- 501- Alicate Amperímetro. 4 R$ 1.119,92
+502
+Total geral R$
+4.235.905,46
+
+Anexo 2 – Lista de Ações/Projetos referentes à CPA
+Item Projeto Denominação Prazo
+(XYY) (O que será feito)
+01 101 Aumentar a demanda do uso da Biblioteca/ Biblioteca Ativa da unidade, 20/12/2025
+bem como criar métricas para avaliação da contribuição da biblioteca para
+o desenvolvimento discente
+02 102 Continuar o que já foi iniciado com a Visitação em empresas, com o 20/12/2025
+objetivo de manter os resultados positivos já alcançados
+03 103 Aumentar a Participação de Eventos entre Fatecs 20/12/2025
+04 202 Implantação dos Laboratórios dos cursos, promovendo aulas práticas 20/12/2025
+05 303 Monitoria de Iniciação Científica 20/12/2025
+06 304 Desenvolvimento de projeto de extensão para a comunidade 20/12/2025
+07 306 Estudo, pesquisa e extensão - SIMET & NEPA 20/12/2025
+08 307 Pesquisa sobre Visão Computacional 20/12/2025
+09 501 Aumento do Acesso a rede Wi‐Fi e Internet, principalmente para o perfil 20/12/2025
+discente
+10 502 Criação, configuração e adequação dos laboratórios dos cursos 20/12/2025
+11 601 Capacitação dos coordenadores, administrativo e docentes em 20/12/2025
+ferramentas/softwares/ambientes que permitam execução de suas
+atividades profissionais
+12 602 Desenvolver ações proposta pela C.P. A 20/12/2025
+13 nnn nn dd/mm/aaaa
+14 nnn nn dd/mm/aaaa
+15 nnn nn dd/mm/aaaa
+16 nnn nn dd/mm/aaaa
+17 nnn nn dd/mm/aaaa
+18 nnn nn dd/mm/aaaa
+19 nnn nn dd/mm/aaaa
+20 nnn nn dd/mm/aaaa
+<fim>
+
+RAF – Relatório de Assistência à Fatec
+Assunto: RAF – Assistência ao PGA/2024 (Plano de Gestão Anual)
+Atribuição: DGE-0-06: Assistir às Fatecs na elaboração, na avaliação e no acompanhamento da execução dos
+planos de gestão
+Data: de 23/04/2024 Origem: Cesu – Gestão Educacional
+a 08/05/2024 cesu.gestaoeducacional@cps.sp.gov.br
+Referência: Assistência à elaboração e operacionalização do Plano de Gestão Anual (PGA)
+Fatec 301
+Unidade de Ensino –
+Interessados: Cesu e Fatec (emitente do PGA)
+Elementos preparatórios para Assistência:
+1- PGA+Parecer da Unidade de Ensino.
+2- Lista de Ajustes Recomendados ao PGA – Principais pontos (Modelo DGE/Cesu) – ANEXO 1.
+3- Lista de Disciplinas com aulas práticas (CST/Disciplina/Professor) – Fonte: SIGA – ANEXO 2.
+4- Lista de Ambientes de ensino e laboratórios da Unidade de Ensino – Fonte: Avis Sabiá / PDI – ANEXO 3.
+5- Email de agendamento da visita com roteiro de atividades (Modelo DGE/Cesu).
+6- Lista de presença às atividades de assistência (Modelo DGE/Cesu).
+7- Lista de Revisão Complementar (elaborada à ocasião da visita) – ANEXO 4
+Apontamentos sobre o conteúdo do Plano de Gestão Anual (PGA)
+Ajustes do Plano de Gestão Anual Status Síntese da atividade
+1 Ações/Projetos de Melhorias do PGA
+0) Revisão da folha de rosto (Cenário/ Situações Inalterado xx
+problema/ Objetivos/ Metas)
+1) Ajustes de projetos do Eixo 1 Revisado xx
+Didático Pedagógico
+2) Ajustes de projetos do Eixo 2 Inalterado xx
+Ensino e Equipamentos Associados (Laboratórios)
+3) Ajustes de projetos do Eixo 3 Inalterado xx
+Pesquisa/Extensão e Equipamentos Associados
+4) Ajustes de projetos do Eixo 4 Inalterado xx
+Atividades Formativas em Projetos
+5) Ajustes de projetos do Eixo 5 Inalterado xx
+Infraestrutura
+6) Ajustes de projetos do Eixo 6 Inalterado xx
+Desenvolvimento de pessoas
+7) Ajustes de projetos do Eixo 7 Inalterado xx
+Convênios e Parcerias Institucionais
+2 Questões suplementares ao PGA
+1) Inserção do campo de GRD (Gerenciamento da Inalterado xx
+Rotina Diária)
+2) Inserção da lista de equipamentos a serem Revisado Inserção de lista atualizada CST Controle de
+adquiridos. Obras, CST DSM e Curso novo CST Ciências
+de Dados para Negócios
+3) Inserção de projetos de Inclusão Inalterado xx
+4) Inserção de projetos de Sustentabilidade Inalterado xx
+5) Inserção de projetos de pesquisa tecnológica Inalterado xx
+associada ao ensino
+6) Análise do Engajamento da comunidade Realizada xx
+acadêmica (percentual de professores e servidores
+em Ações/Projetos)
+3 Análise conjunta das condições da unidade
+1) Verificação das condições de ensino nos Requer melhorias para Os laboratórios CST Controle de Obras não
+ambientes pedagógicos e laboratórios, associado pleno uso foram instalados por falta de compra UGAF,
+aos Planos de Ensino das disciplinas. CST DSM ainda possuem defasagem pelo
+
+mesmo motivo e CST Ciências de Dados para
+Negócios pelo mesmo motivo.
+2) Verificação da Organização dos Laboratórios, Plena organização e Os laboratórios existentes estão muito
+considerando responsabilidade, controle da gestão laboratorial organizados
+usabilidade pedagógica (PA-Prática de Aula
+registrada, horários de uso), manutenabilidade
+(limpeza, conservação), segurança, e plano de uso
+para ensino e pesquisa.
+3) Verificação da quantidade de alunos que requer Identificado quantitativo 03 alunos
+inclusão, e respectivas deficiências/transtornos de alunos com
+deficiência/transtorno
+4) Verificação das condições de inclusão Possui elementos de xx
+(acessibilidade) dos ambientes (salas de aula, áreas acessibilidade em todos
+comuns, laboratórios) ambientes
+5) Verificação dos recursos de inclusão para Não possui recursos Os alunos não necessitam de recursos.
+desenvolvimento do aluno com deficiência ou específicos de inclusão
+transtorno. para alunos matriculados
+Consolidação numérica do PGA 2024 da UE - Revisão
+Quantidade de Ações/Projetos constantes no PGA: (apenas número)
+01 no eixo (1) Didático Pedagógico 06
+02 no eixo (2) Ensino e Equipamentos Associados (Laboratórios) 04
+03 no eixo (3) Pesquisa/Extensão e Equipamentos Associados 04
+04 no eixo (4) Atividades Formativas em Projetos 04
+05 no eixo (5) Infraestrutura 03
+06 no eixo (6) Desenvolvimento de pessoas 02
+07 no eixo (7) Convênios e Parcerias Institucionais 01
+08 total no PGA da UE (Somatória – Apenas clicar o botão direito do mouse – Atualizar Campo!) 24
+09 com uso de bolsas de Monitoria 03
+10 com uso de bolsas de Monitoria para Pesquisa (MIDIT) 06
+11 para a Inclusão de alunos com deficiência e transtornos 00
+12 para a Sustentabilidade da UE 01
+Carga horária (horas por semana)
+13 total de HA 162
+14 total de HAE 27
+15 total de HP 00
+16 total de H 00
+17 total geral da carga horária (Somatória – Apenas clicar o botão direito do mouse – Atualizar Campo!) 189
+18 Total de Ações/Projetos incluídos e revisados na visita de Assistência à Fatec 24
+Termo Final de Revisão
+As atividades de referentes à execução do Plano de Gestão Anual/2024 da Fatec 301 foram consolidadas de forma
+plena para o momento.
+Observações/Recomendações adicionais: Entrega PGA 2024 revisado até 13/05/2024 e-mail:
+juliana.oliveira@cps.sp.gov.br
+Atualizações: Projeto 106 – cat 1.06 – Núcelo de empregabilidade, empreendedorismo e inovação.
+Inserir PCI – CST CO, Inserir projeto “Conversa com Profissionais”, inserir projetos HAES todos. .
+
+Relator DGE/Cesu: prof(a) Juliana T Oliveira / GPR R07 e R11
+
+ANEXO 1 – Lista de Ajustes Recomendados (e/ou Verificação do Parecer PGA)
+Folha de rosto do PGA:
+Análise do cenário:
+De acordo
+Situações problema:
+De acordo
+Objetivos:
+De acordo
+Metas:
+De acordo
+Principais tipos de ajustes para os projetos (ajustes recorrentes):
+AÇÃO/PROJETO xx
+O que será feito: xx
+Por que será feito: xx
+Responsável(is) / CH xx
+sem:
+Período de execução: xx
+Etapas do processo: xx
+Custo (se houver): xx
+Fonte(s) dos recursos: xx
+Objetivo(s) xx
+relacionado(s):
+Meta(s) relacionada(s): xx
+Orientações, referenciais e exemplos:
+Atenção: Re-codificação das Ações/Projetos da forma: X Y Y
+X para o eixo (1, 2, 3, ...) da Ação/Projeto
+Y para sequencial (01, 02, 03, ...) quantitativo
+AÇÃO/PROJETO
+Exemplos:
+• Os projetos do eixo 1 (Didático Pedagógico) serão 101, 102, 103, ...
+• Os projetos do eixo 5 (Infraestrutura) serão 501, 502, 503, ...
+O que será feito: Indicação da atividade principal da ação sem detalhamentos ou etapas.
+Por que será feito: Motivação estratégica do CPS e tática da Unidade de Ensino.
+Especificação da pessoa responsável e dos colaboradores, com respectiva carga horária
+semanal de dedicação específica à Ação/Projeto na forma:
+• HA - Hora Atividade (inerente à docência nas disciplinas do curso)
+• HAE - Hora Atividade Específica
+Responsável(is) / CH • HP - Hora de Projeto com empresa ou órgão de fomento
+sem: • H - Hora estimada mas ainda não tipificada nos casos anteriores.
+Importante !!: O lançamento da carga horária semanal presta-se ao melhor controle dos
+recursos disponíveis, no caso, da mão-de-obra. O excesso de ações poderá demonstrar falta
+ou inadequação de recursos para efetivo sucesso no seu cumprimento.
+Indicação com exatidão do dia (dd), mês (mm) e ano (aaaa) – dd/mm/aaaa.
+Período de execução:
+Isso valerá para as datas de início e fim das etapas do campo a seguir.
+Etapas são trabalhos cabíveis à própria Unidade de Ensino (não atribuir etapas a outras
+instâncias do CPS, nem a outros órgãos, instituições ou empresas).
+Exemplos de etapas:
+Etapas do processo:
+Análise de ...
+Apresentação de ...
+Consolidação dos ...
+
+Desenvolvimento das atividades de ...
+Designação das equipes ...
+Elaboração do ...
+Encaminhamento da ...
+Identificação dos ...
+Revisão de ...
+Exemplos especiais: "Elaboração do projeto", e "Elaboração de procedimentos de uso",
+com datas específicas para todas as sub-etapas (dia, mês e ano).
+Importante: em princípio não caberá à UIE efetuar um determinado projeto, mas sim
+orientações técnicas mediante proposta (ante-projeto) já elaborada pela Unidade.
+O lançamento do valor orçado/estimado deverá ser em reais (R$).
+Custo (se houver): Importante: sempre haverá um determinado custo da ação/projeto, e caso não seja
+identificado dever-se-á manter o campo em branco.
+Especificação da fonte como DMPP, DL, ou Licitação quando se referir a recurso do CPS (e
+não escrever CPS). Quando se tratar de apoio externo, especificar o órgão de fomento
+com projeto de pesquisa (CNPq, FAPEPS, FINEP), empresa parceria em projeto
+formalmente conveniado, ou doação (Emenda Parlamentar, Empresa, outro).
+Fonte(s) dos recursos: Importante 1: quando se tratar de empresa, ou órgão de fomento, caberá uma
+Ação/Projeto específico pois envolverá documentação formal e legal para tanto (Termo
+de Convênio e Contrato).
+Importante 2: o lançamento deverá ser somente da efetiva fonte de recursos, ou seja,
+não se deve lançar fontes que seja apenas meras possibilidades ou alternativas. Caso
+ainda não se tenha a efetiva fonte de recursos, deve-se deixar o campo em branco.
+Objetivo(s) Pré lançados na “Folha de rosto” do PGA. Não se trata de “novos” objetivos.
+relacionado(s):
+Meta(s) relacionada(s): Pré lançadas na “Folha de rosto” do PGA. Não se trata de “novas” metas.
+Projetos especiais - Temas:
+Estacionamento, piso tátil, rampa, corrimão, aviso sonoro de elevador, placa em Braile
+Inclusão
+(identificação de ambientes), sanitário PCD, bebedouro PCD, tecnologia assistiva, metodologia
+pedagógica inclusiva, material didático inclusivo, avaliação inclusiva, assistência profissional.
+Produção ou uso de energia renovável, reuso de água, redução de emissão de gases de efeito
+Sustentabilidade estufa, reciclagem de resíduos, conteúdo ou prática de aula, publicação, evento, projeto
+comunitário, infraestrutura de mobilidade para baixa emissão de gases.
+Inovação Projetos de pesquisa e desenvolvimento tecnológico de acordo com os regramentos da ICT CPS.
+
+ANEXO 2 – Lista de Disciplinas com Aulas Práticas
+CST em xx
+Disciplina Classe Aulas Laboratório
+(3, 4 ou 5) Práticas
+(h)
+Escolher um item. xx xx
+xx Escolher um item. xx xx
+xx Escolher um item. xx xx
+xx Escolher um item. xx xx
+xx Escolher um item. xx xx
+xx Escolher um item. xx xx
+xx Escolher um item. xx xx
+xx Escolher um item. xx xx
+xx Escolher um item. xx xx
+xx Escolher um item. xx xx
+CST em xx
+Disciplina Classe Aulas Laboratório
+(3, 4 ou 5) Práticas
+(h)
+xx Escolher um item. xx xx
+xx Escolher um item. xx xx
+xx Escolher um item. xx xx
+xx Escolher um item. xx xx
+xx Escolher um item. xx xx
+xx Escolher um item. xx xx
+xx Escolher um item. xx xx
+xx Escolher um item. xx xx
+xx Escolher um item. xx xx
+xx Escolher um item. xx xx
+CST em xx
+Disciplina Classe Aulas Laboratório
+(3, 4 ou 5) Práticas
+(h)
+xx Escolher um item. xx xx
+xx Escolher um item. xx xx
+xx Escolher um item. xx xx
+xx Escolher um item. xx xx
+xx Escolher um item. xx xx
+xx Escolher um item. xx xx
+xx Escolher um item. xx xx
+xx Escolher um item. xx xx
+xx Escolher um item. xx xx
+xx Escolher um item. xx xx
+
+CST em xx
+Disciplina Classe Aulas Laboratório
+(3, 4 ou 5) Práticas
+(h)
+xx Escolher um item. xx xx
+xx Escolher um item. xx xx
+xx Escolher um item. xx xx
+xx Escolher um item. xx xx
+xx Escolher um item. xx xx
+xx Escolher um item. xx xx
+xx Escolher um item. xx xx
+xx Escolher um item. xx xx
+xx Escolher um item. xx xx
+xx Escolher um item. xx xx
+CST em xx
+Disciplina Classe Aulas Laboratório
+(3, 4 ou 5) Práticas
+(h)
+xx Escolher um item. xx xx
+xx Escolher um item. xx xx
+xx Escolher um item. xx xx
+xx Escolher um item. xx xx
+xx Escolher um item. xx xx
+xx Escolher um item. xx xx
+xx Escolher um item. xx xx
+xx Escolher um item. xx xx
+xx Escolher um item. xx xx
+xx Escolher um item. xx xx
+CST em xx
+Disciplina Classe Aulas Laboratório
+(3, 4 ou 5) Práticas
+(h)
+xx Escolher um item. xx xx
+xx Escolher um item. xx xx
+xx Escolher um item. xx xx
+xx Escolher um item. xx xx
+xx Escolher um item. xx xx
+xx Escolher um item. xx xx
+xx Escolher um item. xx xx
+xx Escolher um item. xx xx
+xx Escolher um item. xx xx
+xx Escolher um item. xx xx
+
+CST em DSM
+Disciplina Classe Aulas Laboratório
+(3, 4 ou 5) Práticas
+(h)
+Algoritmos e Lógica de Programação 4 4 4
+Desenvolvimento Web I 4 4 4
+Design Digital 4 4 4
+Engenharia de Software I 4 4 2
+Modelagem de Banco de Dados 4 4 4
+Sistemas Operacionais e Redes de Comp. 4 4 4
+Técnicas de Programação I 4 4 4
+Desenvolvimento Web II 4 4 4
+Matemática para computação 3 4 2
+Engenharia de Software II 4 4 2
+Banco de Dados – Relacional 4 4 4
+Estrutura de Dados 4 4 4
+Técnicas de Programação II 4 4 4
+Desenvolvimento Web III 4 4 4
+Gestão Ágil de Projetos de Software 4 4 4
+Banco de Dados - Não Relacional 4 4 4
+Interação Humano Computador 4 2 2
+Integração e Entrega Contínua 4 4 4
+Laboratório de Desenvolvimento Web 4 4 4
+Internet das Coisas e Aplicações 4 4 4
+Programação para Dispositivos Móveis I 4 4 4
+Estatística Aplicada 4 2 2
+Experiência do Usuário 4 2 2
+Computação em Nuvem I 4 4 4
+Aprendizagem de Máquina 4 4 4
+Lab. de Des. para Dispositivos Móveis 4 4 4
+Programação para Dispositivos Móveis II 4 4 4
+Segurança no Des. de Aplicações 4 4 4
+Computação em Nuvem II 4 4 4
+Processamento de Linguagem Natural 4 4 4
+Laboratório de Des. Multiplataforma 4 4 4
+Mineração de Dados 4 4 4
+Qualidade e Testes de Software 4 4 4
+Ética Profissional e Patente 3 2 2
+Álgebra Linear 3 4 2
+Fundamentos da Redação técnica 3 2 2
+CST em CONTROLE DE OBRAS
+Disciplina Classe Aulas Laboratório
+(3, 4 ou 5) Práticas
+(h)
+Mecânica Clássica 5 40 Laboratório de Física x
+Eletricidade Aplicada 5 40 Laboratório de Física
+Introdução à Ensaios e Controle 5 40 Laboratório de Física
+Tecnológico
+Química Aplicada à Construção Civill 5 40 Laboratório de Química
+
+Desenho Técnico Aplicado à Construção Civil I 5 40 Laboratório de Desenho I
+Desenho Técnico Aplicado à Construção Civil II 4 40 Laboratório de Desenho IIx
+Topografia 5 40 Laboratório de Solos
+Eletrotécnica Aplicada 4 40 Laboratório de Física
+Mecânica dos Solos e Fundações 5 40 Laboratório de Solos
+Materiais de Construção Civil II 5 xx Lab. de Materiais de Construção
+Hidrologia e Hidráulica Aplicada 4 20 Laboratório de Hidráulica
+Fundamentos de Georreferenciamento 4 20 Laboratório de Informática
+Aplicado
+Obras de Terra 4 20 Laboratório de Solos
+Instalações Hidráulicas e Sanitárias 4 20 Laboratório de Hidráulica
+Materiais de Construção Civil 5 40 Lab. de Materiais de Construção
+Estradas 5 40 Laboratório de Pavimentação
+ANEXO 3 – Lista de Ambientes de Ensino e Laboratórios
+Infraestrutura – Inovação Tecnológica / Parcerias com o Ecossistema
+Tecnológico
+Embora esteja contido no Projeto Básico – Planta de Proposta de Layout elaborado
+pela UIE – Unidade de Infraestrutura os laboratórios abaixo:
+- 12 laboratório de informática;
+- 12 salas de aulas;
+- 2 laboratórios de desenho;
+- 1 laboratório de rede de computadores;
+- 1 laboratório MAC;
+- 1 laboratório de ensaios;
+• 1 sala Maker;
+• 1 Laboratório de Pavimentação;
+• 1 laboratório de Materiais;
+• 1 laboratório de Instalações Elétricas e Hidráulicas;
+
+Administração Central - Unidade do Ensino Superior de Graduação- Cesu
+• 1 laboratório de Solos e Topografia;
+• 1 Laboratório de Química/Física;
+• 1 Laboratório de Calibração de Máquinas e equipamentos;
+Até o presente momento (1º Sem. de 2023) existem apenas dois laboratórios
+de informáticaimplantados. Espera-se que os demais laboratórios sejam implantados nos
+próximos semestres.
+Espaços físicos e ambientes de ensino – Detalhamento dos Recursos Disponíveis e
+Operacionais
+Tipo do laboratório ou ambiente CSTs que utilizam o ambiente Localização
+Laboratório de Informática Básica Controle de Obras e Desenvolvimento Na unidade
+de Software Multiplataforma
+Detalhamento
+Laboratório multidisciplina de Informática Básica
+Recurso Quantidade
+Notebooks 82
+TV 65 polegadas 2
+Roteador 2
+Aparelho de ar-condicionado 2
+10
+
+Administração Central - Unidade do Ensino Superior de Graduação- Cesu
+ANEXO 4 – LRC – Lista de Revisão Complementar
+Eixo Código da Ação/Projeto
+(1) Didático Pedagógico xx
+(2) Ensino e Equipamentos Associados xx
+(Laboratórios)
+(3) Pesquisa/Extensão e Equipamentos xx
+Associados
+(4) Atividades Formativas em Projetos xx
+(5) Infraestrutura xx
+(6) Desenvolvimento de pessoas xx
+(7) Convênios e Parcerias Institucionais xx
+11
+
+Administração Central - Unidade do Ensino Superior de Graduação- Cesu
+(Anexar Lista de Presença – colar figura ou mesclar em PDF)
+<fim>
+12
+

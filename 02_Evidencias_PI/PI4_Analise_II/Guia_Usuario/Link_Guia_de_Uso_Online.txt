@@ -1,0 +1,11 @@
+Guia de Uso – Análise de Ocorrências de Violência Contra a Mulher (Sorocaba e Votorantim)
+Versão online, publicada no Canva My Site: https://manual-analise-de-ocorrencias.my.canva.site/
+
+O site apresenta o mesmo guia de uso do dashboard do PI IV que está neste diretório em PDF
+(objetivo, funcionamento, atualização dos dados pelo pipeline ETL, acesso, estrutura do painel,
+filtros, possibilidades de análise e boas práticas). O próprio guia em Word/PDF informa:
+"O Guia de Uso também está disponível online através da URL".
+Desenvolvido por: Débora Kocks Nogueira, Giovana Perugini Guenka, Stefanie Mayumi Inacio Kobayashi
+e Vitória Lisauskaz Ferraz da Silva.
+Captura de tela: Canva_My_Site_Guia_de_Uso_PI4.png (primeira página do guia no Canva).
+Link verificado em 24/10/2026.

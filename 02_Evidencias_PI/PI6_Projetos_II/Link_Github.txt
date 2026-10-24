@@ -1,0 +1,5 @@
+Evidências deste PI: https://github.com/deborakocks/TG_CDN_DeboraKocksNogueira/tree/main/02_Evidencias_PI/PI6_Projetos_II
+Código: a versão final dos notebooks está em repositório privado (acesso restrito às autoras); evidências nesta pasta
+Versão intermediária do código (setembro de 2026, anterior à verificação manual dos bairros e à avaliação final; 10 zonas e 2.456 registros), publicada pela coautora Stefanie Mayumi Inacio Kobayashi: https://github.com/MayKobayashi/PI6-Classificacao-Risco-Violencia
+Os números finais do projeto (2.513 registros, 9 zonas classificáveis, teste de permutação) estão no Relatorio_Final/Relatorio_PI6_Grupo_C_v4.pdf
+Aplicativo pi6-zonas (Databricks Apps, exige login no workspace): https://pi6-zonas-7474645265501383.aws.databricksapps.com

@@ -1,0 +1,5 @@
+Evidências deste PI: https://github.com/deborakocks/TG_CDN_DeboraKocksNogueira/tree/main/02_Evidencias_PI/PI4_Analise_II
+Código: scripts em Codigo_ETL/
+Repositório público do projeto (mantido por Stefanie Mayumi Inacio Kobayashi, integrante do grupo; autoras listadas no README): https://github.com/MayKobayashi/PI4-Violencia-Mulher-DDM
+Dashboard no Looker Studio: https://lookerstudio.google.com/s/p4VwL9Uz6Dk
+Guia de Uso online (Canva My Site, versão web do guia em Guia_Usuario/): https://manual-analise-de-ocorrencias.my.canva.site/

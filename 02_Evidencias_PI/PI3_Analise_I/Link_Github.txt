@@ -1,0 +1,3 @@
+Evidências deste PI: https://github.com/deborakocks/TG_CDN_DeboraKocksNogueira/tree/main/02_Evidencias_PI/PI3_Analise_I
+Código: notebook em Codigo/
+Repositório de código próprio do PI: não localizado

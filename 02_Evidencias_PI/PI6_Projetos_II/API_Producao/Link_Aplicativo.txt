@@ -1,0 +1,2 @@
+Aplicativo pi6-zonas (Databricks Apps, exige login no workspace): https://pi6-zonas-7474645265501383.aws.databricksapps.com
+O aplicativo lê apenas tabelas agregadas por zona; o acesso exige conta no workspace do projeto.

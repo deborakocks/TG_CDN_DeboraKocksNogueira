@@ -1,0 +1,29 @@
+# PI5 - Análise de Violência Contra a Mulher
+
+# Manipulação de dados
+pandas
+numpy
+
+# Visualização
+matplotlib
+seaborn
+plotly
+
+# Machine Learning
+scikit-learn
+xgboost
+imbalanced-learn
+joblib
+
+# Notebooks
+jupyter
+ipykernel
+
+# Utilitários
+python-dotenv
+openpyxl
+python-calamine
+rapidfuzz
+
+# Aplicativo interativo (app.py)
+streamlit

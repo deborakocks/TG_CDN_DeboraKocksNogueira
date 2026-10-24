@@ -1,0 +1,3 @@
+Evidências deste PI: https://github.com/deborakocks/TG_CDN_DeboraKocksNogueira/tree/main/02_Evidencias_PI/PI1_Negocios
+Repositório do grupo (Grupo 7, primeira entrega, quando a empresa ainda se chamava Hortopedia): https://github.com/cdn-grupo7/projetoGrupo7
+Código: não há código neste PI

@@ -1,0 +1,3 @@
+Evidências deste PI: https://github.com/deborakocks/TG_CDN_DeboraKocksNogueira/tree/main/02_Evidencias_PI/PI2_Visualizacao
+Código: arquivo-fonte do dashboard em Dashboard_PowerBI/
+Repositório de código próprio do PI: não localizado

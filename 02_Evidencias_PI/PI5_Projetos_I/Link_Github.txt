@@ -1,0 +1,4 @@
+Evidências deste PI: https://github.com/deborakocks/TG_CDN_DeboraKocksNogueira/tree/main/02_Evidencias_PI/PI5_Projetos_I
+Código: código em Codigo/ e notebooks em Notebooks_Python/
+Repositório público do projeto (mantido por Stefanie Mayumi Inacio Kobayashi, integrante do grupo; autoras listadas no README): https://github.com/MayKobayashi/PI5-Hotspots-Violencia
+Aplicação Streamlit: https://pifatec.useconectai.com.br/
