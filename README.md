@@ -125,7 +125,6 @@ Cada pasta de PI tem um arquivo `Link_Github.txt` com os links do repositório d
 |---|---|---|
 | PI IV | Dashboard no Looker Studio | https://lookerstudio.google.com/s/p4VwL9Uz6Dk |
 | PI IV | Guia de Uso do dashboard (Canva My Site) | https://manual-analise-de-ocorrencias.my.canva.site/ |
-| PI IV | Vídeo do pitch (Google Drive) | https://drive.google.com/file/d/1JaaZTdaHWzqQD9EKmWlUlwv7BOMX_750/view?usp=sharing |
 | PI V | Aplicação Streamlit | https://pifatec.useconectai.com.br/ |
 | PI VI | Aplicativo pi6-zonas (exige login no workspace e pode estar parado fora dos períodos de uso) | https://pi6-zonas-7474645265501383.aws.databricksapps.com |
 
