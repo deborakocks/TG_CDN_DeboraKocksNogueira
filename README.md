@@ -12,7 +12,7 @@
 
 Este repositório reúne o Trabalho de Graduação (TG) em formato de portfólio integrador e as evidências dos seis Projetos Integradores (PI) do curso. A organização tem como base a estrutura de pastas da seção 5.2 do Manual do TG de CDN (v1.3), com as pastas 01 a 03.
 
-**Documento do TG:** [PDF](01_Documento_ABNT/TG_Débora_Final.pdf) · [Word](01_Documento_ABNT/TG_Débora_Final.docx)
+**Documento do TG:** [PDF](01_Documento_ABNT/TG_CDN_DeboraKocksNogueira.pdf) · [Word](01_Documento_ABNT/TG_CDN_DeboraKocksNogueira.docx)
 
 ---
 
@@ -95,7 +95,7 @@ TG_CDN_DeboraKocksNogueira/
 
 | Arquivo | Descrição |
 |---|---|
-| `TG_Débora_Final.pdf` / `.docx` | Versão final do Trabalho de Graduação |
+| `TG_CDN_DeboraKocksNogueira.pdf` / `.docx` | Versão final do Trabalho de Graduação |
 | `Matriz_de_Evidencias_Portfolio.xlsx` | Planilha que relaciona cada evidência ao PI e à competência do egresso |
 
 ### 02_Evidencias_PI
