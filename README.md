@@ -8,7 +8,7 @@
 | **Orientador** | Prof. Hélio Rubens Jacintho Pereira Júnior |
 | **Curso** | Curso Superior de Tecnologia em Ciência de Dados para Negócios (CDN) |
 | **Instituição** | Faculdade de Tecnologia de Votorantim Benedicto Pagliato (Fatec Votorantim) – Centro Paula Souza |
-| **Período** | 2024 a 2026 (conclusão no 2º semestre de 2026) |
+| **Período** | 2024 a 2026 |
 
 Este repositório reúne o Trabalho de Graduação (TG) em formato de portfólio integrador e as evidências dos seis Projetos Integradores (PI) do curso. A organização tem como base a estrutura de pastas da seção 5.2 do Manual do TG de CDN (v1.3), com as pastas 01 a 03.
 
