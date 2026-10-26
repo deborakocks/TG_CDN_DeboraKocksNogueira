@@ -96,7 +96,7 @@ TG_CDN_DeboraKocksNogueira/
 | Arquivo | Descrição |
 |---|---|
 | `TG_CDN_DeboraKocksNogueira.pdf` / `.docx` | Versão final do Trabalho de Graduação |
-| `Matriz_de_Evidencias_Portfolio.xlsx` | Planilha que relaciona cada evidência ao PI e à competência do egresso |
+| `Matriz_de_Evidencias_Portfolio.xlsx` | Planilha que relaciona cada evidência ao PI e competências |
 
 ### 02_Evidencias_PI
 
