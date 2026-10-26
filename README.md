@@ -128,11 +128,6 @@ Cada pasta de PI tem um arquivo `Link_Github.txt` com os links do repositório d
 | PI V | Aplicação Streamlit | https://pifatec.useconectai.com.br/ |
 | PI VI | Aplicativo pi6-zonas (exige login no workspace e pode estar parado fora dos períodos de uso) | https://pi6-zonas-7474645265501383.aws.databricksapps.com |
 
-## Arquivo compactado para entrega
-
-Conforme a seção 5.2 do Manual, o mesmo conteúdo deste repositório é entregue em meio digital, junto com a cópia física do TG, no arquivo:
-
-`CDN_2026_2_KocksDebora_DesenvolvimentoCompetenciasCienciaDados.zip`
 
 ## Proteção de dados e itens não publicados
 
